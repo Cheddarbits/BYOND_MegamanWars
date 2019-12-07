@@ -1,0 +1,5 @@
+1/End: Normal dash, goes 8-10 spaces
+
+7/Home: Melee dash, goes 4-5 spaces, does 6 damage a hit, small delay
+
+9/PgUp: Shoot, does 3-4 damage, small delay

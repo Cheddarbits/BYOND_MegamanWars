@@ -1,0 +1,31 @@
+// BEGIN_INTERNALS
+/*
+MAP_ZOOM: 2.000
+PACKAGE_DMS_URL: 
+PACKAGE_DMB_HUB: 
+LAST_COMPILE_TIME: 1561056685
+PACKAGE_DMS_RSCCHECK: OFF
+DIR: Champions Champions\Customs\RyokashiCustom Champions\HanuMachine Champions\Soldiers Code Code\Actions Code\AI Code\Battle Midis\Classic Turfs Turfs\Battlefield Turfs\highway Turfs\highway\backup 
+PACKAGE_RSC_NAME: C:\Megaman Wars 3.5\XVsZerorsc.zip
+AUTO_FILE_DIR: ON
+PACKAGE_DMB_INFO: 
+PACKAGE_DMB_CLEANCHECK: ON
+PACKAGE_DME_CLEANCHECK: OFF
+PACKAGE_DMS_CLEANCHECK: OFF
+PACKAGE_DMS_INFO: 
+MAP_ICON_TYPE: 0
+PACKAGE_DME_NAME: C:\Megaman Wars 3.5\XVsZero_src.zip
+LAST_COMPILE_VERSION: 512.1469
+PACKAGE_DMS_NAME: C:\Megaman Wars 3.5\XVsZero_link.zip
+PACKAGE_DME_START: 
+PACKAGE_TYPE: 0
+PACKAGE_DME_INFO: 
+PACKAGE_RSC_CLEANCHECK: ON
+PACKAGE_DMS_EXECHECK: OFF
+PACKAGE_DMB_EXECHECK: OFF
+WINDOW: Code\Automated_Management.dm;Code\_AI.dm;Code\Login.dm;Code\Skill_Checks.dm;Code\ScoreBoard.dm;Code\Save_v0002.dm;Code\Save_CLEAN.dm;Code\Event_procs.dm;Code\EnergyDrain.dm;Code\Meter.dm;Map.dmp;Code\Event System.dm;Code\Mapping.dm;Code\Actions\Smash.dm
+FILE: Code\Actions\Smash.dm
+PACKAGE_DMB_NAME: C:\Users\laure\Documents\BYOND\MMW_Host.zip
+PACKAGE_DME_DEMO: 
+*/
+// END_INTERNALS

@@ -1,0 +1,554 @@
+"aa" = (/turf/ForestMap/Forest/forestfloor/A7,/area)
+"ab" = (/turf/ForestMap/Forest/forestfloor/A6,/area)
+"ac" = (/turf/ForestMap/Forest/forestfloorgrass/A17,/area)
+"ad" = (/turf/ForestMap/Forest/forestfloorgrass/A18,/area)
+"ae" = (/turf/ForestMap/Forest/forestfloorgrass/A20,/area)
+"af" = (/turf/ForestMap/Forest/forestfloorgrass/A6,/area)
+"ag" = (/turf/ForestMap/Forest/forestfloorgrass/A8,/area)
+"ah" = (/turf/ForestMap/Forest/forestfloorgrass/A10,/area)
+"ai" = (/turf/ForestMap/Forest/forestfloorgrass/A12,/area)
+"aj" = (/turf/ForestMap/Forest/forestfloorgrass/A14,/area)
+"ak" = (/turf/ForestMap/Forest/forestfloorgrass/A15,/area)
+"al" = (/turf/ForestMap/Forest/forestfloorgrass/A16,/area)
+"am" = (/turf/ForestMap/Forest/forestfloorgrass/A19,/area)
+"an" = (/turf/ForestMap/Forest/forestfloorgrass/A21,/area)
+"ao" = (/turf/ForestMap/Forest/forestfloorgrass/A7,/area)
+"ap" = (/turf/ForestMap/Forest/forestfloorgrass/A9,/area)
+"aq" = (/turf/ForestMap/Forest/forestfloorgrass/A11,/area)
+"ar" = (/turf/ForestMap/Forest/forestfloorgrass/A13,/area)
+"as" = (/turf/ForestMap/Forest/forestfloorgrass/A14,/turf/ForestMap/Forest/forestfloorgrass/A1,/area)
+"at" = (/turf/ForestMap/Forest/forestfloorgrass/A17,/turf/ForestMap/Forest/forestfloorgrass/A2,/area)
+"au" = (/turf/ForestMap/Forest/forestfloorgrass/A18,/turf/ForestMap/Forest/forestfloorgrass/A3,/area)
+"av" = (/turf/ForestMap/Forest/forestfloorgrass/A20,/turf/ForestMap/Forest/forestfloorgrass/A4,/area)
+"aw" = (/turf/ForestMap/Forest/forestfloorgrass/A6,/turf/ForestMap/Forest/forestfloorgrass/A5,/area)
+"ax" = (/turf/ForestMap/Forest/forestfloorgrass/A8,/turf/ForestMap/Forest/forestfloorgrass/A1,/area)
+"ay" = (/turf/ForestMap/Forest/forestfloorgrass/A10,/turf/ForestMap/Forest/forestfloorgrass/A2,/area)
+"az" = (/turf/ForestMap/Forest/forestfloorgrass/A12,/turf/ForestMap/Forest/forestfloorgrass/A3,/area)
+"aA" = (/turf/ForestMap/Forest/forestfloorgrass/A14,/turf/ForestMap/Forest/forestfloorgrass/A4,/area)
+"aB" = (/turf/ForestMap/Forest/forestfloorgrass/A17,/turf/ForestMap/Forest/forestfloorgrass/A5,/area)
+"aC" = (/turf/ForestMap/Forest/forestfloor/A1,/area)
+"aD" = (/turf/ForestMap/Forest/forestfloor/A2,/area)
+"aE" = (/turf/ForestMap/Forest/forestfloor/A3,/area)
+"aF" = (/turf/ForestMap/Forest/forestfloor/A4,/area)
+"aG" = (/turf/ForestMap/Forest/forestfloor/A5,/area)
+"aH" = (/turf/ForestMap/Forest/forestfloorgrass/A19,/turf/NoShoot,/area)
+"aI" = (/turf/ForestMap/Forest/forestfloorgrass/A21,/turf/NoShoot,/area)
+"aJ" = (/turf/ForestMap/Forest/forestfloorgrass/A7,/turf/NoShoot,/area)
+"aK" = (/turf/ForestMap/Forest/forestfloorgrass/A9,/turf/NoShoot,/area)
+"aL" = (/turf/ForestMap/Forest/forestfloorgrass/A11,/turf/NoShoot,/area)
+"aM" = (/turf/ForestMap/Forest/forestfloorgrass/A18,/turf/NoShoot,/area)
+"aN" = (/turf/ForestMap/Forest/forestfloorgrass/A20,/turf/Dense,/area)
+"aO" = (/turf/ForestMap/Forest/forestfloorgrass/A6,/turf/Dense,/area)
+"aP" = (/turf/ForestMap/Forest/forestfloorgrass/A8,/turf/Dense,/area)
+"aQ" = (/turf/ForestMap/Forest/forestfloorgrass/A10,/turf/NoShoot,/area)
+"aR" = (/turf/ForestMap/Forest/forestfloorgrass/A7,/turf/FlagPoint,/area)
+"aS" = (/turf/ForestMap/Forest/forestfloorgrass/A18,/turf/ForestMap/Forest/forestfloorgrass/A3,/turf/NoShoot,/area)
+"aT" = (/turf/ForestMap/Forest/forestfloorgrass/A10,/turf/ForestMap/Forest/forestfloorgrass/A2,/turf/NoShoot,/area)
+"aU" = (/turf/ForestMap/Forest/forestfloorgrass/A11,/turf/ForestMap/Forest/forestfloorgrass/A1,/area)
+"aV" = (/turf/ForestMap/Forest/forestfloorgrass/A13,/turf/ForestMap/Forest/forestfloorgrass/A2,/area)
+"aW" = (/turf/ForestMap/Forest/forestfloorgrass/A15,/turf/ForestMap/Forest/forestfloorgrass/A3,/area)
+"aX" = (/turf/ForestMap/Forest/forestfloorgrass/A16,/turf/ForestMap/Forest/forestfloorgrass/A4,/area)
+"aY" = (/turf/ForestMap/Forest/forestfloorgrass/A19,/turf/ForestMap/Forest/forestfloorgrass/A5,/area)
+"aZ" = (/turf/ForestMap/Forest/forestfloorgrass/A21,/turf/ForestMap/Forest/forestfloorgrass/A1,/area)
+"ba" = (/turf/ForestMap/Forest/forestfloor/A3,/turf/NoShoot,/turf/Dense,/area)
+"bb" = (/turf/ForestMap/Forest/forestfloor/A4,/turf/Dense,/turf/Capsules/Capsule2,/area)
+"bc" = (/turf/ForestMap/Forest/forestfloor/A5,/turf/Dense,/area)
+"bd" = (/turf/ForestMap/Forest/forestfloor/A1,/turf/Dense,/area)
+"be" = (/turf/ForestMap/Forest/forestfloor/A2,/turf/NoShoot,/turf/Dense,/area)
+"bf" = (/turf/ForestMap/Forest/forestfloorgrass/A8,/turf/NoShoot,/area)
+"bg" = (/turf/ForestMap/Forest/forestfloorgrass/A12,/turf/NoShoot,/area)
+"bh" = (/turf/ForestMap/Forest/forestfloorgrass/A9,/turf/Dense,/area)
+"bi" = (/turf/ForestMap/Forest/forestfloorgrass/A11,/turf/Dense,/area)
+"bj" = (/turf/ForestMap/Forest/forestfloorgrass/A13,/turf/Dense,/area)
+"bk" = (/turf/ForestMap/Forest/forestfloorgrass/A15,/turf/NoShoot,/area)
+"bl" = (/turf/ForestMap/Forest/forestfloorgrass/A6,/turf/NoShoot,/area)
+"bm" = (/turf/ForestMap/Forest/forestfloorgrass/A10,/turf/FlagPoint,/area)
+"bn" = (/turf/ForestMap/Forest/forestfloorgrass/A14,/turf/NoShoot,/area)
+"bo" = (/turf/ForestMap/Forest/forestfloorgrass/A10,/turf/ForestMap/Forest/forestfloorgrass/A1,/area)
+"bp" = (/turf/ForestMap/Forest/forestfloorgrass/A12,/turf/ForestMap/Forest/forestfloorgrass/A2,/area)
+"bq" = (/turf/ForestMap/Forest/forestfloorgrass/A14,/turf/ForestMap/Forest/forestfloorgrass/A3,/area)
+"br" = (/turf/ForestMap/Forest/forestfloorgrass/A17,/turf/ForestMap/Forest/forestfloorgrass/A4,/area)
+"bs" = (/turf/ForestMap/Forest/forestfloorgrass/A6,/turf/ForestMap/Forest/forestfloorgrass/A3,/turf/NoShoot,/area)
+"bt" = (/turf/ForestMap/Forest/forestfloor/A3,/turf/Dense,/turf/Capsules/Capsule2,/area)
+"bu" = (/turf/ForestMap/Forest/forestfloor/A4,/turf/Dense,/area)
+"bv" = (/turf/ForestMap/Forest/forestfloorgrass/A14,/turf/ForestMap/Forest/forestfloorgrass/A4,/turf/NoShoot,/area)
+"bw" = (/turf/ForestMap/Forest/forestfloorgrass/A7,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "0,2"},/area)
+"bx" = (/turf/ForestMap/Forest/forestfloorgrass/A9,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "1,2"},/area)
+"by" = (/turf/ForestMap/Forest/forestfloorgrass/A11,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "2,2"},/area)
+"bz" = (/turf/ForestMap/Forest/forestfloorgrass/A13,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "3,2"},/area)
+"bA" = (/turf/ForestMap/Forest/forestfloorgrass/A15,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "4,2"},/area)
+"bB" = (/turf/ForestMap/Forest/forestfloorgrass/A16,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "5,2"},/area)
+"bC" = (/turf/ForestMap/Forest/forestfloorgrass/A19,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "6,2"},/area)
+"bD" = (/turf/ForestMap/Forest/forestfloorgrass/A21,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "7,2"},/area)
+"bE" = (/turf/ForestMap/Forest/forestfloorgrass/A7,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "8,2"},/area)
+"bF" = (/turf/ForestMap/Forest/forestfloorgrass/A9,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "9,2"},/area)
+"bG" = (/turf/ForestMap/Forest/forestfloorgrass/A11,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "10,2"},/area)
+"bH" = (/turf/ForestMap/Forest/forestfloorgrass/A13,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "11,2"},/area)
+"bI" = (/turf/ForestMap/Forest/forestfloorgrass/A15,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "12,2"},/area)
+"bJ" = (/turf/ForestMap/Forest/forestfloorgrass/A16,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "13,2"},/area)
+"bK" = (/turf/ForestMap/Forest/forestfloorgrass/A19,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "14,2"},/area)
+"bL" = (/turf/ForestMap/Forest/forestfloorgrass/A21,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "15,2"},/turf/ForestMap/Forest/forestfloorgrass/A1,/area)
+"bM" = (/turf/ForestMap/Forest/forestfloorgrass/A16,/turf/ForestMap/Forest/forestfloorgrass/A5,/area)
+"bN" = (/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "10,2"},/turf/ForestMap/Forest/forestfloor/A6,/area)
+"bO" = (/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "11,2"},/turf/ForestMap/Forest/forestfloor/A7,/area)
+"bP" = (/turf/ForestMap/Forest/forestfloorgrass/A17,/turf/NoShoot,/area)
+"bQ" = (/turf/ForestMap/Forest/forestfloorgrass/A6,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "0,1"},/area)
+"bR" = (/turf/ForestMap/Forest/forestfloorgrass/A8,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "1,1"},/area)
+"bS" = (/turf/ForestMap/Forest/forestfloorgrass/A10,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "2,1"},/area)
+"bT" = (/turf/ForestMap/Forest/forestfloorgrass/A12,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "3,1"},/area)
+"bU" = (/turf/ForestMap/Forest/forestfloorgrass/A14,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "4,1"},/area)
+"bV" = (/turf/ForestMap/Forest/forestfloorgrass/A17,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "5,1"},/area)
+"bW" = (/turf/ForestMap/Forest/forestfloorgrass/A18,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "6,1"},/area)
+"bX" = (/turf/ForestMap/Forest/forestfloorgrass/A20,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "7,1"},/area)
+"bY" = (/turf/ForestMap/Forest/forestfloorgrass/A6,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "8,1"},/area)
+"bZ" = (/turf/ForestMap/Forest/forestfloorgrass/A8,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "9,1"},/area)
+"ca" = (/turf/ForestMap/Forest/forestfloorgrass/A10,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "10,1"},/area)
+"cb" = (/turf/ForestMap/Forest/forestfloorgrass/A12,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "11,1"},/area)
+"cc" = (/turf/ForestMap/Forest/forestfloorgrass/A14,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "12,1"},/area)
+"cd" = (/turf/ForestMap/Forest/forestfloorgrass/A17,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "13,1"},/area)
+"ce" = (/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "14,1"},/turf/ForestMap/Forest/forestfloorgrass/A5,/area)
+"cf" = (/turf/ForestMap/Forest/forestfloorgrass/A18,/turf/ForestMap/Forest/forestfloorgrass/A1,/area)
+"cg" = (/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "10,1"},/turf/ForestMap/Forest/forestfloor/A7,/area)
+"ch" = (/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "11,1"},/turf/ForestMap/Forest/forestfloor/A6,/area)
+"ci" = (/turf/ForestMap/Forest/forestfloorgrass/A16,/turf/NoShoot,/area)
+"cj" = (/turf/ForestMap/Forest/forestfloorgrass/A20,/turf/NoShoot,/area)
+"ck" = (/turf/ForestMap/Forest/forestfloorgrass/A7,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "0,0"},/turf/ForestMap/Forest/forestfloorgrass/A1,/area)
+"cl" = (/turf/ForestMap/Forest/forestfloorgrass/A9,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "1,0"},/turf/ForestMap/Forest/forestfloorgrass/A2,/area)
+"cm" = (/turf/ForestMap/Forest/forestfloorgrass/A11,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "2,0"},/turf/ForestMap/Forest/forestfloorgrass/A3,/area)
+"cn" = (/turf/ForestMap/Forest/forestfloorgrass/A13,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "3,0"},/turf/ForestMap/Forest/forestfloorgrass/A4,/area)
+"co" = (/turf/ForestMap/Forest/forestfloorgrass/A15,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "4,0"},/turf/ForestMap/Forest/forestfloorgrass/A5,/area)
+"cp" = (/turf/ForestMap/Forest/forestfloorgrass/A16,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "5,0"},/turf/ForestMap/Forest/forestfloorgrass/A1,/area)
+"cq" = (/turf/ForestMap/Forest/forestfloorgrass/A19,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "6,0"},/turf/ForestMap/Forest/forestfloorgrass/A2,/area)
+"cr" = (/turf/ForestMap/Forest/forestfloorgrass/A21,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "7,0"},/turf/ForestMap/Forest/forestfloorgrass/A3,/area)
+"cs" = (/turf/ForestMap/Forest/forestfloorgrass/A7,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "8,0"},/turf/ForestMap/Forest/forestfloorgrass/A4,/area)
+"ct" = (/turf/ForestMap/Forest/forestfloorgrass/A9,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "9,0"},/turf/ForestMap/Forest/forestfloorgrass/A5,/area)
+"cu" = (/turf/ForestMap/Forest/forestfloorgrass/A11,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "10,0"},/turf/ForestMap/Forest/forestfloorgrass/A1,/area)
+"cv" = (/turf/ForestMap/Forest/forestfloorgrass/A13,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "11,0"},/turf/ForestMap/Forest/forestfloorgrass/A2,/area)
+"cw" = (/turf/ForestMap/Forest/forestfloorgrass/A15,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "12,0"},/turf/ForestMap/Forest/forestfloorgrass/A3,/area)
+"cx" = (/turf/ForestMap/Forest/forestfloorgrass/A16,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "13,0"},/turf/ForestMap/Forest/forestfloorgrass/A4,/area)
+"cy" = (/turf/ForestMap/Forest/forestfloorgrass/A21,/turf/ForestMap/Forest/forestfloorgrass/A2,/area)
+"cz" = (/turf/ForestMap/Forest/forestfloorgrass/A7,/turf/ForestMap/Forest/forestfloorgrass/A3,/area)
+"cA" = (/turf/ForestMap/Forest/forestfloorgrass/A9,/turf/ForestMap/Forest/forestfloorgrass/A4,/area)
+"cB" = (/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "10,0"},/turf/ForestMap/Forest/forestfloor/A6,/area)
+"cC" = (/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "11,0"},/turf/ForestMap/Forest/forestfloor/A7,/area)
+"cD" = (/turf/ForestMap/Forest/forestfloorgrass/A10,/turf/NoBarrier,/area)
+"cE" = (/turf/ForestMap/Forest/forestfloorgrass/A12,/turf/NoBarrier,/area)
+"cF" = (/turf/ForestMap/Forest/forestfloorgrass/A14,/turf/NoBarrier,/area)
+"cG" = (/turf/ForestMap/Forest/forestfloorgrass/A17,/turf/Dense,/area)
+"cH" = (/turf/ForestMap/Forest/forestfloorgrass/A19,/turf/Dense,/area)
+"cI" = (/turf/ForestMap/Forest/forestfloorgrass/A21,/turf/Dense,/area)
+"cJ" = (/turf/ForestMap/Forest/forestfloorgrass/A11,/turf/NoBarrier,/area)
+"cK" = (/turf/ForestMap/Forest/forestfloorgrass/A13,/turf/NoBarrier,/area)
+"cL" = (/turf/ForestMap/Forest/forestfloorgrass/A15,/turf/NoBarrier,/area)
+"cM" = (/turf/ForestMap/Forest/forestfloorgrass/A18,/turf/FlagPoint,/area)
+"cN" = (/turf/ForestMap/Forest/forestfloor/A1,/turf/Dense,/turf/Capsules/Capsule2,/area)
+"cO" = (/turf/ForestMap/Forest/forestfloor/A2,/turf/Dense,/area)
+"cP" = (/turf/ForestMap/Forest/forestfloor/A3,/turf/Dense,/area)
+"cQ" = (/turf/ForestMap/Forest/forestfloorgrass/A11,/turf/ForestMap/Forest/forestfloorgrass/A5,/area)
+"cR" = (/turf/ForestMap/Forest/forestfloorgrass/A12,/turf/ForestMap/Forest/forestfloorgrass/A1,/area)
+"cS" = (/turf/ForestMap/Forest/forestfloorgrass/A14,/turf/ForestMap/Forest/forestfloorgrass/A2,/area)
+"cT" = (/turf/ForestMap/Forest/forestfloorgrass/A17,/turf/ForestMap/Forest/forestfloorgrass/A3,/area)
+"cU" = (/turf/ForestMap/Forest/forestfloorgrass/A18,/turf/ForestMap/Forest/forestfloorgrass/A4,/area)
+"cV" = (/turf/ForestMap/Forest/forestfloorgrass/A20,/turf/ForestMap/Forest/forestfloorgrass/A5,/area)
+"cW" = (/turf/ForestMap/Forest/forestfloorgrass/A16,/turf/NoBarrier,/area)
+"cX" = (/turf/ForestMap/Forest/forestfloorgrass/A18,/turf/NoBarrier,/area)
+"cY" = (/turf/ForestMap/Forest/forestfloorgrass/A20,/turf/NoBarrier,/area)
+"cZ" = (/turf/ForestMap/Forest/forestfloorgrass/A18,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "0,2"},/area)
+"da" = (/turf/ForestMap/Forest/forestfloorgrass/A20,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "1,2"},/area)
+"db" = (/turf/ForestMap/Forest/forestfloorgrass/A6,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "2,2"},/area)
+"dc" = (/turf/ForestMap/Forest/forestfloorgrass/A8,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "3,2"},/area)
+"dd" = (/turf/ForestMap/Forest/forestfloorgrass/A10,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "4,2"},/area)
+"de" = (/turf/ForestMap/Forest/forestfloorgrass/A7,/turf/Dense,/area)
+"df" = (/turf/ForestMap/Forest/forestfloorgrass/A17,/turf/NoBarrier,/area)
+"dg" = (/turf/ForestMap/Forest/forestfloorgrass/A19,/turf/NoBarrier,/area)
+"dh" = (/turf/ForestMap/Forest/forestfloorgrass/A21,/turf/NoBarrier,/area)
+"di" = (/turf/ForestMap/Forest/forestfloorgrass/A19,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "0,1"},/area)
+"dj" = (/turf/ForestMap/Forest/forestfloorgrass/A21,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "1,1"},/area)
+"dk" = (/turf/ForestMap/Forest/forestfloorgrass/A7,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "2,1"},/area)
+"dl" = (/turf/ForestMap/Forest/forestfloorgrass/A9,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "3,1"},/area)
+"dm" = (/turf/ForestMap/Forest/forestfloorgrass/A11,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "4,1"},/area)
+"dn" = (/turf/ForestMap/Forest/forestfloorgrass/A8,/turf/FlagPoint,/area)
+"do" = (/turf/ForestMap/Forest/forestfloorgrass/A12,/turf/ForestMap/Forest/forestfloorgrass/A1,/turf/NoBarrier,/area)
+"dp" = (/turf/ForestMap/Forest/forestfloorgrass/A15,/turf/ForestMap/Forest/forestfloorgrass/A2,/turf/NoBarrier,/area)
+"dq" = (/turf/ForestMap/Forest/forestfloorgrass/A16,/turf/ForestMap/Forest/forestfloorgrass/A3,/turf/NoBarrier,/area)
+"dr" = (/turf/ForestMap/Forest/forestfloorgrass/A18,/turf/ForestMap/Forest/forestfloorgrass/A4,/turf/NoBarrier,/area)
+"ds" = (/turf/ForestMap/Forest/forestfloorgrass/A20,/turf/ForestMap/Forest/forestfloorgrass/A5,/turf/NoBarrier,/area)
+"dt" = (/turf/ForestMap/Forest/forestfloorgrass/A18,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "0,0"},/turf/ForestMap/Forest/forestfloorgrass/A1,/area)
+"du" = (/turf/ForestMap/Forest/forestfloorgrass/A20,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "1,0"},/turf/ForestMap/Forest/forestfloorgrass/A2,/turf/ForestMap/Forest/forestfloorgrass/A3,/area)
+"dv" = (/turf/ForestMap/Forest/forestfloorgrass/A6,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "2,0"},/turf/ForestMap/Forest/forestfloorgrass/A3,/area)
+"dw" = (/turf/ForestMap/Forest/forestfloorgrass/A8,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "3,0"},/turf/ForestMap/Forest/forestfloorgrass/A4,/area)
+"dx" = (/turf/ForestMap/Forest/forestfloorgrass/A10,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "4,0"},/turf/ForestMap/Forest/forestfloorgrass/A5,/area)
+"dy" = (/turf/ForestMap/Forest/forestfloorgrass/A10,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "0,2"},/area)
+"dz" = (/turf/ForestMap/Forest/forestfloorgrass/A12,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "1,2"},/area)
+"dA" = (/turf/ForestMap/Forest/forestfloorgrass/A14,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "2,2"},/area)
+"dB" = (/turf/ForestMap/Forest/forestfloorgrass/A17,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "3,2"},/area)
+"dC" = (/turf/ForestMap/Forest/forestfloorgrass/A18,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "4,2"},/area)
+"dD" = (/turf/ForestMap/Forest/forestfloorgrass/A20,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "5,2"},/area)
+"dE" = (/turf/ForestMap/Forest/forestfloorgrass/A6,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "6,2"},/area)
+"dF" = (/turf/ForestMap/Forest/forestfloorgrass/A8,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "7,2"},/area)
+"dG" = (/turf/ForestMap/Forest/forestfloorgrass/A11,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "0,1"},/area)
+"dH" = (/turf/ForestMap/Forest/forestfloorgrass/A13,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "1,1"},/area)
+"dI" = (/turf/ForestMap/Forest/forestfloorgrass/A15,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "2,1"},/area)
+"dJ" = (/turf/ForestMap/Forest/forestfloorgrass/A16,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "3,1"},/area)
+"dK" = (/turf/ForestMap/Forest/forestfloorgrass/A19,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "4,1"},/area)
+"dL" = (/turf/ForestMap/Forest/forestfloorgrass/A21,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "5,1"},/area)
+"dM" = (/turf/ForestMap/Forest/forestfloorgrass/A7,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "6,1"},/area)
+"dN" = (/turf/ForestMap/Forest/forestfloorgrass/A9,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "7,1"},/area)
+"dO" = (/turf/ForestMap/Forest/forestfloorgrass/A10,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "0,0"},/turf/ForestMap/Forest/forestfloorgrass/A4,/area)
+"dP" = (/turf/ForestMap/Forest/forestfloorgrass/A12,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "1,0"},/turf/ForestMap/Forest/forestfloorgrass/A5,/area)
+"dQ" = (/turf/ForestMap/Forest/forestfloorgrass/A14,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "2,0"},/turf/ForestMap/Forest/forestfloorgrass/A1,/area)
+"dR" = (/turf/ForestMap/Forest/forestfloorgrass/A17,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "3,0"},/turf/ForestMap/Forest/forestfloorgrass/A2,/area)
+"dS" = (/turf/ForestMap/Forest/forestfloorgrass/A18,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "4,0"},/turf/ForestMap/Forest/forestfloorgrass/A3,/area)
+"dT" = (/turf/ForestMap/Forest/forestfloorgrass/A10,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "0,0"},/turf/ForestMap/Forest/forestfloorgrass/A1,/area)
+"dU" = (/turf/ForestMap/Forest/forestfloorgrass/A12,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "1,0"},/turf/ForestMap/Forest/forestfloorgrass/A2,/area)
+"dV" = (/turf/ForestMap/Forest/forestfloorgrass/A14,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "2,0"},/turf/ForestMap/Forest/forestfloorgrass/A3,/area)
+"dW" = (/turf/ForestMap/Forest/forestfloorgrass/A17,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "3,0"},/turf/ForestMap/Forest/forestfloorgrass/A4,/area)
+"dX" = (/turf/ForestMap/Forest/forestfloorgrass/A18,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "4,0"},/turf/ForestMap/Forest/forestfloorgrass/A5,/area)
+"dY" = (/turf/ForestMap/Forest/forestfloorgrass/A20,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "5,0"},/turf/ForestMap/Forest/forestfloorgrass/A1,/area)
+"dZ" = (/turf/ForestMap/Forest/forestfloorgrass/A6,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "6,0"},/turf/ForestMap/Forest/forestfloorgrass/A2,/area)
+"ea" = (/turf/ForestMap/Forest/forestfloorgrass/A8,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "7,0"},/turf/ForestMap/Forest/forestfloorgrass/A3,/area)
+"eb" = (/turf/ForestMap/Forest/forestfloorgrass/A10,/turf/ForestMap/Forest/forestfloorgrass/A4,/area)
+"ec" = (/turf/ForestMap/Forest/forestfloorgrass/A12,/turf/ForestMap/Forest/forestfloorgrass/A5,/area)
+"ed" = (/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "5,1"},/turf/ForestMap/Forest/forestfloor/A1,/area)
+"ee" = (/turf/ForestMap/Forest/forestfloorgrass/A7,/turf/ForestMap/Forest/forestfloorgrass/A5,/area)
+"ef" = (/turf/ForestMap/Forest/forestfloorgrass/A9,/turf/ForestMap/Forest/forestfloorgrass/A1,/area)
+"eg" = (/turf/ForestMap/Forest/forestfloorgrass/A11,/turf/ForestMap/Forest/forestfloorgrass/A2,/area)
+"eh" = (/turf/ForestMap/Forest/forestfloorgrass/A13,/turf/ForestMap/Forest/forestfloorgrass/A3,/area)
+"ei" = (/turf/ForestMap/Forest/forestfloorgrass/A15,/turf/ForestMap/Forest/forestfloorgrass/A4,/area)
+"ej" = (/turf/ForestMap/Forest/forestfloorgrass/A6,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "0,2"},/area)
+"ek" = (/turf/ForestMap/Forest/forestfloorgrass/A8,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "1,2"},/area)
+"el" = (/turf/ForestMap/Forest/forestfloorgrass/A10,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "2,2"},/area)
+"em" = (/turf/ForestMap/Forest/forestfloorgrass/A12,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "3,2"},/area)
+"en" = (/turf/ForestMap/Forest/forestfloorgrass/A14,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "4,2"},/area)
+"eo" = (/turf/ForestMap/Forest/forestfloorgrass/A17,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "5,2"},/area)
+"ep" = (/turf/ForestMap/Forest/forestfloorgrass/A18,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "6,2"},/area)
+"eq" = (/turf/ForestMap/Forest/forestfloorgrass/A20,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "7,2"},/area)
+"er" = (/turf/ForestMap/Forest/forestfloorgrass/A6,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "8,2"},/area)
+"es" = (/turf/ForestMap/Forest/forestfloorgrass/A8,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "9,2"},/area)
+"et" = (/turf/ForestMap/Forest/forestfloorgrass/A10,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "10,2"},/area)
+"eu" = (/turf/ForestMap/Forest/forestfloorgrass/A12,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "11,2"},/area)
+"ev" = (/turf/ForestMap/Forest/forestfloorgrass/A14,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "12,2"},/area)
+"ew" = (/turf/ForestMap/Forest/forestfloorgrass/A17,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "13,2"},/turf/ForestMap/Forest/forestfloorgrass/A4,/area)
+"ex" = (/turf/ForestMap/Forest/forestfloorgrass/A18,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "14,2"},/turf/ForestMap/Forest/forestfloorgrass/A5,/area)
+"ey" = (/turf/ForestMap/Forest/forestfloorgrass/A20,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "15,2"},/turf/ForestMap/Forest/forestfloorgrass/A1,/area)
+"ez" = (/turf/ForestMap/Forest/forestfloorgrass/A6,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "16,2"},/turf/ForestMap/Forest/forestfloorgrass/A2,/area)
+"eA" = (/turf/ForestMap/Forest/forestfloorgrass/A8,/turf/ForestMap/Forest/forestfloorgrass/A3,/area)
+"eB" = (/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "5,0"},/turf/ForestMap/Forest/forestfloor/A7,/area)
+"eC" = (/turf/ForestMap/Forest/forestfloorgrass/A17,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "13,2"},/area)
+"eD" = (/turf/ForestMap/Forest/forestfloorgrass/A18,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "14,2"},/area)
+"eE" = (/turf/ForestMap/Forest/forestfloorgrass/A20,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "15,2"},/area)
+"eF" = (/turf/ForestMap/Forest/forestfloorgrass/A6,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "16,2"},/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "0,2"},/area)
+"eG" = (/turf/ForestMap/Forest/forestfloorgrass/A6,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "16,2"},/area)
+"eH" = (/turf/ForestMap/Forest/forestfloorgrass/A14,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "10,2"},/area)
+"eI" = (/turf/ForestMap/Forest/forestfloorgrass/A17,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "11,2"},/area)
+"eJ" = (/turf/ForestMap/Forest/forestfloorgrass/A18,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "12,2"},/area)
+"eK" = (/turf/ForestMap/Forest/forestfloorgrass/A20,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "13,2"},/area)
+"eL" = (/turf/ForestMap/Forest/forestfloorgrass/A14,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "1,2"},/area)
+"eM" = (/turf/ForestMap/Forest/forestfloorgrass/A17,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "2,2"},/area)
+"eN" = (/turf/ForestMap/Forest/forestfloorgrass/A18,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "3,2"},/area)
+"eO" = (/turf/ForestMap/Forest/forestfloorgrass/A20,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "4,2"},/area)
+"eP" = (/turf/ForestMap/Forest/forestfloorgrass/A6,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "5,2"},/area)
+"eQ" = (/turf/ForestMap/Forest/forestfloorgrass/A8,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "6,2"},/area)
+"eR" = (/turf/ForestMap/Forest/forestfloorgrass/A10,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "7,2"},/area)
+"eS" = (/turf/ForestMap/Forest/forestfloorgrass/A12,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "8,2"},/area)
+"eT" = (/turf/ForestMap/Forest/forestfloorgrass/A14,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "9,2"},/area)
+"eU" = (/turf/ForestMap/Forest/forestfloorgrass/A17,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "10,2"},/area)
+"eV" = (/turf/ForestMap/Forest/forestfloorgrass/A18,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "11,2"},/area)
+"eW" = (/turf/ForestMap/Forest/forestfloorgrass/A20,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "12,2"},/area)
+"eX" = (/turf/ForestMap/Forest/forestfloorgrass/A7,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "0,1"},/area)
+"eY" = (/turf/ForestMap/Forest/forestfloorgrass/A9,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "1,1"},/area)
+"eZ" = (/turf/ForestMap/Forest/forestfloorgrass/A11,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "2,1"},/area)
+"fa" = (/turf/ForestMap/Forest/forestfloorgrass/A13,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "3,1"},/area)
+"fb" = (/turf/ForestMap/Forest/forestfloorgrass/A15,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "4,1"},/area)
+"fc" = (/turf/ForestMap/Forest/forestfloorgrass/A16,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "5,1"},/area)
+"fd" = (/turf/ForestMap/Forest/forestfloorgrass/A19,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "6,1"},/area)
+"fe" = (/turf/ForestMap/Forest/forestfloorgrass/A21,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "7,1"},/area)
+"ff" = (/turf/ForestMap/Forest/forestfloorgrass/A7,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "8,1"},/turf/ForestMap/Forest/forestfloorgrass/A4,/area)
+"fg" = (/turf/ForestMap/Forest/forestfloorgrass/A9,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "9,1"},/turf/ForestMap/Forest/forestfloorgrass/A5,/area)
+"fh" = (/turf/ForestMap/Forest/forestfloorgrass/A11,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "10,1"},/turf/ForestMap/Forest/forestfloorgrass/A1,/area)
+"fi" = (/turf/ForestMap/Forest/forestfloorgrass/A13,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "11,1"},/turf/ForestMap/Forest/forestfloorgrass/A2,/area)
+"fj" = (/turf/ForestMap/Forest/forestfloorgrass/A15,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "12,1"},/turf/ForestMap/Forest/forestfloorgrass/A3,/area)
+"fk" = (/turf/ForestMap/Forest/forestfloorgrass/A21,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "5,1"},/turf/ForestMap/Forest/forestfloorgrass/A1,/area)
+"fl" = (/turf/ForestMap/Forest/forestfloorgrass/A7,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "0,1"},/turf/ForestMap/Forest/forestfloorgrass/A2,/area)
+"fm" = (/turf/ForestMap/Forest/forestfloorgrass/A9,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "1,1"},/turf/ForestMap/Forest/forestfloorgrass/A3,/area)
+"fn" = (/turf/ForestMap/Forest/forestfloorgrass/A11,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "2,1"},/turf/ForestMap/Forest/forestfloorgrass/A4,/area)
+"fo" = (/turf/ForestMap/Forest/forestfloorgrass/A13,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "3,1"},/turf/ForestMap/Forest/forestfloorgrass/A5,/area)
+"fp" = (/turf/ForestMap/Forest/forestfloorgrass/A7,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "8,1"},/area)
+"fq" = (/turf/ForestMap/Forest/forestfloorgrass/A9,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "9,1"},/area)
+"fr" = (/turf/ForestMap/Forest/forestfloorgrass/A11,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "10,1"},/area)
+"fs" = (/turf/ForestMap/Forest/forestfloorgrass/A13,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "11,1"},/area)
+"ft" = (/turf/ForestMap/Forest/forestfloorgrass/A15,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "12,1"},/area)
+"fu" = (/turf/ForestMap/Forest/forestfloorgrass/A16,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "13,1"},/area)
+"fv" = (/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "14,1"},/area)
+"fw" = (/turf/ForestMap/Forest/forestfloorgrass/A21,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "15,1"},/area)
+"fx" = (/turf/ForestMap/Forest/forestfloorgrass/A7,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "16,1"},/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "0,1"},/area)
+"fy" = (/turf/ForestMap/Forest/forestfloorgrass/A7,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "16,1"},/area)
+"fz" = (/turf/ForestMap/Forest/forestfloorgrass/A15,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "10,1"},/area)
+"fA" = (/turf/ForestMap/Forest/forestfloorgrass/A16,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "11,1"},/area)
+"fB" = (/turf/ForestMap/Forest/forestfloorgrass/A19,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "12,1"},/area)
+"fC" = (/turf/ForestMap/Forest/forestfloorgrass/A21,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "13,1"},/turf/ForestMap/Forest/forestfloorgrass/A4,/area)
+"fD" = (/turf/ForestMap/Forest/forestfloorgrass/A16,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "2,1"},/area)
+"fE" = (/turf/ForestMap/Forest/forestfloorgrass/A19,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "3,1"},/area)
+"fF" = (/turf/ForestMap/Forest/forestfloorgrass/A21,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "4,1"},/area)
+"fG" = (/turf/ForestMap/Forest/forestfloorgrass/A7,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "5,1"},/area)
+"fH" = (/turf/ForestMap/Forest/forestfloorgrass/A9,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "6,1"},/area)
+"fI" = (/turf/ForestMap/Forest/forestfloorgrass/A13,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "8,1"},/area)
+"fJ" = (/turf/ForestMap/Forest/forestfloorgrass/A15,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "9,1"},/area)
+"fK" = (/turf/ForestMap/Forest/forestfloorgrass/A16,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "10,1"},/area)
+"fL" = (/turf/ForestMap/Forest/forestfloorgrass/A19,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "11,1"},/area)
+"fM" = (/turf/ForestMap/Forest/forestfloorgrass/A21,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "12,1"},/area)
+"fN" = (/turf/ForestMap/Forest/forestfloorgrass/A6,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "0,0"},/turf/ForestMap/Forest/forestfloorgrass/A1,/area)
+"fO" = (/turf/ForestMap/Forest/forestfloorgrass/A8,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "1,0"},/turf/ForestMap/Forest/forestfloorgrass/A2,/area)
+"fP" = (/turf/ForestMap/Forest/forestfloorgrass/A10,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "2,0"},/turf/ForestMap/Forest/forestfloorgrass/A3,/area)
+"fQ" = (/turf/ForestMap/Forest/forestfloorgrass/A12,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "3,0"},/turf/ForestMap/Forest/forestfloorgrass/A4,/area)
+"fR" = (/turf/ForestMap/Forest/forestfloorgrass/A14,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "4,0"},/turf/ForestMap/Forest/forestfloorgrass/A5,/area)
+"fS" = (/turf/ForestMap/Forest/forestfloorgrass/A17,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "5,0"},/turf/ForestMap/Forest/forestfloorgrass/A1,/area)
+"fT" = (/turf/ForestMap/Forest/forestfloorgrass/A18,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "6,0"},/turf/ForestMap/Forest/forestfloorgrass/A2,/area)
+"fU" = (/turf/ForestMap/Forest/forestfloorgrass/A20,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "7,0"},/turf/ForestMap/Forest/forestfloorgrass/A3,/area)
+"fV" = (/turf/ForestMap/Forest/forestfloorgrass/A14,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "4,0"},/turf/ForestMap/Forest/forestfloorgrass/A1,/area)
+"fW" = (/turf/ForestMap/Forest/forestfloorgrass/A17,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "5,0"},/turf/ForestMap/Forest/forestfloorgrass/A2,/area)
+"fX" = (/turf/ForestMap/Forest/forestfloorgrass/A18,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "6,0"},/turf/ForestMap/Forest/forestfloorgrass/A3,/area)
+"fY" = (/turf/ForestMap/Forest/forestfloorgrass/A20,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "7,0"},/turf/ForestMap/Forest/forestfloorgrass/A4,/area)
+"fZ" = (/turf/ForestMap/Forest/forestfloorgrass/A6,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "8,0"},/turf/ForestMap/Forest/forestfloorgrass/A5,/area)
+"ga" = (/turf/ForestMap/Forest/forestfloorgrass/A8,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "9,0"},/turf/ForestMap/Forest/forestfloorgrass/A1,/area)
+"gb" = (/turf/ForestMap/Forest/forestfloorgrass/A10,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "10,0"},/turf/ForestMap/Forest/forestfloorgrass/A2,/area)
+"gc" = (/turf/ForestMap/Forest/forestfloorgrass/A12,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "11,0"},/turf/ForestMap/Forest/forestfloorgrass/A3,/area)
+"gd" = (/turf/ForestMap/Forest/forestfloorgrass/A14,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "12,0"},/turf/ForestMap/Forest/forestfloorgrass/A4,/area)
+"ge" = (/turf/ForestMap/Forest/forestfloorgrass/A17,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "13,0"},/turf/ForestMap/Forest/forestfloorgrass/A5,/area)
+"gf" = (/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "14,0"},/turf/ForestMap/Forest/forestfloorgrass/A1,/area)
+"gg" = (/turf/ForestMap/Forest/forestfloorgrass/A20,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "15,0"},/turf/ForestMap/Forest/forestfloorgrass/A2,/area)
+"gh" = (/turf/ForestMap/Forest/forestfloorgrass/A6,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "16,0"},/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "0,0"},/turf/ForestMap/Forest/forestfloorgrass/A3,/area)
+"gi" = (/turf/ForestMap/Forest/forestfloorgrass/A8,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "1,0"},/turf/ForestMap/Forest/forestfloorgrass/A4,/area)
+"gj" = (/turf/ForestMap/Forest/forestfloorgrass/A10,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "2,0"},/turf/ForestMap/Forest/forestfloorgrass/A5,/area)
+"gk" = (/turf/ForestMap/Forest/forestfloorgrass/A12,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "3,0"},/turf/ForestMap/Forest/forestfloorgrass/A1,/area)
+"gl" = (/turf/ForestMap/Forest/forestfloorgrass/A14,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "4,0"},/turf/ForestMap/Forest/forestfloorgrass/A2,/area)
+"gm" = (/turf/ForestMap/Forest/forestfloorgrass/A17,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "5,0"},/turf/ForestMap/Forest/forestfloorgrass/A3,/area)
+"gn" = (/turf/ForestMap/Forest/forestfloorgrass/A18,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "6,0"},/turf/ForestMap/Forest/forestfloorgrass/A4,/area)
+"go" = (/turf/ForestMap/Forest/forestfloorgrass/A20,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "7,0"},/turf/ForestMap/Forest/forestfloorgrass/A5,/area)
+"gp" = (/turf/ForestMap/Forest/forestfloorgrass/A6,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "8,0"},/turf/ForestMap/Forest/forestfloorgrass/A1,/area)
+"gq" = (/turf/ForestMap/Forest/forestfloorgrass/A8,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "9,0"},/turf/ForestMap/Forest/forestfloorgrass/A2,/area)
+"gr" = (/turf/ForestMap/Forest/forestfloorgrass/A10,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "10,0"},/turf/ForestMap/Forest/forestfloorgrass/A3,/area)
+"gs" = (/turf/ForestMap/Forest/forestfloorgrass/A12,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "11,0"},/turf/ForestMap/Forest/forestfloorgrass/A4,/area)
+"gt" = (/turf/ForestMap/Forest/forestfloorgrass/A14,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "12,0"},/turf/ForestMap/Forest/forestfloorgrass/A5,/area)
+"gu" = (/turf/ForestMap/Forest/forestfloorgrass/A17,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "13,0"},/turf/ForestMap/Forest/forestfloorgrass/A1,/area)
+"gv" = (/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "14,0"},/turf/ForestMap/Forest/forestfloorgrass/A2,/area)
+"gw" = (/turf/ForestMap/Forest/forestfloorgrass/A20,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "15,0"},/turf/ForestMap/Forest/forestfloorgrass/A3,/area)
+"gx" = (/turf/ForestMap/Forest/forestfloorgrass/A6,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "16,0"},/turf/ForestMap/Forest/forestfloorgrass/A4,/area)
+"gy" = (/turf/ForestMap/Forest/forestfloorgrass/A8,/turf/ForestMap/Forest/forestfloorgrass/A5,/area)
+"gz" = (/turf/ForestMap/Forest/forestfloorgrass/A14,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "10,0"},/turf/ForestMap/Forest/forestfloorgrass/A1,/area)
+"gA" = (/turf/ForestMap/Forest/forestfloorgrass/A17,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "11,0"},/turf/ForestMap/Forest/forestfloorgrass/A2,/area)
+"gB" = (/turf/ForestMap/Forest/forestfloorgrass/A18,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "12,0"},/turf/ForestMap/Forest/forestfloorgrass/A3,/area)
+"gC" = (/turf/ForestMap/Forest/forestfloorgrass/A18,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "3,0"},/area)
+"gD" = (/turf/ForestMap/Forest/forestfloorgrass/A20,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "4,0"},/area)
+"gE" = (/turf/ForestMap/Forest/forestfloorgrass/A6,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "5,0"},/area)
+"gF" = (/turf/ForestMap/Forest/forestfloorgrass/A14,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "9,0"},/area)
+"gG" = (/turf/ForestMap/Forest/forestfloorgrass/A17,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "10,0"},/area)
+"gH" = (/turf/ForestMap/Forest/forestfloorgrass/A18,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "11,0"},/area)
+"gI" = (/turf/ForestMap/Forest/forestfloorgrass/A20,/turf/ForestMap/Forest/treeback2{tag = ""; icon_state = "12,0"},/area)
+"gJ" = (/turf,/area)
+
+(1,1,1) = {"
+aaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaab
+aaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaab
+aaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaab
+aaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaab
+aaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaab
+aaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaab
+aaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaab
+aaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaab
+aaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaab
+aaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaab
+aaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaab
+aaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaab
+aaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaab
+aaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaab
+aaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaab
+aaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaab
+aaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaab
+aaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaab
+aaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaab
+aaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaab
+aaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaab
+aaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaab
+aaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaab
+aaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaab
+aaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaab
+aaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaab
+aaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaab
+aaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaab
+aaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaab
+aaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaab
+aaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaab
+aaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaab
+aaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaab
+aaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaab
+aaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaab
+aaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaab
+aaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaab
+aaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaab
+aaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaab
+aaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaab
+aaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaab
+aaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaab
+aaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaab
+aaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaab
+aaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaab
+aaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaab
+aaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaab
+aaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaab
+aaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaab
+aaabaaabaaabaaacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahabaaabaaabaaab
+aaabaaabaaabakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqaraaabaaabaaab
+aaabaaabaaaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajabaaabaaab
+aaabaaabaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalaaabaaab
+aaabaaagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadabaaab
+aaabaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaaab
+aaabafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeaaab
+aaabaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaaab
+aaabafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeaaab
+aaabaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaaab
+aaabafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeaaab
+aaabaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaaab
+aaabafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacamanaaab
+aaabaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakaladaeaaab
+aaabafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiasatauavawaxayazaAaBadaeafagahaiajacadaeafagahaiajacamanaaab
+aaabaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqaraCaDaEaFaGaCaDaEaFaGamanaoapaqarakalamanaoapaqarakaladaeaaab
+aaabafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiabaaabaaabaaabaaabaaadaeafagahaiajacadaeafagahaiajacamanaaab
+aaabaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalaHaIaJaKaLarakalamanaoapaqarakalamanaoapaqarakaladaeaaab
+aaabafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacaMaNaOaPaQaiajacadaeafagahaiajacadaeafagahaiajacamanaaab
+aaabaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalaHanaRapaLarakalamanaoapaqarakalamanaoapaqarakaladaeaaab
+aaabafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiasataSaeaOagaTazaAaBadaeafagahaiajacadaeafagahaiajacamanaaab
+aaabaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaUaVaWaXaYaZaoapaqarakalamanaoapaqaraCaDbabbbcbdbeaEaFaGamanaoapaqarakalamanaoapaqarakaladaeaaab
+aaabafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafbfaQbgajacadaeafagaDaEaFaGaCaDafagahaiajacadaeafagahaiabaaabaaabaaabaaabaaadaeafagahaiajacadaeafagahaiajacamanaaab
+aaabaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaJbhbibjbkalamanaoapabaaabaaabaaaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakaladaeaaab
+aaabafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeblagbmaibnacadaeafagaaababaaabaaafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagbobpbqbraYaZaaab
+aaabaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaJapbiarbkalamanaoapabaaabaaabaaaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanafagaCaDaEaFaGaCaaab
+aaabafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaebsbtbubcbvacadaeafagaaababaaabaaafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeaoapaaabaaabaaabaaab
+aaabaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanbwbxbybzbAbBbCbDbEbFbGbHbIbJbKbLaDaaabaaaCbMamanaoapbNbOabaaabaaaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanafagaaabbnbPaHaIaaab
+aaabafagahaiajacadaeafagahaiajacadaeafagahaiajacadaebQbRbSbTbUbVbWbXbYbZcacbcccdceaCabaaabaaabaDcfaeafagcgchabaaabaaafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagaaabbkciaMcjaaab
+aaabaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanckclcmcncocpcqcrcsctcucvcwcxaGaaabaaabaaabaaaEcyczcAcBcCabaaabaaaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapcDcEcFcGcHcIaaab
+aaabafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeaCaDaEaFaGaCaDaEaFaGaCaDaEaFabaaabaaabaaabaaabaFaGaCaaababaaabaaafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagcJcKcLalcMaeaaab
+aaabaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaaabaaabaaabaaaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapcDcEcFaccHanaaab
+aaabafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeaaabaaabaaabaaaaabaaabaaabaaabaaabaaabaaaaabaaabaaabaaababaaabaaafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeaCaDaEaFaGcNcOcPaaab
+aaabczcAcQarakalamanaoapaqarakalamanaoapaqarakalamanaaabaaabaaabaaaaaCaaabaaaCaaabaCabaaaCaaaCaCaaabaCabaCabaCaaabaaaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaaabaaabaaabaaabaaab
+aaabaCaDaEcRcScTcUcVafagahaiajacadaeafagahaiajacadaeaaabaaabaaabaaaCabaCabaCabaCabaCaCaaaCaaaCaaaCaaaCaaaCaaaCaaabaaafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagaaabaaabaaabaaab
+aaababaaabaCaDaEaFaGaoapaqarakalamanaoapaqarakalamanaaabaaabaaabaaaCabaCabaCabaCabaCabaCaCaaaCabaCabaCabaCabaCaaabaaaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaaabaaabaaabaaab
+aaabafagahcEcLcWcXcYafagahaiajacadaeafagahaiajacadaeaaabaaabaaabaaaaaCaaabaaaCaaabaCabaaaCaaaCaCabaaaCaaabaCabaaabaaafagahaiajacadaeafagahaiajacadaeafagahaiajaccZdadbdcddaiajacadaeafagahaiajacadaeaaab
+aaabdebhbicKcFdfdgdhaoapaqarakalamanaoapaqarakalamanaaabaaabaaabaaaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaaoapaqarakalamanaoapaqarakalamanaoapaqarakaldidjdkdldmarakalamanaoapaqarakalamanaaab
+aaabafdnahdodpdqdrdsafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacdtdudvdwdxaiajacadaeafagahaiajacadaeaaab
+aaabaobhaqaCaDaEaFaGaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalaCaDaEaFaGarakalamanaoapaqarakalamanaaab
+aaabcNcOcPaaabaaabaaafagahaiajacadaeafagdydzdAdBdCaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagdydzdAdBdCdDdEdFahaiajacadaeafagahaiajacaaabaaabaaaiajacadaeafagahaiajacadaeaaab
+aaababaaabaaabaaabaaaoapaqarakalamanaoapdGdHdIdJdKanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapdGdHdIdJdKdLdMdNaqarakalamanaoapaqarakalaaabaaabaaarakalamanaoapaqarakalamanaaab
+aaababaaabaiajacadaeafagahaiajacadaeafagdOdPdQdRdSaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagahaiajacadaeafagdTdUdVdWdXdYdZeaebecajacadaeafagahaiajaBaaabaaabaaaiajacadaeafagahaiajacadaeaaab
+aaabaoapaqarakalamanaoapaqarakalamanaoapedaDaEaFaGanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaqarakalamanaoapaCaDaEaFaGaCaDaEaFaGakalamaneeefegeheiaGaaabaaabaaaCakalamanaoapaqarakalamanaaab
+aaabejekelemeneoepeqereseteuevewexeyezeAeBabaaabaadDejekelemeneoepeqereseteueveCeDeEeFekelemeneoepeqereseteueveCeDeEeGagaaabaaabaaabaaabaaabeHeIeJeKaGaCaDaEaFabaaabaaabaaabeLeMeNeOePeQeReSeTeUeVeWaaab
+aaabeXeYeZfafbfcfdfefffgfhfifjaCaDaEaFaGabaaabaaabfkflfmfnfofbfcfdfefpfqfrfsftfufvfwfxeYeZfafbfcfdfefpfqfrfsftfufvfwfyapaaabaaabaaabaaabaaabfzfAfBfCaaabaaabaaabaaabaaabaaabaDfDfEfFfGfHaqfIfJfKfLfMaaab
+aaabfNfOfPfQfRfSfTfUaCaDaEaFaGaaabaaabaaaaabaaabaaaCaDaEaFaGfVfWfXfYfZgagbgcgdgegfggghgigjgkglgmgngogpgqgrgsgtgugvgwgxgyaaabaaabaaabaaabaaabgzgAgBaFaaabaaabaaabaaabaaabaaabaaaEgCgDgEaDaEaFgFgGgHgIaaab
+aaabaEaFaGaCaDaEaFaGabaaabaaababaaabaaababaaabaaabaaabaaabaaaCaDaEaFaGaCaDaEaFaGaCaDaEaFaGaCaDaEaFaGaCaDaEaFaGaCaDaEaFaGaaabaaabaaabaaabaaabaCaDaEabaaabaaabaaabaaabaaabaaabaaabaFaGaCabaaabaGaCaDaEaaab
+aaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaab
+aaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaab
+aaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaabaaab
+"}
+
+(1,1,2) = {"
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+gJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJgJ
+"}

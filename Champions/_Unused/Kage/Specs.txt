@@ -1,0 +1,23 @@
+Name: Kage
+Type: Custom
+Defense: High
+Immune: AOE
+Speed: Fast
+
+Techniques: 
+
+Quick Release(Projectile/Melee): Quick releasing of the blade, sending forth a powerful wave of energy and power towards opponents, which eats through sheilds, or damages guarded foes.
+Blade Attack: 12
+Energy Attack: 12
+Speed: Quick
+
+Melee Storm(Melee/AOE): Rapid Rotation of the blade from all directions damaging those around him.
+Attack: 14
+Speed: Slow
+
+Camoflague(Invisible): Blending in with the surroundings so one cannot be seen.
+
+Vampire(AOE/Regain): Absorbing the life force of those around oneself to regain health.
+Attack: 12
+Regain: 6
+Speed: Quick

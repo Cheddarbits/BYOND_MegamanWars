@@ -1,0 +1,10 @@
+//=============================================================
+// Notes
+//=============================================================
+// Date May. 31, 2009
+// Created by: HolyDoomKnight
+//=============================================================
+
+step proc vs move proc
+- very little difference or virtually none
+- move proc works if the move is possible, where as step proc does it regardless

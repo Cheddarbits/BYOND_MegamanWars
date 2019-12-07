@@ -1,0 +1,119 @@
+/*  XeronII 4.0
+	Numpad 7 - Buster Shot: Shoots a buster shot that does 8 damage with 6 delay
+	Numpad 9 - Upward Buster Shot: Shoots a buster shot upward that does 8 damage with 6 delay
+	Numpad 3 - Buster Flare Creates a flare in front of him with a range of 3x3 tiles doing 12 damage
+			   with 10 delay
+	Numpad 1 - None
+	Jump Height - 7
+	Movement - Works as a dash but able to change direction and also flicks the dash state
+*/
+#ifndef INCLUDED_XERONII_DM
+#define INCLUDED_XERONII_DM
+obj/Characters
+	name=""
+	layer=MOB_LAYER+2
+	XeronII
+		c
+			icon='XeronII.dmi'
+		bl
+			icon='XeronIIBL.dmi'
+			pixel_x=-32
+			pixel_y=-32
+		bl2
+			icon='XeronIIBL2.dmi'
+			pixel_x=-64
+			pixel_y=-32
+		bl3
+			icon='XeronIIBL3.dmi'
+			pixel_x=-96
+			pixel_y=-32
+		br
+			icon='XeronIIBR.dmi'
+			pixel_x=32
+			pixel_y=-32
+		br2
+			icon='XeronIIBR2.dmi'
+			pixel_x=64
+			pixel_y=-32
+		br3
+			icon='XeronIIBR3.dmi'
+			pixel_x=96
+			pixel_y=-32
+		l
+			icon='XeronIIL.dmi'
+			pixel_x=-32
+		l2
+			icon='XeronIIL2.dmi'
+			pixel_x=-64
+		l3
+			icon='XeronIIL3.dmi'
+			pixel_x=-96
+		r
+			icon='XeronIIR.dmi'
+			pixel_x=32
+		r2
+			icon='XeronIIR2.dmi'
+			pixel_x=64
+		r3
+			icon='XeronIIR3.dmi'
+			pixel_x=96
+		t
+			icon='XeronIIT.dmi'
+			pixel_y=32
+		tl
+			icon='XeronIITL.dmi'
+			pixel_x=-32
+			pixel_y=32
+		tl2
+			icon='XeronIITL2.dmi'
+			pixel_x=-64
+			pixel_y=32
+		tl3
+			icon='XeronIITL3.dmi'
+			pixel_x=-96
+			pixel_y=32
+		tr
+			icon='XeronIITR.dmi'
+			pixel_x=32
+			pixel_y=32
+		tr2
+			icon='XeronIITR2.dmi'
+			pixel_x=64
+			pixel_y=32
+		tr3
+			icon='XeronIITR3.dmi'
+			pixel_x=96
+			pixel_y=32
+obj/Projectiles
+	XeronIIshot
+		c
+			icon='XeronIIS.dmi'
+		b
+			icon='XeronIISB.dmi'
+			pixel_y=-32
+		bl
+			icon='XeronIISBL.dmi'
+			pixel_x=-32
+			pixel_y=-32
+		br
+			icon='XeronIISBR.dmi'
+			pixel_x=32
+			pixel_y=-32
+		l
+			icon='XeronIISL.dmi'
+			pixel_x=-32
+		r
+			icon='XeronIISR.dmi'
+			pixel_x=32
+		t
+			icon='XeronIIST.dmi'
+			pixel_y=32
+		tl
+			icon='XeronIISTL.dmi'
+			pixel_x=-32
+			pixel_y=32
+		tr
+			icon='XeronIISTR.dmi'
+			pixel_x=32
+			pixel_y=32
+#endif

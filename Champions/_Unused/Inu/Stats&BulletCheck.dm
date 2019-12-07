@@ -1,0 +1,26 @@
+
+mob
+	var
+		bullets=0
+		MaxHP=28
+		HP=28
+		EP=24
+		MaxEP=24
+		fired=0
+		//damage
+		shootdelay=0
+		slashdelay=4
+		invincible=0
+		//canmove=0
+		shooting=0
+		slashing=0
+		body=""
+		giga=0
+		sbcounter=0
+		gdash=0
+		hover=0
+		changing=0
+	proc
+		BulletCheck()
+			if(src.bullets<0)
+				src.bullets=0

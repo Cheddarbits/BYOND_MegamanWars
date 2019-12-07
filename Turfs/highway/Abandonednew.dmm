@@ -1,0 +1,236 @@
+"aa" = (/turf/Highway/backgroundnew/BG05,/turf/Highway/rain,/area)
+"ab" = (/turf,/area)
+"ac" = (/turf/Highway/backgroundnew/BG05,/turf/Highway/rain,/turf/Highway/rain2,/area)
+"ad" = (/turf/Highway/a9,/turf/Highway/a14,/area)
+"ae" = (/turf/Highway/a9,/turf/Highway/a15,/area)
+"af" = (/turf/Highway/a9,/turf/Highway/a16,/area)
+"ag" = (/turf/Highway/a8,/turf/Highway/a14,/area)
+"ah" = (/turf/Highway/a10,/turf/Highway/a16,/area)
+"ai" = (/turf/Highway/a7,/area)
+"aj" = (/turf/Highway/background3{tag = ""; icon_state = "1,4"},/area)
+"ak" = (/turf/Highway/background3{tag = ""; icon_state = "2,4"},/area)
+"al" = (/turf/Highway/background3{tag = ""; icon_state = "3,4"},/area)
+"am" = (/turf/Highway/background3{tag = ""; icon_state = "4,4"},/area)
+"an" = (/turf/Highway/background3new/BG04,/area)
+"ao" = (/turf/Highway/a4,/area)
+"ap" = (/turf/Highway/background3{tag = ""; icon_state = "1,3"},/area)
+"aq" = (/turf/Highway/background3{tag = ""; icon_state = "2,3"},/area)
+"ar" = (/turf/Highway/background3{tag = ""; icon_state = "3,3"},/area)
+"as" = (/turf/Highway/background3{tag = ""; icon_state = "4,3"},/area)
+"at" = (/turf/Highway/background3new/BG03,/area)
+"au" = (/turf/Highway/background3{tag = ""; icon_state = "1,2"},/turf/misc/NoShots/NoShoot,/area)
+"av" = (/turf/Highway/background3{tag = ""; icon_state = "2,2"},/turf/misc/NoShots/NoShoot,/area)
+"aw" = (/turf/Highway/background3{tag = ""; icon_state = "3,2"},/turf/misc/NoShots/NoShoot,/area)
+"ax" = (/turf/Highway/background3{tag = ""; icon_state = "4,2"},/area)
+"ay" = (/turf/Highway/background3new/BG02,/area)
+"az" = (/turf/Highway/background3{tag = ""; icon_state = "1,2"},/area)
+"aA" = (/turf/Highway/background3{tag = ""; icon_state = "2,2"},/area)
+"aB" = (/turf/Highway/background3{tag = ""; icon_state = "3,2"},/area)
+"aC" = (/turf/Highway/background3{tag = ""; icon_state = "1,1"},/turf/misc/NoShots/NoShootNoDense,/area)
+"aD" = (/turf/Highway/background3{tag = ""; icon_state = "2,1"},/turf/FlagPoint,/area)
+"aE" = (/turf/Highway/background3{tag = ""; icon_state = "3,1"},/turf/misc/NoShots/NoShootNoDense,/area)
+"aF" = (/turf/Highway/background3{tag = ""; icon_state = "4,1"},/area)
+"aG" = (/turf/Highway/background3new/BG01,/area)
+"aH" = (/turf/Highway/background3{tag = ""; icon_state = "1,1"},/area)
+"aI" = (/turf/Highway/background3{tag = ""; icon_state = "2,1"},/area)
+"aJ" = (/turf/Highway/background3{tag = ""; icon_state = "3,1"},/area)
+"aK" = (/turf/Highway/background3{tag = ""; icon_state = "1,0"},/turf/misc/NoShots/NoShootNoDense,/area)
+"aL" = (/turf/Highway/background3{tag = ""; icon_state = "2,0"},/turf/misc/NoShots/NoShoot,/area)
+"aM" = (/turf/Highway/background3{tag = ""; icon_state = "3,0"},/turf/misc/NoShots/NoShootNoDense,/area)
+"aN" = (/turf/Highway/background3{tag = ""; icon_state = "4,0"},/area)
+"aO" = (/turf/Highway/background3new/BG00,/area)
+"aP" = (/turf/Highway/background3{tag = ""; icon_state = "1,0"},/area)
+"aQ" = (/turf/Highway/background3{tag = ""; icon_state = "2,0"},/area)
+"aR" = (/turf/Highway/background3{tag = ""; icon_state = "3,0"},/area)
+"aS" = (/turf/Highway/a7,/turf/Highway/a16,/area)
+"aT" = (/turf/Highway/a9,/turf/Highway/a15,/turf/Capsules/Capsule,/turf/misc/NoShots/NoShoot,/area)
+"aU" = (/turf/Highway/a9,/turf/Highway/a15,/turf/misc/NoShots/NoShoot,/area)
+"aV" = (/turf/Highway/background3{tag = ""; icon_state = "2,4"},/turf/Highway/a11,/area)
+"aW" = (/turf/Highway/background3{tag = ""; icon_state = "3,4"},/turf/Highway/a13,/area)
+"aX" = (/turf/Highway/background3{tag = ""; icon_state = "2,3"},/turf/Highway/a11,/area)
+"aY" = (/turf/Highway/background3{tag = ""; icon_state = "3,3"},/turf/Highway/a13,/area)
+"aZ" = (/turf/Highway/background3{tag = ""; icon_state = "2,2"},/turf/Highway/a11,/area)
+"ba" = (/turf/Highway/background3{tag = ""; icon_state = "3,2"},/turf/Highway/a13,/area)
+"bb" = (/turf/Highway/background3{tag = ""; icon_state = "2,0"},/turf/Highway/a11,/area)
+"bc" = (/turf/Highway/background3{tag = ""; icon_state = "3,0"},/turf/Highway/a13,/area)
+"bd" = (/turf/Highway/background3new/BG14,/area)
+"be" = (/turf/Highway/background3new/BG24,/area)
+"bf" = (/turf/Highway/background3new/BG34,/area)
+"bg" = (/turf/Highway/background3new/BG44,/area)
+"bh" = (/turf/Highway/background3{tag = ""; icon_state = "3,4"},/turf/Highway/a11,/area)
+"bi" = (/turf/Highway/background3{tag = ""; icon_state = "4,4"},/turf/Highway/a13,/area)
+"bj" = (/turf/Highway/background3{tag = ""; icon_state = "4,4"},/turf/Highway/a11,/area)
+"bk" = (/turf/Highway/background3new/BG04,/turf/Highway/a13,/area)
+"bl" = (/turf/Highway/background3new/BG13,/area)
+"bm" = (/turf/Highway/background3new/BG23,/area)
+"bn" = (/turf/Highway/background3new/BG33,/area)
+"bo" = (/turf/Highway/background3new/BG43,/area)
+"bp" = (/turf/Highway/background3{tag = ""; icon_state = "3,3"},/turf/Highway/a11,/area)
+"bq" = (/turf/Highway/background3{tag = ""; icon_state = "4,3"},/turf/Highway/a13,/area)
+"br" = (/turf/Highway/background3{tag = ""; icon_state = "4,3"},/turf/Highway/a11,/area)
+"bs" = (/turf/Highway/background3new/BG03,/turf/Highway/a13,/area)
+"bt" = (/turf/Highway/background3{tag = ""; icon_state = "3,2"},/turf/Highway/a11,/area)
+"bu" = (/turf/Highway/background3{tag = ""; icon_state = "4,2"},/turf/Highway/a13,/area)
+"bv" = (/turf/Highway/background3{tag = ""; icon_state = "4,2"},/turf/Highway/a11,/area)
+"bw" = (/turf/Highway/background3new/BG02,/turf/Highway/a13,/area)
+"bx" = (/turf/Highway/background3{tag = ""; icon_state = "2,1"},/turf/Highway/a11,/area)
+"by" = (/turf/Highway/background3{tag = ""; icon_state = "3,1"},/turf/Highway/a13,/area)
+"bz" = (/turf/Highway/background3{tag = ""; icon_state = "3,1"},/turf/Highway/a11,/area)
+"bA" = (/turf/Highway/background3{tag = ""; icon_state = "4,1"},/turf/Highway/a13,/area)
+"bB" = (/turf/Highway/background3{tag = ""; icon_state = "4,1"},/turf/Highway/a11,/area)
+"bC" = (/turf/Highway/background3new/BG01,/turf/Highway/a13,/area)
+"bD" = (/turf/Highway/background3{tag = ""; icon_state = "3,0"},/turf/Highway/a11,/area)
+"bE" = (/turf/Highway/background3{tag = ""; icon_state = "4,0"},/turf/Highway/a13,/area)
+"bF" = (/turf/Highway/background3{tag = ""; icon_state = "4,0"},/turf/Highway/a11,/area)
+"bG" = (/turf/Highway/background3new/BG00,/turf/Highway/a13,/area)
+"bH" = (/turf/Highway/background3new/BG12,/area)
+"bI" = (/turf/Highway/background3new/BG22,/area)
+"bJ" = (/turf/Highway/background3new/BG32,/area)
+"bK" = (/turf/Highway/background3new/BG42,/area)
+"bL" = (/turf/Highway/background3{tag = ""; icon_state = "5,2"},/area)
+"bM" = (/turf/Highway/background3new/BG11,/area)
+"bN" = (/turf/Highway/background3new/BG21,/area)
+"bO" = (/turf/Highway/background3new/BG31,/area)
+"bP" = (/turf/Highway/background3new/BG41,/area)
+"bQ" = (/turf/Highway/background3{tag = ""; icon_state = "5,1"},/area)
+"bR" = (/turf/Highway/background3new/BG10,/area)
+"bS" = (/turf/Highway/background3new/BG20,/area)
+"bT" = (/turf/Highway/background3new/BG30,/area)
+"bU" = (/turf/Highway/background3new/BG40,/area)
+"bV" = (/turf/Highway/background3{tag = ""; icon_state = "5,0"},/area)
+"bW" = (/turf/Highway/background3new/BG12,/turf/misc/NoShots/NoShoot,/area)
+"bX" = (/turf/Highway/background3new/BG22,/turf/misc/NoShots/NoShoot,/area)
+"bY" = (/turf/Highway/background3new/BG32,/turf/misc/NoShots/NoShoot,/area)
+"bZ" = (/turf/Highway/background3new/BG11,/turf/misc/NoShots/NoShootNoDense,/area)
+"ca" = (/turf/Highway/background3new/BG21,/turf/FlagPoint,/area)
+"cb" = (/turf/Highway/background3new/BG31,/turf/misc/NoShots/NoShootNoDense,/area)
+"cc" = (/turf/Highway/background3new/BG10,/turf/misc/NoShots/NoShootNoDense,/area)
+"cd" = (/turf/Highway/background3new/BG30,/turf/misc/NoShots/NoShootNoDense,/area)
+"ce" = (/turf/Highway/background3new/BG24,/turf/Highway/a11,/area)
+"cf" = (/turf/Highway/background3new/BG34,/turf/Highway/a13,/area)
+"cg" = (/turf/Highway/background3new/BG23,/turf/Highway/a11,/area)
+"ch" = (/turf/Highway/background3new/BG33,/turf/Highway/a13,/area)
+"ci" = (/turf/Highway/background3new/BG22,/turf/Highway/a11,/area)
+"cj" = (/turf/Highway/background3new/BG32,/turf/Highway/a13,/area)
+"ck" = (/turf/Highway/background3new/BG20,/turf/Highway/a11,/area)
+"cl" = (/turf/Highway/background3new/BG30,/turf/Highway/a13,/area)
+"cm" = (/turf/Highway/background3new/BG34,/turf/Highway/a11,/area)
+"cn" = (/turf/Highway/background3new/BG44,/turf/Highway/a13,/area)
+"co" = (/turf/Highway/background3new/BG44,/turf/Highway/a11,/area)
+"cp" = (/turf/Highway/background3new/BG33,/turf/Highway/a11,/area)
+"cq" = (/turf/Highway/background3new/BG43,/turf/Highway/a13,/area)
+"cr" = (/turf/Highway/background3new/BG43,/turf/Highway/a11,/area)
+"cs" = (/turf/Highway/background3new/BG32,/turf/Highway/a11,/area)
+"ct" = (/turf/Highway/background3new/BG42,/turf/Highway/a13,/area)
+"cu" = (/turf/Highway/background3new/BG42,/turf/Highway/a11,/area)
+"cv" = (/turf/Highway/background3new/BG21,/turf/Highway/a11,/area)
+"cw" = (/turf/Highway/background3new/BG31,/turf/Highway/a13,/area)
+"cx" = (/turf/Highway/background3new/BG31,/turf/Highway/a11,/area)
+"cy" = (/turf/Highway/background3new/BG41,/turf/Highway/a13,/area)
+"cz" = (/turf/Highway/background3new/BG41,/turf/Highway/a11,/area)
+"cA" = (/turf/Highway/background3new/BG30,/turf/Highway/a11,/area)
+"cB" = (/turf/Highway/background3new/BG40,/turf/Highway/a13,/area)
+"cC" = (/turf/Highway/background3new/BG40,/turf/Highway/a11,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaacacacacacacacacacacacacacacabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadaeafadaeafadaeafadaeafadaeabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaacacaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadafaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+acacacacacacacacacacacacaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+agaeafadaeafadaeafadaeahaaaaaaaaaaaaaaaaaaaaaaaaaaaaacacaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aiajakalamanajakalamanaiaaaaaaaaaaaaaaaaaaaaaaaaaaaaadafaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aoapaqarasatapaqarasataoaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aiauavawaxayazaAaBaxayaiaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aoaCaDaEaFaGaHaIaJaFaGaoacacacacacacacacacacacacacacacaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aiaKaLaMaNaOaPaQaRaNaOaSagaeafadaeafadaeafadaeafadaeahaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aoaTaUaUafanajakalamanajaVaWamanajakalamanajakalamanaiaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aiapaqarasatapaqarasatapaXaYasatapaqarasatapaqarasataoaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aoazaAaBaxayazaAaBaxayazaZbaaxayazaAaBaxayazaAaBaxayaiaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aiaHaIaJaFaGaHaIaJaFaGaHadaeafadaeafadaeafaHaIaJaFaGaoacacacacacacacacacacacacacacacacacacacabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aoaPaQaRaNaOaPaQaRaNaOaPbbbcaNaOaPaQaRaNaOaPaQaRaNaOaSagaeafadaeafadaeafadaeafadaeafadaeaeahabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aibdbebfbganajakalamanajaVaWamanajakalamanajakalamanajakbhbianajakalamanajakalamanajakalbjbkabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aoblbmbnboatapaqarasatapaXaYasatapaqarasatapaqarasatapaqbpbqatapaqarasatapaqarasatapaqarbrbsabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aiaeafadaeafadaeafaxayazaZbaaxayazaAaBaxayazaAaBaxayazaAbtbuayazaAaBaxayazaAaBaxayazaAaBbvbwabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aoaHaIaJaFaGaHaIaJaFaGaHbxbyaFaGaHaIaJaFaGaHaIaJaFaGaHaIbzbAaGaHaIaJaFaGaHaIaJaFaGaHaIaJbBbCabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aiaPaQaRaNaOaPaQaRaNaOaPbbbcaNaOaPaQaRaNaOaPaQaRaNaOaPaQbDbEaOaPaQaRaNaOaPaQaRaNaOaPaQaRbFbGabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aobdbebfbganbdbebfbganajaVaWamanajakalamanajakalamanajakbhbianajakalamanajakalamanajakalbjbkabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aiblbmbnboatblbmbnboatapadaeafadaeafadaeafapaqarasatapaqbpbqatapaqarasatapaqarasatapaqarbrbsabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aobHbIbJbKaybHbIbJbKayazaZbaaxbLazaAaBaxayazaAaBaxayazaAbtbuayazaAaBaxayazaAaBaxayazaAaBbvbwabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aibMbNbObPaGbMbNbObPaGaHbxbyaFbQaHaIaJaFaGaHaIaJaFaGaHaIbzbAaGaHaIaJaFaGaHaIaJaFaGaHaIaJbBbCabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aobRbSbTbUaObRbSbTbUaOaPbbbcaNbVaPaQaRaNaOaPaQaRaNaOaPaQbDbEaOaPaQaRaNaOaPaQaRaNaOaPaQaRbFbGabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+agaeafadaeafadaeafadaeafadaeafadaeafadaeafadaeafadaeafadaeafadaeafadaeafadaeafadaeafadaeaeahabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+agaeafadaeafadaeafadaeahaaaaaaaaaaaaaaaaaaaaaaaaaaaaacacaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aibdbebfbganbdbebfbganaiaaaaaaaaaaaaaaaaaaaaaaaaaaaaadafaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aoblbmbnboatblbmbnboataoaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aibWbXbYbKaybHbIbJbKayaiaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aobZcacbbPaGbMbNbObPaGaoacacacacacacacacacacacacacacacaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aiccbScdbUaObRbSbTbUaOaSagaeafadaeafadaeafadaeafadaeahaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aoaTaUaUafanbdbebfbganbdcecfbganbdbebfbganbdbebfbganaiaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aiblbmbnboatblbmbnboatblcgchboatblbmbnboatblbmbnboataoaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aobHbIbJbKaybHbIbJbKaybHcicjbKaybHbIbJbKaybHbIbJbKayaiaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aibMbNbObPaGbMbNbObPaGbMadaeafadaeafadaeafbMbNbObPaGaoacacacacacacacacacacacacacacacacacacacabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aobRbSbTbUaObRbSbTbUaObRckclbUaObRbSbTbUaObRbSbTbUaOaSagaeafadaeafadaeafadaeafadaeafadaeaeahabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aibdbebfbganbdbebfbganbdcecfbganbdbebfbganbdbebfbganbdbecmcnanbdbebfbganbdbebfbganbdbebfcobkabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aoblbmbnboatblbmbnboatblcgchboatblbmbnboatblbmbnboatblbmcpcqatblbmbnboatblbmbnboatblbmbncrbsabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aiaeafadaeafadaeafbKaybHcicjbKaybHbIbJbKaybHbIbJbKaybHbIcsctaybHbIbJbKaybHbIbJbKaybHbIbJcubwabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aobMbNbObPaGbMbNbObPaGbMcvcwbPaGbMbNbObPaGbMbNbObPaGbMbNcxcyaGbMbNbObPaGbMbNbObPaGbMbNbOczbCabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aibRbSbTbUaObRbSbTbUaObRckclbUaObRbSbTbUaObRbSbTbUaObRbScAcBaObRbSbTbUaObRbSbTbUaObRbSbTcCbGabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aobdbebfbganbdbebfbganbdcecfbganbdbebfbganbdbebfbganbdbecmcnanbdbebfbganbdbebfbganbdbebfcobkabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aiblbmbnboatblbmbnboatbladaeafadaeafadaeafblbmbnboatblbmcpcqatblbmbnboatblbmbnboatblbmbncrbsabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aobHbIbJbKaybHbIbJbKaybHcicjbKaybHbIbJbKaybHbIbJbKaybHbIcsctaybHbIbJbKaybHbIbJbKaybHbIbJcubwabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aibMbNbObPaGbMbNbObPaGbMcvcwbPaGbMbNbObPaGbMbNbObPaGbMbNcxcyaGbMbNbObPaGbMbNbObPaGbMbNbOczbCabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+aobRbSbTbUaObRbSbTbUaObRckclbUaObRbSbTbUaObRbSbTbUaObRbScAcBaObRbSbTbUaObRbSbTbUaObRbSbTcCbGabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+agaeafadaeafadaeafadaeafadaeafadaeafadaeafadaeafadaeafadaeafadaeafadaeafadaeafadaeafadaeaeahabababababababababababababababababababababababababababababababababababababababababababababababababababababab
+abababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababab
+abababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababab
+abababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababab
+abababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababab
+abababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababab
+abababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababab
+abababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababab
+abababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababab
+abababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababab
+abababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababab
+abababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababab
+abababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababab
+abababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababab
+abababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababab
+abababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababab
+abababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababab
+abababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababab
+abababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababab
+abababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababab
+abababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababab
+abababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababab
+abababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababab
+abababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababab
+abababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababab
+abababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababab
+abababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababab
+abababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababab
+abababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababab
+abababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababab
+abababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababab
+abababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababab
+abababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababab
+abababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababab
+abababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababab
+abababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababab
+abababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababab
+abababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababab
+abababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababab
+abababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababab
+"}

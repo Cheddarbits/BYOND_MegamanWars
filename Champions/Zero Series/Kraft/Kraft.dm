@@ -1,0 +1,36 @@
+#ifndef INCLUDED_KRAFT_DM
+#define INCLUDED_KRAFT_DM
+obj/Characters/Kraft
+	layer=MOB_LAYER+1
+	left
+		icon='KraftL.dmi'
+		pixel_x=-32
+	leftleft
+		icon='KraftLL.dmi'
+		pixel_x=-64
+	right
+		icon='KraftR.dmi'
+		pixel_x=32
+	rightright
+		icon='KraftRR.dmi'
+		pixel_x=64
+	top
+		icon='KraftT.dmi'
+		pixel_y=32
+	topleft
+		icon='KraftTL.dmi'
+		pixel_y=32
+		pixel_x=-32
+	toptopleft
+		icon='KraftTTL.dmi'
+		pixel_y=64
+		pixel_x=-32
+	topright
+		icon='KraftTR.dmi'
+		pixel_y=32
+		pixel_x=32
+	toptopright
+		icon='KraftTTR.dmi'
+		pixel_y=64
+		pixel_x=32
+#endif

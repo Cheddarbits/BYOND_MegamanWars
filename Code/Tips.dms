@@ -1,0 +1,88 @@
+//=============================================================
+// Tips and Tricks
+//=============================================================
+// Date May. 31, 2009
+// Created by: HolyDoomKnight
+//=============================================================
+
+Tips & Tricks
+
+// Performance / Efficieny on the servers end Tips
+#1
+ Pre - increment > Post - increment processing wise
+ Reason: Pre increment processes the value being referenced once while post processes it twice.
+ 	Example:
+ 		var/i = 10
+ 		++i // displays 11
+ 		var/i = 10
+ 		i++ // displays 10, have to reference back to it to get 11
+
+ Usage: In for loops
+ 	Example:
+ 		for( var/i = 0, i < 10, ++i ) // Instant dash in the WEST direction
+ 			step( usr, WEST )
+
+#2
+ Switch statements > if - else if chains
+ Reason: Switch statements evalutate the value contained once rather then having to evalutate the value per if call
+ 	Example:
+ 		switch( usr.Class )
+ 			if( "Megaman" )
+ 			if( "Bass" )
+ 			if( "Protoman" )
+
+ Usage: Anywhere with a long list of if - else if chains
+
+#3
+ get_step( usr, SOUTH ) > locate(usr.x, usr.y-1, usr.z)
+ Reason: locate() scans the whole world to get the user's location, then calculates while get_step() calculates the user's position
+
+ Usage: Used for anything where the location is directly infront of user, like one tile away, not 2 or more
+ 	Example:
+ 		X X X // X directly infront of player, P = Player
+ 		X P X
+ 		X X X
+
+
+// Coder end tips to make it easier
+#4
+ Preprocessors in code files, #ifdef, #ifndef, #define, #endif
+ Reason: Makes it easier to exclude code rather then having to comment it out each time. Also, reduces compile time if you exclude
+ some files, of course it makes warning statements appear depending on whats excluded
+ Usage: In individual code files
+ 	Example:
+ 		// In a code file called "Megaman.dm"
+ 		#ifndef INCLUDED_MEGAMAN_DM
+ 		#define INCLUDED_MEGAMAN_DM
+ 		mob/Megaman
+ 			icon = 'Megaman.dmi'
+ 		#endif
+
+ 		// In a seperate code file
+ 		#ifdef INCLUDED_MEGAMAN_DM // aslong as INCLUDED_MEGAMAN_DM is defined, this code is compiled
+ 		// So, if you do not include Megaman.dm, it will not compile this code
+ 		mob/proc
+ 			MegamanDash()
+ 			{
+ 			// Block of code
+ 			}
+ 		#endif
+ 		// To test this efficently, un include that file and see where else it is referenced in
+#5
+ DMI file format > PNG > Any other format
+ Reason: Better compression then PNG, and PNG is better compression without losing more data then the other formats
+ 	However, this is up to you
+ 	Time, or File Size
+
+ 	If you have lots of free time on your hands, import a PNG / BMP into DMI format for best compression
+ 	then build its code structure for placement on the map
+
+
+ 	If you don't have that much free time make sure the image files are in PNG format
+
+ Usage: Import a PNG or BMP file into a DMI file
+#6
+ size of area, turf, obj, mob
+ mob > area = turf > obj
+ however they're also drawn in this order
+ area -> turf -> obj -> mob

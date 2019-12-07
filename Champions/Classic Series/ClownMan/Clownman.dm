@@ -1,0 +1,32 @@
+#ifndef INCLUDED_CLOWNMAN_DM
+#define INCLUDED_CLOWNMAN_DM
+obj/Characters
+	layer=MOB_LAYER+1
+	Clownman
+		Right
+			icon='ClownBR.dmi'
+			pixel_x=32
+		TopRight
+			icon='ClownTR.dmi'
+			pixel_x=32
+			pixel_y=32
+		TTRight
+			icon='ClownRTT.dmi'
+			pixel_x=32
+			pixel_y=64
+		TopLeft
+			icon='ClownTL.dmi'
+			pixel_y=32
+		TTLeft
+			icon='ClownLTT.dmi'
+			pixel_y=64
+obj/Projectiles
+	ClownmanShot
+		icon='ClownAttack.dmi'
+		Right
+			icon_state="right"
+			pixel_x=32
+		Left
+			icon='ClownAttack.dmi'
+			icon_state="left"
+#endif

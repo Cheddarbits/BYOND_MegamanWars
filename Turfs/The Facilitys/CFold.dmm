@@ -1,0 +1,556 @@
+"aa" = (/turf/CombatFacility/Tile2,/area)
+"ab" = (/turf/CombatFacility/Tile2a,/area)
+"ac" = (/turf/CombatFacility/Tile2b,/area)
+"ad" = (/turf/CombatFacility/Tile2c,/area)
+"ae" = (/turf/CombatFacility/Tile2d,/area)
+"af" = (/turf/CombatFacility/Tile2e,/area)
+"ag" = (/turf/CombatFacility/Tile2f,/area)
+"ah" = (/turf/CombatFacility/Tile2g,/area)
+"ai" = (/turf/CombatFacility/Tile2h,/area)
+"aj" = (/turf/ProtectTheBase/Wall3a,/area)
+"ak" = (/turf/ProtectTheBase/Wall3b,/area)
+"al" = (/turf/ProtectTheBase/Wall3,/area)
+"am" = (/turf/ProtectTheBase/Wall2a{tag = ""; icon_state = "0,4"},/area)
+"an" = (/turf/ProtectTheBase/Wall1a{tag = ""; icon_state = "0,4"},/area)
+"ao" = (/turf/ProtectTheBase/Wall1a{tag = ""; icon_state = "1,4"},/area)
+"ap" = (/turf/ProtectTheBase/Wall_3a{tag = ""; icon_state = "0,4"},/area)
+"aq" = (/turf/ProtectTheBase/Wall_3a{tag = ""; icon_state = "1,4"},/area)
+"ar" = (/turf/ProtectTheBase/Wall_3{tag = ""; icon_state = "0,4"},/area)
+"as" = (/turf/ProtectTheBase/Wall_3{tag = ""; icon_state = "1,4"},/area)
+"at" = (/turf/ProtectTheBase/Wall1{tag = ""; icon_state = "0,4"},/area)
+"au" = (/turf/ProtectTheBase/Wall1{tag = ""; icon_state = "1,4"},/area)
+"av" = (/turf/ProtectTheBase/Wall2{tag = ""; icon_state = "0,4"},/area)
+"aw" = (/turf/ProtectTheBase/Wall2a{tag = ""; icon_state = "0,3"},/area)
+"ax" = (/turf/ProtectTheBase/Wall1a{tag = ""; icon_state = "0,3"},/area)
+"ay" = (/turf/ProtectTheBase/Wall1a{tag = ""; icon_state = "1,3"},/area)
+"az" = (/turf/ProtectTheBase/Wall_3a{tag = ""; icon_state = "0,3"},/area)
+"aA" = (/turf/ProtectTheBase/Wall_3a{tag = ""; icon_state = "1,3"},/area)
+"aB" = (/turf/ProtectTheBase/Wall_3{tag = ""; icon_state = "0,3"},/area)
+"aC" = (/turf/ProtectTheBase/Wall_3{tag = ""; icon_state = "1,3"},/area)
+"aD" = (/turf/ProtectTheBase/Wall1{tag = ""; icon_state = "0,3"},/area)
+"aE" = (/turf/ProtectTheBase/Wall1{tag = ""; icon_state = "1,3"},/area)
+"aF" = (/turf/ProtectTheBase/Wall2{tag = ""; icon_state = "0,3"},/area)
+"aG" = (/turf/ProtectTheBase/Wall2a{tag = ""; icon_state = "0,2"},/area)
+"aH" = (/turf/ProtectTheBase/Wall1a{tag = ""; icon_state = "0,2"},/area)
+"aI" = (/turf/ProtectTheBase/Wall1a{tag = ""; icon_state = "1,2"},/area)
+"aJ" = (/turf/ProtectTheBase/Wall_3a{tag = ""; icon_state = "0,2"},/area)
+"aK" = (/turf/ProtectTheBase/Wall_3a{tag = ""; icon_state = "1,2"},/area)
+"aL" = (/turf/ProtectTheBase/Wall_3{tag = ""; icon_state = "0,2"},/area)
+"aM" = (/turf/ProtectTheBase/Wall_3{tag = ""; icon_state = "1,2"},/area)
+"aN" = (/turf/ProtectTheBase/Wall1{tag = ""; icon_state = "0,2"},/area)
+"aO" = (/turf/ProtectTheBase/Wall1{tag = ""; icon_state = "1,2"},/area)
+"aP" = (/turf/ProtectTheBase/Wall2{tag = ""; icon_state = "0,2"},/area)
+"aQ" = (/turf/ProtectTheBase/Wall2a{tag = ""; icon_state = "0,1"},/area)
+"aR" = (/turf/ProtectTheBase/Wall1a{tag = ""; icon_state = "0,1"},/area)
+"aS" = (/turf/ProtectTheBase/Wall1a{tag = ""; icon_state = "1,1"},/area)
+"aT" = (/turf/ProtectTheBase/Wall_3a{tag = ""; icon_state = "0,1"},/area)
+"aU" = (/turf/ProtectTheBase/Wall_3a{tag = ""; icon_state = "1,1"},/area)
+"aV" = (/turf/ProtectTheBase/Wall_3{tag = ""; icon_state = "0,1"},/area)
+"aW" = (/turf/ProtectTheBase/Wall_3{tag = ""; icon_state = "1,1"},/area)
+"aX" = (/turf/ProtectTheBase/Wall1{tag = ""; icon_state = "0,1"},/area)
+"aY" = (/turf/ProtectTheBase/Wall1{tag = ""; icon_state = "1,1"},/area)
+"aZ" = (/turf/ProtectTheBase/Wall2{tag = ""; icon_state = "0,1"},/area)
+"ba" = (/turf/ProtectTheBase/Wall2a{tag = ""; icon_state = "0,0"},/area)
+"bb" = (/turf/ProtectTheBase/Wall1a{tag = ""; icon_state = "0,0"},/area)
+"bc" = (/turf/ProtectTheBase/Wall1a{tag = ""; icon_state = "1,0"},/area)
+"bd" = (/turf/ProtectTheBase/Wall_3a{tag = ""; icon_state = "0,0"},/area)
+"be" = (/turf/ProtectTheBase/Wall_3a{tag = ""; icon_state = "1,0"},/area)
+"bf" = (/turf/ProtectTheBase/Wall_3{tag = ""; icon_state = "0,0"},/area)
+"bg" = (/turf/ProtectTheBase/Wall_3{tag = ""; icon_state = "1,0"},/area)
+"bh" = (/turf/ProtectTheBase/Wall1{tag = ""; icon_state = "0,0"},/area)
+"bi" = (/turf/ProtectTheBase/Wall1{tag = ""; icon_state = "1,0"},/area)
+"bj" = (/turf/ProtectTheBase/Wall2{tag = ""; icon_state = "0,0"},/area)
+"bk" = (/turf/CombatFacility/Tile1,/area)
+"bl" = (/turf/CombatFacility/Tile1a,/area)
+"bm" = (/turf/CombatFacility/Tile1b,/area)
+"bn" = (/turf/ProtectTheBase/Wall4{tag = ""; icon_state = "0,1"},/area)
+"bo" = (/turf/ProtectTheBase/Wall4{tag = ""; icon_state = "1,1"},/area)
+"bp" = (/turf/CombatFacility/Tile1c,/area)
+"bq" = (/turf/ProtectTheBase/Wall4{tag = ""; icon_state = "1,0"},/area)
+"br" = (/turf/ProtectTheBase/Wall4{tag = ""; icon_state = "0,0"},/area)
+"bs" = (/turf/ProtectTheBase/Wall3,/turf/CombatFacility/Tile2i,/area)
+"bt" = (/turf/ProtectTheBase/Wall3a,/turf/CombatFacility/Tile2i,/area)
+"bu" = (/turf/ProtectTheBase/Wall3b,/turf/CombatFacility/Tile2i,/area)
+"bv" = (/turf/ProtectTheBase/Wall2a{tag = ""; icon_state = "0,3"},/turf/Capsules,/area)
+"bw" = (/turf/ProtectTheBase/Wall1a{tag = ""; icon_state = "0,3"},/turf/Capsules/Capsule1/zero4,/turf/Capsules,/area)
+"bx" = (/turf/ProtectTheBase/Wall1a{tag = ""; icon_state = "1,3"},/turf/Capsules/Capsule1/one4,/turf/Capsules,/area)
+"by" = (/turf/ProtectTheBase/Wall1a{tag = ""; icon_state = "0,3"},/turf/Capsules/Capsule1/two4,/turf/Capsules,/area)
+"bz" = (/turf/ProtectTheBase/Wall1a{tag = ""; icon_state = "1,3"},/turf/Capsules,/area)
+"bA" = (/turf/ProtectTheBase/Wall1{tag = ""; icon_state = "1,3"},/turf/Capsules/Capsule1/zero4,/turf/Capsules,/area)
+"bB" = (/turf/ProtectTheBase/Wall1{tag = ""; icon_state = "0,3"},/turf/Capsules/Capsule1/one4,/turf/Capsules,/area)
+"bC" = (/turf/ProtectTheBase/Wall1{tag = ""; icon_state = "1,3"},/turf/Capsules/Capsule1/two4,/turf/Capsules,/area)
+"bD" = (/turf/ProtectTheBase/Wall2a{tag = ""; icon_state = "0,2"},/turf/NoBarrier,/area)
+"bE" = (/turf/ProtectTheBase/Wall1a{tag = ""; icon_state = "0,2"},/turf/Dense,/turf/Capsules/Capsule1/zero3,/area)
+"bF" = (/turf/ProtectTheBase/Wall1a{tag = ""; icon_state = "1,2"},/turf/Dense,/turf/Capsules/Capsule1/one3,/area)
+"bG" = (/turf/ProtectTheBase/Wall1a{tag = ""; icon_state = "0,2"},/turf/Dense,/turf/Capsules/Capsule1/two3,/area)
+"bH" = (/turf/ProtectTheBase/Wall1a{tag = ""; icon_state = "1,2"},/turf/NoBarrier,/area)
+"bI" = (/turf/ProtectTheBase/Wall1{tag = ""; icon_state = "0,2"},/turf/NoBarrier,/area)
+"bJ" = (/turf/ProtectTheBase/Wall1{tag = ""; icon_state = "1,2"},/turf/Dense,/turf/Capsules,/turf/Dense,/turf/Capsules/Capsule1/zero3,/area)
+"bK" = (/turf/ProtectTheBase/Wall1{tag = ""; icon_state = "0,2"},/turf/Dense,/turf/Capsules,/turf/Dense,/turf/Capsules/Capsule1/one3,/area)
+"bL" = (/turf/ProtectTheBase/Wall1{tag = ""; icon_state = "1,2"},/turf/Dense,/turf/Capsules,/turf/Dense,/turf/Capsules/Capsule1/two3,/area)
+"bM" = (/turf/ProtectTheBase/Wall2{tag = ""; icon_state = "0,2"},/turf/NoBarrier,/area)
+"bN" = (/turf/ProtectTheBase/Wall2a{tag = ""; icon_state = "0,1"},/turf/NoBarrier,/area)
+"bO" = (/turf/ProtectTheBase/Wall1a{tag = ""; icon_state = "0,1"},/turf/Capsules/Capsule1/zero2,/area)
+"bP" = (/turf/ProtectTheBase/Wall1a{tag = ""; icon_state = "1,1"},/turf/ForestMap,/turf/Capsules/Capsule1/one2,/area)
+"bQ" = (/turf/ProtectTheBase/Wall1a{tag = ""; icon_state = "0,1"},/turf/Capsules/Capsule1/two2,/area)
+"bR" = (/turf/ProtectTheBase/Wall1a{tag = ""; icon_state = "1,1"},/turf/NoBarrier,/area)
+"bS" = (/turf/ProtectTheBase/Wall_3a{tag = ""; icon_state = "1,1"},/turf/CombatFacility/Tile2i,/area)
+"bT" = (/turf/ProtectTheBase/Wall_3{tag = ""; icon_state = "0,1"},/turf/CombatFacility/Tile2i,/area)
+"bU" = (/turf/ProtectTheBase/Wall1{tag = ""; icon_state = "0,1"},/turf/NoBarrier,/area)
+"bV" = (/turf/ProtectTheBase/Wall1{tag = ""; icon_state = "1,1"},/turf/Capsules/Capsule1/zero2,/area)
+"bW" = (/turf/ProtectTheBase/Wall1{tag = ""; icon_state = "0,1"},/turf/FlagPoint,/turf/Capsules/Capsule1/one2,/area)
+"bX" = (/turf/ProtectTheBase/Wall1{tag = ""; icon_state = "1,1"},/turf/Capsules/Capsule1/two2,/area)
+"bY" = (/turf/ProtectTheBase/Wall2{tag = ""; icon_state = "0,1"},/turf/NoBarrier,/area)
+"bZ" = (/turf/ProtectTheBase/Wall2a{tag = ""; icon_state = "0,0"},/turf/NoBarrier,/area)
+"ca" = (/turf/ProtectTheBase/Wall1a{tag = ""; icon_state = "0,0"},/turf/Capsules/Capsule1/zero1,/area)
+"cb" = (/turf/ProtectTheBase/Wall1a{tag = ""; icon_state = "1,0"},/turf/Dense,/turf/Capsules/Capsule1/one1,/area)
+"cc" = (/turf/ProtectTheBase/Wall1a{tag = ""; icon_state = "0,0"},/turf/Capsules/Capsule1/two1,/area)
+"cd" = (/turf/ProtectTheBase/Wall1a{tag = ""; icon_state = "1,0"},/turf/NoBarrier,/area)
+"ce" = (/turf/ProtectTheBase/Wall1{tag = ""; icon_state = "0,0"},/turf/NoBarrier,/area)
+"cf" = (/turf/ProtectTheBase/Wall1{tag = ""; icon_state = "1,0"},/turf/Capsules/Capsule1/zero1,/area)
+"cg" = (/turf/ProtectTheBase/Wall1{tag = ""; icon_state = "0,0"},/turf/Dense,/turf/Capsules/Capsule1/one1,/area)
+"ch" = (/turf/ProtectTheBase/Wall1{tag = ""; icon_state = "1,0"},/turf/Capsules/Capsule1/two1,/area)
+"ci" = (/turf/ProtectTheBase/Wall2{tag = ""; icon_state = "0,0"},/turf/NoBarrier,/area)
+"cj" = (/turf/ProtectTheBase/Wall3a,/turf/NoBarrier,/area)
+"ck" = (/turf/ProtectTheBase/Wall3b,/turf/NoBarrier,/area)
+"cl" = (/turf/CombatFacility/Tile1a,/turf/Dense,/turf/Capsules,/turf/Dense,/turf/Capsules/Capsule1/zero0,/area)
+"cm" = (/turf/CombatFacility/Tile1a,/turf/Dense,/turf/Capsules,/turf/Dense,/turf/Capsules/Capsule1/one0,/area)
+"cn" = (/turf/CombatFacility/Tile1a,/turf/Dense,/turf/Capsules,/turf/Dense,/turf/Capsules/Capsule1/two0,/area)
+"co" = (/turf/ProtectTheBase/Wall_3a{tag = ""; icon_state = "0,1"},/turf/CombatFacility/Tile2i,/area)
+"cp" = (/turf/ProtectTheBase/Wall_3{tag = ""; icon_state = "1,1"},/turf/CombatFacility/Tile2i,/area)
+"cq" = (/turf/ProtectTheBase/Wall4{tag = ""; icon_state = "0,1"},/turf/NoBarrier,/area)
+"cr" = (/turf/ProtectTheBase/Wall4{tag = ""; icon_state = "1,1"},/turf/NoBarrier,/area)
+"cs" = (/turf/ProtectTheBase/Wall4{tag = ""; icon_state = "0,0"},/turf/NoBarrier,/area)
+"ct" = (/turf/ProtectTheBase/Wall4{tag = ""; icon_state = "1,0"},/turf/NoBarrier,/area)
+"cu" = (/turf/ProtectTheBase/Wall4c,/turf/ProtectTheBase/Wall3e,/area)
+"cv" = (/turf/ProtectTheBase/Wall4c,/area)
+"cw" = (/turf/ProtectTheBase/Wall4c,/turf/ProtectTheBase/Wall3f,/area)
+"cx" = (/turf/CombatFacility/Tile1d,/area)
+"cy" = (/turf/ProtectTheBase/Wall4c,/turf/CombatFacility/Tile2i,/turf/CombatFacility/Tile2n,/turf/CombatFacility/Tile2i,/area)
+"cz" = (/turf/ProtectTheBase/Wall4c,/turf/CombatFacility/Tile2i,/area)
+"cA" = (/turf/ProtectTheBase/Wall4c,/turf/ProtectTheBase/Wall3c,/area)
+"cB" = (/turf/ProtectTheBase/Wall4c,/turf/ProtectTheBase/Wall3d,/area)
+"cC" = (/turf/ProtectTheBase/Wall4c,/turf/NoBarrier,/area)
+"cD" = (/turf/CombatFacility/Tile1a,/turf/Dense,/area)
+"cE" = (/turf/CombatFacility/Tile1b,/turf/Dense,/area)
+"cF" = (/turf/CombatFacility/Tile1,/turf/Dense,/area)
+"cG" = (/turf/ProtectTheBase/Wall_3b{tag = ""; icon_state = "0,4"},/area)
+"cH" = (/turf/ProtectTheBase/Wall_3b{tag = ""; icon_state = "1,4"},/area)
+"cI" = (/turf/ProtectTheBase/Wall1b{tag = ""; icon_state = "0,4"},/area)
+"cJ" = (/turf/ProtectTheBase/Wall1b{tag = ""; icon_state = "1,4"},/area)
+"cK" = (/turf/ProtectTheBase/Wall2b{tag = ""; icon_state = "0,4"},/area)
+"cL" = (/turf/ProtectTheBase/Wall2c{tag = ""; icon_state = "0,4"},/area)
+"cM" = (/turf/ProtectTheBase/Wall1c{tag = ""; icon_state = "0,4"},/area)
+"cN" = (/turf/ProtectTheBase/Wall1c{tag = ""; icon_state = "1,4"},/area)
+"cO" = (/turf/ProtectTheBase/Wall_3c{tag = ""; icon_state = "0,4"},/area)
+"cP" = (/turf/ProtectTheBase/Wall_3c{tag = ""; icon_state = "1,4"},/area)
+"cQ" = (/turf/ProtectTheBase/Wall_3b{tag = ""; icon_state = "0,3"},/area)
+"cR" = (/turf/ProtectTheBase/Wall_3b{tag = ""; icon_state = "1,3"},/area)
+"cS" = (/turf/ProtectTheBase/Wall1b{tag = ""; icon_state = "0,3"},/area)
+"cT" = (/turf/ProtectTheBase/Wall1b{tag = ""; icon_state = "1,3"},/area)
+"cU" = (/turf/ProtectTheBase/Wall2b{tag = ""; icon_state = "0,3"},/area)
+"cV" = (/turf/ProtectTheBase/Wall2c{tag = ""; icon_state = "0,3"},/area)
+"cW" = (/turf/ProtectTheBase/Wall1c{tag = ""; icon_state = "0,3"},/area)
+"cX" = (/turf/ProtectTheBase/Wall1c{tag = ""; icon_state = "1,3"},/area)
+"cY" = (/turf/ProtectTheBase/Wall_3c{tag = ""; icon_state = "0,3"},/area)
+"cZ" = (/turf/ProtectTheBase/Wall_3c{tag = ""; icon_state = "1,3"},/area)
+"da" = (/turf/ProtectTheBase/Wall_3b{tag = ""; icon_state = "0,2"},/area)
+"db" = (/turf/ProtectTheBase/Wall_3b{tag = ""; icon_state = "1,2"},/area)
+"dc" = (/turf/ProtectTheBase/Wall1b{tag = ""; icon_state = "0,2"},/area)
+"dd" = (/turf/ProtectTheBase/Wall1b{tag = ""; icon_state = "1,2"},/area)
+"de" = (/turf/ProtectTheBase/Wall2b{tag = ""; icon_state = "0,2"},/area)
+"df" = (/turf/ProtectTheBase/Wall2c{tag = ""; icon_state = "0,2"},/area)
+"dg" = (/turf/ProtectTheBase/Wall1c{tag = ""; icon_state = "0,2"},/area)
+"dh" = (/turf/ProtectTheBase/Wall1c{tag = ""; icon_state = "1,2"},/area)
+"di" = (/turf/ProtectTheBase/Wall_3c{tag = ""; icon_state = "0,2"},/area)
+"dj" = (/turf/ProtectTheBase/Wall_3c{tag = ""; icon_state = "1,2"},/area)
+"dk" = (/turf/ProtectTheBase/Wall_3b{tag = ""; icon_state = "0,1"},/area)
+"dl" = (/turf/ProtectTheBase/Wall_3b{tag = ""; icon_state = "1,1"},/area)
+"dm" = (/turf/ProtectTheBase/Wall1b{tag = ""; icon_state = "0,1"},/area)
+"dn" = (/turf/ProtectTheBase/Wall1b{tag = ""; icon_state = "1,1"},/area)
+"do" = (/turf/ProtectTheBase/Wall2b{tag = ""; icon_state = "0,1"},/area)
+"dp" = (/turf/ProtectTheBase/Wall2c{tag = ""; icon_state = "0,1"},/area)
+"dq" = (/turf/ProtectTheBase/Wall1c{tag = ""; icon_state = "0,1"},/area)
+"dr" = (/turf/ProtectTheBase/Wall1c{tag = ""; icon_state = "1,1"},/area)
+"ds" = (/turf/ProtectTheBase/Wall_3c{tag = ""; icon_state = "0,1"},/area)
+"dt" = (/turf/ProtectTheBase/Wall_3c{tag = ""; icon_state = "1,1"},/area)
+"du" = (/turf/ProtectTheBase/Wall_3b{tag = ""; icon_state = "0,0"},/area)
+"dv" = (/turf/ProtectTheBase/Wall_3b{tag = ""; icon_state = "1,0"},/area)
+"dw" = (/turf/ProtectTheBase/Wall1b{tag = ""; icon_state = "0,0"},/area)
+"dx" = (/turf/ProtectTheBase/Wall1b{tag = ""; icon_state = "1,0"},/area)
+"dy" = (/turf/ProtectTheBase/Wall2b{tag = ""; icon_state = "0,0"},/area)
+"dz" = (/turf/ProtectTheBase/Wall2c{tag = ""; icon_state = "0,0"},/area)
+"dA" = (/turf/ProtectTheBase/Wall1c{tag = ""; icon_state = "0,0"},/area)
+"dB" = (/turf/ProtectTheBase/Wall1c{tag = ""; icon_state = "1,0"},/area)
+"dC" = (/turf/ProtectTheBase/Wall_3c{tag = ""; icon_state = "0,0"},/area)
+"dD" = (/turf/ProtectTheBase/Wall_3c{tag = ""; icon_state = "1,0"},/area)
+"dE" = (/turf/ProtectTheBase/Wall_3b{tag = ""; icon_state = "0,1"},/turf/CombatFacility/Tile2i,/area)
+"dF" = (/turf/ProtectTheBase/Wall_3c{tag = ""; icon_state = "1,1"},/turf/CombatFacility/Tile2i,/area)
+"dG" = (/turf/ProtectTheBase/Wall1b{tag = ""; icon_state = "0,3"},/turf/Capsules/Capsule1/zero4,/turf/Capsules,/area)
+"dH" = (/turf/ProtectTheBase/Wall1b{tag = ""; icon_state = "1,3"},/turf/Capsules/Capsule1/one4,/turf/Capsules,/area)
+"dI" = (/turf/ProtectTheBase/Wall1b{tag = ""; icon_state = "0,3"},/turf/Capsules/Capsule1/two4,/turf/Capsules,/area)
+"dJ" = (/turf/ProtectTheBase/Wall1c{tag = ""; icon_state = "1,3"},/turf/Capsules/Capsule1/zero4,/turf/Capsules,/area)
+"dK" = (/turf/ProtectTheBase/Wall1c{tag = ""; icon_state = "0,3"},/turf/Capsules/Capsule1/one4,/turf/Capsules,/area)
+"dL" = (/turf/ProtectTheBase/Wall1c{tag = ""; icon_state = "1,3"},/turf/Capsules/Capsule1/two4,/turf/Capsules,/area)
+"dM" = (/turf/ProtectTheBase/Wall2b{tag = ""; icon_state = "0,2"},/turf/NoBarrier,/area)
+"dN" = (/turf/ProtectTheBase/Wall1b{tag = ""; icon_state = "0,2"},/turf/Dense,/turf/Capsules/Capsule1/zero3,/area)
+"dO" = (/turf/ProtectTheBase/Wall1b{tag = ""; icon_state = "1,2"},/turf/Dense,/turf/Capsules/Capsule1/one3,/area)
+"dP" = (/turf/ProtectTheBase/Wall1b{tag = ""; icon_state = "0,2"},/turf/Dense,/turf/Capsules/Capsule1/two3,/area)
+"dQ" = (/turf/ProtectTheBase/Wall1b{tag = ""; icon_state = "1,2"},/turf/NoBarrier,/area)
+"dR" = (/turf/ProtectTheBase/Wall1c{tag = ""; icon_state = "0,2"},/turf/NoBarrier,/area)
+"dS" = (/turf/ProtectTheBase/Wall1c{tag = ""; icon_state = "1,2"},/turf/Dense,/turf/Capsules,/turf/Dense,/turf/Capsules/Capsule1/zero3,/area)
+"dT" = (/turf/ProtectTheBase/Wall1c{tag = ""; icon_state = "0,2"},/turf/Dense,/turf/Capsules,/turf/Dense,/turf/Capsules/Capsule1/one3,/area)
+"dU" = (/turf/ProtectTheBase/Wall1c{tag = ""; icon_state = "1,2"},/turf/Dense,/turf/Capsules,/turf/Dense,/turf/Capsules/Capsule1/two3,/area)
+"dV" = (/turf/ProtectTheBase/Wall2c{tag = ""; icon_state = "0,2"},/turf/NoBarrier,/area)
+"dW" = (/turf/ProtectTheBase/Wall2b{tag = ""; icon_state = "0,1"},/turf/NoBarrier,/area)
+"dX" = (/turf/ProtectTheBase/Wall1b{tag = ""; icon_state = "0,1"},/turf/Capsules/Capsule1/zero2,/area)
+"dY" = (/turf/ProtectTheBase/Wall1b{tag = ""; icon_state = "1,1"},/turf/FlagPoint,/turf/Capsules/Capsule1/one2,/area)
+"dZ" = (/turf/ProtectTheBase/Wall1b{tag = ""; icon_state = "0,1"},/turf/Capsules/Capsule1/two2,/area)
+"ea" = (/turf/ProtectTheBase/Wall1b{tag = ""; icon_state = "1,1"},/turf/NoBarrier,/area)
+"eb" = (/turf/ProtectTheBase/Wall1c{tag = ""; icon_state = "0,1"},/turf/NoBarrier,/area)
+"ec" = (/turf/ProtectTheBase/Wall1c{tag = ""; icon_state = "1,1"},/turf/Capsules/Capsule1/zero2,/area)
+"ed" = (/turf/ProtectTheBase/Wall1c{tag = ""; icon_state = "0,1"},/turf/FlagPoint,/turf/Capsules/Capsule1/one2,/area)
+"ee" = (/turf/ProtectTheBase/Wall1c{tag = ""; icon_state = "1,1"},/turf/Capsules/Capsule1/two2,/area)
+"ef" = (/turf/ProtectTheBase/Wall2c{tag = ""; icon_state = "0,1"},/turf/NoBarrier,/area)
+"eg" = (/turf/ProtectTheBase/Wall2b{tag = ""; icon_state = "0,0"},/turf/NoBarrier,/area)
+"eh" = (/turf/ProtectTheBase/Wall1b{tag = ""; icon_state = "0,0"},/turf/Capsules/Capsule1/zero1,/area)
+"ei" = (/turf/ProtectTheBase/Wall1b{tag = ""; icon_state = "1,0"},/turf/Dense,/turf/Capsules/Capsule1/one1,/area)
+"ej" = (/turf/ProtectTheBase/Wall1b{tag = ""; icon_state = "0,0"},/turf/Capsules/Capsule1/two1,/area)
+"ek" = (/turf/ProtectTheBase/Wall1b{tag = ""; icon_state = "1,0"},/turf/NoBarrier,/area)
+"el" = (/turf/ProtectTheBase/Wall1c{tag = ""; icon_state = "0,0"},/turf/NoBarrier,/area)
+"em" = (/turf/ProtectTheBase/Wall1c{tag = ""; icon_state = "1,0"},/turf/Capsules/Capsule1/zero1,/area)
+"en" = (/turf/ProtectTheBase/Wall1c{tag = ""; icon_state = "0,0"},/turf/Dense,/turf/Capsules,/turf/Dense,/turf/Capsules/Capsule1/one1,/area)
+"eo" = (/turf/ProtectTheBase/Wall1c{tag = ""; icon_state = "1,0"},/turf/Capsules/Capsule1/two1,/area)
+"ep" = (/turf/ProtectTheBase/Wall2c{tag = ""; icon_state = "0,0"},/turf/NoBarrier,/area)
+"eq" = (/turf/CombatFacility/Tile1a,/turf/Dense,/turf/Capsules/Capsule1/zero0,/area)
+"er" = (/turf/CombatFacility/Tile1a,/turf/Dense,/turf/Capsules/Capsule1/one0,/area)
+"es" = (/turf/CombatFacility/Tile1a,/turf/Dense,/turf/Capsules/Capsule1/two0,/area)
+"et" = (/turf/ProtectTheBase/Wall_3b{tag = ""; icon_state = "1,1"},/turf/CombatFacility/Tile2i,/area)
+"eu" = (/turf/ProtectTheBase/Wall_3c{tag = ""; icon_state = "0,1"},/turf/CombatFacility/Tile2i,/area)
+"ev" = (/turf/ProtectTheBase/Wall_3new/BG04,/area)
+"ew" = (/turf/ProtectTheBase/Wall_3new/BG14,/area)
+"ex" = (/turf/ProtectTheBase/Wall1new/BG04,/area)
+"ey" = (/turf/ProtectTheBase/Wall1new/BG14,/area)
+"ez" = (/turf/ProtectTheBase/Wall2new/BG04,/area)
+"eA" = (/turf/ProtectTheBase/Wall_3new/BG03,/area)
+"eB" = (/turf/ProtectTheBase/Wall_3new/BG13,/area)
+"eC" = (/turf/ProtectTheBase/Wall1new/BG03,/area)
+"eD" = (/turf/ProtectTheBase/Wall1new/BG13,/area)
+"eE" = (/turf/ProtectTheBase/Wall2new/BG03,/area)
+"eF" = (/turf/ProtectTheBase/Wall_3new/BG02,/area)
+"eG" = (/turf/ProtectTheBase/Wall_3new/BG12,/area)
+"eH" = (/turf/ProtectTheBase/Wall1new/BG02,/area)
+"eI" = (/turf/ProtectTheBase/Wall1new/BG12,/area)
+"eJ" = (/turf/ProtectTheBase/Wall2new/BG02,/area)
+"eK" = (/turf/ProtectTheBase/Wall_3new/BG01,/area)
+"eL" = (/turf/ProtectTheBase/Wall_3new/BG11,/area)
+"eM" = (/turf/ProtectTheBase/Wall1new/BG01,/area)
+"eN" = (/turf/ProtectTheBase/Wall1new/BG11,/area)
+"eO" = (/turf/ProtectTheBase/Wall2new/BG01,/area)
+"eP" = (/turf/ProtectTheBase/Wall_3new/BG00,/area)
+"eQ" = (/turf/ProtectTheBase/Wall_3new/BG10,/area)
+"eR" = (/turf/ProtectTheBase/Wall1new/BG00,/area)
+"eS" = (/turf/ProtectTheBase/Wall1new/BG10,/area)
+"eT" = (/turf/ProtectTheBase/Wall2new/BG00,/area)
+"eU" = (/turf/ProtectTheBase/Wall2anew/BG04,/area)
+"eV" = (/turf/ProtectTheBase/Wall2anew/BG03,/area)
+"eW" = (/turf/ProtectTheBase/Wall2anew/BG02,/area)
+"eX" = (/turf/ProtectTheBase/Wall2anew/BG01,/area)
+"eY" = (/turf/ProtectTheBase/Wall2anew/BG00,/area)
+"eZ" = (/turf/ProtectTheBase/Wall_3anew/BG04,/area)
+"fa" = (/turf/ProtectTheBase/Wall_3anew/BG14,/area)
+"fb" = (/turf/ProtectTheBase/Wall1anew/BG04,/area)
+"fc" = (/turf/ProtectTheBase/Wall1anew/BG14,/area)
+"fd" = (/turf/ProtectTheBase/Wall_3anew/BG03,/area)
+"fe" = (/turf/ProtectTheBase/Wall_3anew/BG13,/area)
+"ff" = (/turf/ProtectTheBase/Wall1anew/BG03,/area)
+"fg" = (/turf/ProtectTheBase/Wall1anew/BG13,/area)
+"fh" = (/turf/ProtectTheBase/Wall_3anew/BG02,/area)
+"fi" = (/turf/ProtectTheBase/Wall_3anew/BG12,/area)
+"fj" = (/turf/ProtectTheBase/Wall1anew/BG02,/area)
+"fk" = (/turf/ProtectTheBase/Wall1anew/BG12,/area)
+"fl" = (/turf/ProtectTheBase/Wall_3anew/BG01,/area)
+"fm" = (/turf/ProtectTheBase/Wall_3anew/BG11,/area)
+"fn" = (/turf/ProtectTheBase/Wall1anew/BG01,/area)
+"fo" = (/turf/ProtectTheBase/Wall1anew/BG11,/area)
+"fp" = (/turf/ProtectTheBase/Wall_3anew/BG00,/area)
+"fq" = (/turf/ProtectTheBase/Wall_3anew/BG10,/area)
+"fr" = (/turf/ProtectTheBase/Wall1anew/BG00,/area)
+"fs" = (/turf/ProtectTheBase/Wall1anew/BG10,/area)
+"ft" = (/turf/ProtectTheBase/Wall4new/BG01,/area)
+"fu" = (/turf/ProtectTheBase/Wall4new/BG11,/area)
+"fv" = (/turf/ProtectTheBase/Wall4new/BG00,/area)
+"fw" = (/turf/ProtectTheBase/Wall4new/BG10,/area)
+"fx" = (/turf/ProtectTheBase/Wall_3bnew/BG04,/area)
+"fy" = (/turf/ProtectTheBase/Wall_3bnew/BG14,/area)
+"fz" = (/turf/ProtectTheBase/Wall1bnew/BG04,/area)
+"fA" = (/turf/ProtectTheBase/Wall1bnew/BG14,/area)
+"fB" = (/turf/ProtectTheBase/Wall2cnew/BG04,/area)
+"fC" = (/turf/ProtectTheBase/Wall1cnew/BG04,/area)
+"fD" = (/turf/ProtectTheBase/Wall1cnew/BG14,/area)
+"fE" = (/turf/ProtectTheBase/Wall_3cnew/BG04,/area)
+"fF" = (/turf/ProtectTheBase/Wall_3cnew/BG14,/area)
+"fG" = (/turf/ProtectTheBase/Wall_3bnew/BG03,/area)
+"fH" = (/turf/ProtectTheBase/Wall_3bnew/BG13,/area)
+"fI" = (/turf/ProtectTheBase/Wall1bnew/BG03,/area)
+"fJ" = (/turf/ProtectTheBase/Wall1bnew/BG13,/area)
+"fK" = (/turf/ProtectTheBase/Wall2cnew/BG03,/area)
+"fL" = (/turf/ProtectTheBase/Wall1cnew/BG03,/area)
+"fM" = (/turf/ProtectTheBase/Wall1cnew/BG13,/area)
+"fN" = (/turf/ProtectTheBase/Wall_3cnew/BG03,/area)
+"fO" = (/turf/ProtectTheBase/Wall_3cnew/BG13,/area)
+"fP" = (/turf/ProtectTheBase/Wall_3bnew/BG02,/area)
+"fQ" = (/turf/ProtectTheBase/Wall_3bnew/BG12,/area)
+"fR" = (/turf/ProtectTheBase/Wall1bnew/BG02,/area)
+"fS" = (/turf/ProtectTheBase/Wall1bnew/BG12,/area)
+"fT" = (/turf/ProtectTheBase/Wall2cnew/BG02,/area)
+"fU" = (/turf/ProtectTheBase/Wall1cnew/BG02,/area)
+"fV" = (/turf/ProtectTheBase/Wall1cnew/BG12,/area)
+"fW" = (/turf/ProtectTheBase/Wall_3cnew/BG02,/area)
+"fX" = (/turf/ProtectTheBase/Wall_3cnew/BG12,/area)
+"fY" = (/turf/ProtectTheBase/Wall_3bnew/BG01,/area)
+"fZ" = (/turf/ProtectTheBase/Wall_3bnew/BG11,/area)
+"ga" = (/turf/ProtectTheBase/Wall1bnew/BG01,/area)
+"gb" = (/turf/ProtectTheBase/Wall1bnew/BG11,/area)
+"gc" = (/turf/ProtectTheBase/Wall2cnew/BG01,/area)
+"gd" = (/turf/ProtectTheBase/Wall1cnew/BG01,/area)
+"ge" = (/turf/ProtectTheBase/Wall1cnew/BG11,/area)
+"gf" = (/turf/ProtectTheBase/Wall_3cnew/BG01,/area)
+"gg" = (/turf/ProtectTheBase/Wall_3cnew/BG11,/area)
+"gh" = (/turf/ProtectTheBase/Wall_3bnew/BG00,/area)
+"gi" = (/turf/ProtectTheBase/Wall_3bnew/BG10,/area)
+"gj" = (/turf/ProtectTheBase/Wall1bnew/BG00,/area)
+"gk" = (/turf/ProtectTheBase/Wall1bnew/BG10,/area)
+"gl" = (/turf/ProtectTheBase/Wall2cnew/BG00,/area)
+"gm" = (/turf/ProtectTheBase/Wall1cnew/BG00,/area)
+"gn" = (/turf/ProtectTheBase/Wall1cnew/BG10,/area)
+"go" = (/turf/ProtectTheBase/Wall_3cnew/BG00,/area)
+"gp" = (/turf/ProtectTheBase/Wall_3cnew/BG10,/area)
+"gq" = (/turf/ProtectTheBase/Wall2bnew/BG04,/area)
+"gr" = (/turf/ProtectTheBase/Wall2bnew/BG03,/area)
+"gs" = (/turf/ProtectTheBase/Wall1bnew/BG03,/turf/Capsules/Capsule1/zero4,/area)
+"gt" = (/turf/ProtectTheBase/Wall1bnew/BG13,/turf/Capsules/Capsule1/one4,/area)
+"gu" = (/turf/ProtectTheBase/Wall1bnew/BG03,/turf/Capsules/Capsule1/two4,/area)
+"gv" = (/turf/ProtectTheBase/Wall2bnew/BG02,/area)
+"gw" = (/turf/ProtectTheBase/Wall1bnew/BG02,/turf/Capsules/Capsule1/zero3,/area)
+"gx" = (/turf/ProtectTheBase/Wall1bnew/BG12,/turf/Capsules/Capsule1/one3,/area)
+"gy" = (/turf/ProtectTheBase/Wall1bnew/BG02,/turf/Capsules/Capsule1/two3,/area)
+"gz" = (/turf/ProtectTheBase/Wall2bnew/BG01,/area)
+"gA" = (/turf/ProtectTheBase/Wall1bnew/BG01,/turf/Capsules/Capsule1/zero2,/area)
+"gB" = (/turf/ProtectTheBase/Wall1bnew/BG11,/turf/Capsules/Capsule1/one2,/area)
+"gC" = (/turf/ProtectTheBase/Wall1bnew/BG01,/turf/Capsules/Capsule1/two2,/area)
+"gD" = (/turf/ProtectTheBase/Wall_3bnew/BG01,/turf/CombatFacility/Tile2i,/area)
+"gE" = (/turf/ProtectTheBase/Wall2bnew/BG00,/area)
+"gF" = (/turf/ProtectTheBase/Wall1bnew/BG00,/turf/Capsules/Capsule1/zero1,/area)
+"gG" = (/turf/ProtectTheBase/Wall1bnew/BG10,/turf/Capsules/Capsule1/one1,/area)
+"gH" = (/turf/ProtectTheBase/Wall1bnew/BG00,/turf/Capsules/Capsule1/two1,/area)
+"gI" = (/turf/CombatFacility/Tile1a,/turf/Capsules/Capsule1/zero0,/area)
+"gJ" = (/turf/CombatFacility/Tile1a,/turf/Capsules/Capsule1/one0,/area)
+"gK" = (/turf/CombatFacility/Tile1a,/turf/Capsules/Capsule1/two0,/area)
+"gL" = (/turf/ProtectTheBase/Wall_3bnew/BG11,/turf/CombatFacility/Tile2i,/area)
+
+(1,1,1) = {"
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababac
+adaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaf
+adaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaf
+adaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaf
+agahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahai
+aaabacajakalalalalalalamanaoanaoanaoanaoanaoanaoanaoanaoanaoapaqapaqaaababababababababababababababacaaababababababababababababababacarasarasatauatauatauatauatauatauatauatauatauavalalalalalalajakaaabac
+adaeafajakalalalalalalawaxayaxayaxayaxayaxayaxayaxayaxayaxayazaAazaAadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafaBaCaBaCaDaEaDaEaDaEaDaEaDaEaDaEaDaEaDaEaDaEaFalalalalalalajakadaeaf
+adaeafajakalalalalalalaGaHaIaHaIaHaIaHaIaHaIaHaIaHaIaHaIaHaIaJaKaJaKadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafaLaMaLaMaNaOaNaOaNaOaNaOaNaOaNaOaNaOaNaOaNaOaPalalalalalalajakadaeaf
+adaeafajakalalalalalalaQaRaSaRaSaRaSaRaSaRaSaRaSaRaSaRaSaRaSaTaUaTaUadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafaVaWaVaWaXaYaXaYaXaYaXaYaXaYaXaYaXaYaXaYaXaYaZalalalalalalajakadaeaf
+adaeafajakalalalalalalbabbbcbbbcbbbcbbbcbbbcbbbcbbbcbbbcbbbcbdbebdbeadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafbfbgbfbgbhbibhbibhbibhbibhbibhbibhbibhbibhbibjalalalalalalajakadaeaf
+adaeafajakalalalalalalbkblblblbmbkbmbkblblblblblblblblblblbmbnbobnboadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafbnbobnbobkblblblblblblblblblblbmbkbmbkblblblbmalalalalalalajakadaeaf
+adaeafajakalalalalbpalaaabababacaaacaaababababababababababacbpbqbrbqadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafbrbqbrbpaaababababababababababacaaacaaabababacalbpalalalalajakadaeaf
+adaeafajakalalbpalbsalagahahahaiadafagahahahahahahahahahahaibtakajakadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafajakajbuagahahahahahahahahahahaiadafagahahahaialbsalbpalalajakadaeaf
+adaeafajakbpalbsalalalamanaoanaoadafapaqapaqanaoanaoanaoanaoapaqapaqadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafarasarasatauatauatauatauarasarasadafatauatauavalalalbsalbpajakadaeaf
+adaeafbpakbsalalalalalbvbwbxbybzadafazaAazaAaxayaxayaxayaxayazaAazaAadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafaBaCaBaCaDaEaDaEaDaEaDaEaBaCaBaCadafaDbAbBbCaFalalalalalbsajbpadaeaf
+adaeafbtakalalalalalalbDbEbFbGbHadafaJaKaJaKaHaIaHaIaHaIaHaIaJaKaJbpadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafbpaMaLaMaNaOaNaOaNaOaNaOaLaMaLaMadafbIbJbKbLbMalalalalalalajbuadaeaf
+adaeafajakalalalalalalbNbObPbQbRadafaTaUaTaUaRaSaRaSaRaSaRaSaTaUaTbSadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafbTaWaVaWaXaYaXaYaXaYaXaYaVaWaVaWadafbUbVbWbXbYalalalalalalajakadaeaf
+adaeafajakalalalalalalbZcacbcccdadafbdbebdbebbbcbbbcbbbcbbbcbdbebdbeadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafbfbgbfbgbhbibhbibhbibhbibfbgbfbgadafcecfcgchcialalalalalalajakadaeaf
+adaeafcjckbkblblblblblblclcmcnbmadafbnbobnbobkblblblblblblblblblblbmadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafbkblblblblblblblblblblbmbnbobnboadafbkclcmcnblblblblblblbmcjckadaeaf
+adaeafcjckaaabababababababababacadafbrbqbrbpaaababababababababababacadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafaaababababababababababacbpbqbrbqadafaaabababababababababaccjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeafadafajakajbuagahahahahahahahahahahaiagahahahahahahahahahahahahahahaiagahahahahahahahahahahahahahahaiagahahahahahahahahahahaibtakajakadafadaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeafadafapaqapaqanaoanaoanaoanaoanaoanaoanaoanaoanaoanaoanaoanaoanaoamalalavatauatauatauatauatauatauatauatauatauatauatauatauatauarasarasadafadaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeafadafazaAazaAaxayaxayaxayaxayaxayaxayaxayaxayaxayaxayaxayaxayaxayawalalaFaDaEaDaEaDaEaDaEaDaEaDaEaDaEaDaEaDaEaDaEaDaEaDaEaDaEaBaCaBaCadafadaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeafadafbpaKaJaKaHaIaHaIaHaIaHaIaHaIaHaIaHaIaHaIaHaIaHaIaHaIaHaIaHaIaGalalaPaNaOaNaOaNaOaNaOaNaOaNaOaNaOaNaOaNaOaNaOaNaOaNaOaNaOaLaMaLbpadafadaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeafadafcoaUaTaUaRaSaRaSaRaSaRaSaRaSaRaSaRaSaRaSaRaSaRaSaRaSaRaSaRaSaQalalaZaXaYaXaYaXaYaXaYaXaYaXaYaXaYaXaYaXaYaXaYaXaYaXaYaXaYaVaWaVcpadafadaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeafadafbdbebdbebbbcbbbcbbbcbbbcbbbcbbbcbbbcbbbcbbbcbbbcbbbcbbbcbbbcbaalalbjbhbibhbibhbibhbibhbibhbibhbibhbibhbibhbibhbibhbibhbibfbgbfbgadafadaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeafadafbnbobnbobkblblblblblblblblblblblblblblblbmbkblblblblblblblblblbmbkblblblblblblblblblbmbkblblblblblblblblblblblblblblblbmbnbobnboadafadaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeafadafbrbqbrbqaaabababababababababababababababacaaabababababababababacaaabababababababababacaaabababababababababababababababacbrbqbrbqadafadaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeafadafajakajakadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafajakajakadafadaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeafadafajakajakadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafajakajakadafadaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeafadafajakajakadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafbpakajbpadafadaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckagahahahahahahahahahaiagaiajakajakagahahahahahahahahahahahahahahahaiadaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeafagahahahahahahahahahahahahahahahaibtakajbuagaiagahahahahahahahahahaicjckadaeaf
+adaeafapaqanaoanaoanaoanaoanaoanaoamajakajakalalalalalalalalalalalalalalalalaladaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeafalalalalalalalalalalalalalalalalalajakajakavatauatauatauatauatauatauarasadaeaf
+adaeafazaAaxayaxayaxayaxayaxayaxayawajakajakalalalalalalalalalalalalalalalalaladaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeafalalalalalalalalalalalalalalalalalajakajakaFaDaEaDaEaDaEaDaEaDaEaDaEaBaCadaeaf
+adaeafaJaKaHaIaHaIaHaIaHaIaHaIaHaIaGajakajakalalalalalalalalalalalalalalalalaladaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeafalalalalalalalalalalalalalalalalalajbpbpakaPaNaOaNaOaNaOaNaOaNaOaNaOaLaMadaeaf
+adaeafaTaUaRaSaRaSaRaSaRaSaRaSaRaSaQajakajakalalalalalalalalalalalalalalalalaladaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeafalalalalalalalalalalalalalalalalalajbubtakaZaXaYaXaYaXaYaXaYaXaYaXaYaVaWadaeaf
+adaeafbdbebbbcbbbcbbbcbbbcbbbcbbbcbaajakajakalalalalalalalalalalalalalalalalbpadaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeafbpalalalalalalalalalalalalalalalalajakajakbjbhbibhbibhbibhbibhbibhbibfbgadaeaf
+adaeafcqcrbkblblblblblblblblblblblbmajakajakbkblblblblblblblblblblblbmalalalbsadaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeafbsalalalbkblblblblblblblblblblblbmajakajakbkblblblblblblblblblblblbmcqcradaeaf
+adaeafcsctaaabababababababababababacajakajakaaabababababababababababacalalalalagahahahahahahahahahaiagahahahahahahahahahaialalalalaaabababababababababababacajakajakaaabababababababababababaccsctadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeafalalalalalalcucvcvcvcvcvcvcvcvcvcvcvcvcvcvcvcvcwalalalalalaladaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeafcxalalalalalcvcvcvcvcvcvcvcvcvcvcvcvcvcvcvcvcvcvalalalalalbpadaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeafbsalalalalcucvbkblblblblbmcvcvcvcvbkblblblblbmcvcwalalalalbsadaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeafalalalalalcvcvcycyczczczczcvcvcvcvcycyczczczczcvcvalalalalaladaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeaeaeafajakajakagahahahahahahahahahahahaialalalalcucvcvcvcvcvcvcvcvcvbkbmcvcvcvcvcvcvcvcvcvcwalalalalagahahahahahahahahahahahaiajakajakadaeaeaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeaeaeafajakajakaaabababababababababababacbkblblbmcvcvcvcvcvcvcvcvcvcvczczcvcvcvcvcvcvcvcvcvcvbkblblbmaaabababababababababababacajakajakadaeaeaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeaeabababaccvcvcvbkblblblblbmcvcvcvcvbkblblblblbmcvcvcvaaabababaeaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafcvcvcvcycyczczczczcvcvcvcvcycyczczczczcvcvcvadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafcvcvcvcvcvcvcvcvcvcvbkbmcvcvcvcvcvcvcvcvcvcvadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafcvcvcvcvcvcvcvcvcvcvczczcvcvcvcvcvcvcvcvcvcvadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckagahahahahahahahahahahahaiajakajakagahahahahahahahahahahahahahahahaicvcvcvbkblblblblbmcvcvcvcvbkblblblblbmcvcvcvagahahahahahahahahahahahahahahahaiajakajakagahahahahahahahahahahahaicjckadaeaf
+adaeafcjckaaabababababababababababacajakajakaaabababababababababababababababaccvcvcvcycyczczczczcvcvcvcvcycyczczczczcvcvcvaaabababababababababababababababacajakajakaaabababababababababababaccjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafcvcvcvcvcvcvcvcvcvcvbkbmcvcvcvcvcvcvcvcvcvcvadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafcvcvcvcvcvcvcvcvcvcvczczcvcvcvcvcvcvcvcvcvcvadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafcvcvcvbkblblblblbmcvcvcvcvbkblblblblbmcvcvcvadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafcvcvcvcycyczczczczcvcvcvcvcycyczczczczcvcvcvadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeaeaeafajakajakagahahahahahahahahahahahahahahahaicvcvcvcvcvcvcvcvcvcvbkbmcvcvcvcvcvcvcvcvcvcvagahahahahahahahahahahahahahahahaiajakajakadaeaeaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeaeaeafajakajakaaabababababababababababacalalalalcAcvcvcvcvcvcvcvcvcvczczcvcvcvcvcvcvcvcvcvcBalalalalaaabababababababababababacajakajakadaeaeaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeafalalalalalcvcvbkblblblblbmcvcvcvcvbkblblblblbmcvcvalalalalaladaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeafalalalalalcAcvcycyczczczczcvcvcvcCcycyczczczczcvcBalalalalaladaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeafalalalalalalcvcvcvcvcvcvcCcvcvcvcCcvcvcvcvcvcvcvalalalalalaladaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeafbpalalalalalcAcvcvcvcvcvcvcvcvcvcCcvcvcvcvcvcvcBalalalalalbpadaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeafbsalalalbkblblblblblblblblcDcEcFblblblblblblblblblbmalalalbsadaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckagahahahahahahahahahahahaiajakajakagahahahahahahahahahahahaialalalalaaabababababababababacaaabababababababababacalalalalagahahahahahahahahahahahaiajakajakagahahahahahahahahahahahaicjckadaeaf
+adaeafcGcHcIcJcIcJcIcJcIcJcIcJcIcJcKajakajakalalalalalalalalalalalalalalalalaladaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeafalalalalalalalalalalalalalalalalalajakajakcLcMcNcMcNcMcNcMcNcMcNcMcNcOcPadaeaf
+adaeafcQcRcScTcScTcScTcScTcScTcScTcUajakajakalalalalalalalalalalalalalalalalbpadaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeafcxalalalalalalalalalalalalalalalalajakajakcVcWcXcWcXcWcXcWcXcWcXcWcXcYcZadaeaf
+adaeafdadbdcdddcdddcdddcdddcdddcdddeajakajakalalalalalalalalalalalalalalalalbsadaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeafbsalalalalalalalalalalalalalalalalajakajakdfdgdhdgdhdgdhdgdhdgdhdgdhdidjadaeaf
+adaeafdkdldmdndmdndmdndmdndmdndmdndoajakajakalalalalalalalalalalalalalalalalaladaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeafalalalalalalalalalalalalalalalalalajakajakdpdqdrdqdrdqdrdqdrdqdrdqdrdsdtadaeaf
+adaeafdudvdwdxdwdxdwdxdwdxdwdxdwdxdyajakajakalalalalalalalalalalalalalalalalaladaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeafalalalalalalalalalalalalalalalalalajakajakdzdAdBdAdBdAdBdAdBdAdBdAdBdCdDadaeaf
+adaeafcqcrbkblblblblblblblblblbmbkbmajakajakbkblblblblblblblblblblblblblblblbmadaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeafbkblblblblblblblblblblblblblblblbmajakajakbkbmbkblblblblblblblblblbmcqcradaeaf
+adaeafcsctaaabababababababababacaaacajakajakaaabababababababababababababababacadaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeafaaabababababababababababababababacajakajakaaacaaabababababababababaccsctadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeafadafajakajakadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafajakajakadafadaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeafadafajakajakadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafajakajakadafadaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeafadafajakajbpadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafbpakajakadafadaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeafadafajakajbuagahahahahahahahahahahahahahahahaiagahahahahahahahahahaiagahahahahahahahahahaiagahahahahahahahahahahahahahahahaibtakajakadafadaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeafadafcGcHcGcHcIcJcIcJcIcJcIcJcIcJcIcJcIcJcIcJcIcJcIcJcIcJcIcJcIcJcKalalcLcMcNcMcNcMcNcMcNcMcNcMcNcMcNcMcNcMcNcMcNcMcNcMcNcMcNcOcPcOcPadafadaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeafadafcQcRcQcRcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcUalalcVcWcXcWcXcWcXcWcXcWcXcWcXcWcXcWcXcWcXcWcXcWcXcWcXcWcXcYcZcYcZadafadaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeafadafbpdbdadbdcdddcdddcdddcdddcdddcdddcdddcdddcdddcdddcdddcdddcdddealaldfdgdhdgdhdgdhdgdhdgdhdgdhdgdhdgdhdgdhdgdhdgdhdgdhdgdhdidjdibpadafadaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeafadafdEdldkdldmdndmdndmdndmdndmdndmdndmdndmdndmdndmdndmdndmdndmdndoalaldpdqdrdqdrdqdrdqdrdqdrdqdrdqdrdqdrdqdrdqdrdqdrdqdrdqdrdsdtdsdFadafadaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeafadafdudvdudvdwdxdwdxdwdxdwdxdwdxdwdxdwdxdwdxdwdxdwdxdwdxdwdxdwdxdyalaldzdAdBdAdBdAdBdAdBdAdBdAdBdAdBdAdBdAdBdAdBdAdBdAdBdAdBdCdDdCdDadafadaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeafadafbnbobnbobkblblblblblblblblblblbmbkblblblblblblblblblblblblblblbmbkblblblblblblblblblblblblblblbmbkblblblblblblblblblblbmbnbobnboadafadaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeafadafbrbqbrcxaaababababababababababacaaababababababababababababababacaaababababababababababababababacaaababababababababababacbpbqbrbqadafadaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckagahahahahahahahahahaiadafajakajbuagahahahahahahahahahahaiadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafagahahahahahahahahahahaibtakajakadafagahahahahahahahahahaicjckadaeaf
+adaeafajakalalalalalalcKcIcJcIcJadafcGcHcGcHcIcJcIcJcIcJcIcJcGcHcGcHadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafcOcPcOcPcMcNcMcNcMcNcMcNcOcPcOcPadafcMcNcMcNcLalalalalalalajakadaeaf
+adaeafajakalalalalalalcUdGdHdIcTadafcQcRcQcRcScTcScTcScTcScTcQcRcQcRadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafcYcZcYcZcWcXcWcXcWcXcWcXcYcZcYcZadafcWdJdKdLcValalalalalalajakadaeaf
+adaeafajakalalalalalaldMdNdOdPdQadafbpdbdadbdcdddcdddcdddcdddadbdadbadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafdidjdidjdgdhdgdhdgdhdgdhdidjdibpadafdRdSdTdUdValalalalalalajakadaeaf
+adaeafajakalalalalalaldWdXdYdZeaadafdEdldkdldmdndmdndmdndmdndkdldkdladaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafdsdtdsdtdqdrdqdrdqdrdqdrdsdtdsdFadafebecedeeefalalalalalalajakadaeaf
+adaeafajakalalalalalalegeheiejekadafdudvdudvdwdxdwdxdwdxdwdxdudvdudvadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafdCdDdCdDdAdBdAdBdAdBdAdBdCdDdCdDadafelemeneoepalalalalalalajakadaeaf
+adaeafajakalalalalalalbkeqeresbmadafbkblblblblblblblblblblbmbnbobnboadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafbnbobnbobkblblblblblblblblblblbmadafbkclcmcnbmalalalalalalajakadaeaf
+adaeafajakalalalalbpalaaabababacadafaaababababababababababacbpbqbrbqadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafbrbqbrbpaaababababababababababacadafaaabababacalbpalalalalajakadaeaf
+adaeafajakalalbpalbsalagahahahaiagaiagahahahahahahahahahahaibtakajakadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafajakajbuagahahahahahahahahahahaiagaiagahahahaialbsalbpalalajakadaeaf
+adaeafajakbpalbsalalalcKcIcJcIcJcIcJcIcJcIcJcIcJcIcJcIcJcIcJcGcHcGcHadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafcOcPcOcPcMcNcMcNcMcNcMcNcMcNcMcNcMcNcMcNcMcNcLalalalbsalbpajakadaeaf
+adaeafbpakbsalalalalalcUcScTcScTcScTcScTcScTcScTcScTcScTcScTcQcRcQcRadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafcYcZcYcZcWcXcWcXcWcXcWcXcWcXcWcXcWcXcWcXcWcXcValalalalalbsajbpadaeaf
+adaeafbtakalalalalalaldedcdddcdddcdddcdddcdddcdddcdddcdddcdddadbdabpadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafbpdjdidjdgdhdgdhdgdhdgdhdgdhdgdhdgdhdgdhdgdhdfalalalalalalajbuadaeaf
+adaeafajakalalalalalaldodmdndmdndmdndmdndmdndmdndmdndmdndmdndkdldketadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafeudtdsdtdqdrdqdrdqdrdqdrdqdrdqdrdqdrdqdrdqdrdpalalalalalalajakadaeaf
+adaeafajakalalalalalaldydwdxdwdxdwdxdwdxdwdxdwdxdwdxdwdxdwdxdudvdudvadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafdCdDdCdDdAdBdAdBdAdBdAdBdAdBdAdBdAdBdAdBdAdBdzalalalalalalajakadaeaf
+adaeafbkblblblblblblblblblblblblblblblblblblblblblblblblblbmbkbmbkbmadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafbkbmbkbmbkblblblblblblblblblblblblblblblblblblblblblblblblblbmadaeaf
+adaeafaaabababababababababababababababababababababababababacaaacaaacadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafaaacaaacaaabababababababababababababababababababababababababacadaeaf
+adaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadafadafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadafadafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaf
+adaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadafadafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadafadafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaf
+agahaiagahahahahahahahahahahahahahahahahahahahahahahahahahaiagaiagaiagahahahahahahahahahahahahahahaiagahahahahahahahahahahahahahahaiagaiagaiagahahahahahahahahahahahahahahahahahahahahahahahahahaiagahai
+"}
+
+(1,1,2) = {"
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababac
+adaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaf
+adaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaf
+adaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaf
+agahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahai
+aaabacajakalalalalalalamanaoanaoanaoanaoanaoanaoanaoanaoanaoapaqapaqaaababababababababababababababacaaababababababababababababababacevewevewexeyexeyexeyexeyexeyexeyexeyexeyexeyezalalalalalalajakaaabac
+adaeafajakalalalalalalawaxayaxayaxayaxayaxayaxayaxayaxayaxayazaAazaAadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafeAeBeAeBeCeDeCeDeCeDeCeDeCeDeCeDeCeDeCeDeCeDeEalalalalalalajakadaeaf
+adaeafajakalalalalalalaGaHaIaHaIaHaIaHaIaHaIaHaIaHaIaHaIaHaIaJaKaJaKadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafeFeGeFeGeHeIeHeIeHeIeHeIeHeIeHeIeHeIeHeIeHeIeJalalalalalalajakadaeaf
+adaeafajakalalalalalalaQaRaSaRaSaRaSaRaSaRaSaRaSaRaSaRaSaRaSaTaUaTaUadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafeKeLeKeLeMeNeMeNeMeNeMeNeMeNeMeNeMeNeMeNeMeNeOalalalalalalajakadaeaf
+adaeafajakalalalalalalbabbbcbbbcbbbcbbbcbbbcbbbcbbbcbbbcbbbcbdbebdbeadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafePeQePeQeReSeReSeReSeReSeReSeReSeReSeReSeReSeTalalalalalalajakadaeaf
+adaeafajakalalalalalalbkblblblbmbkbmbkblblblblblblblblblblbmbnbobnboadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafbnbobnbobkblblblblblblblblblblbmbkbmbkblblblbmalalalalalalajakadaeaf
+adaeafajakalalalalbpalaaabababacaaacaaababababababababababacbrbqbrbqadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafbrbqbrbqaaababababababababababacaaacaaabababacalbpalalalalajakadaeaf
+adaeafajakalalbpalbsalagahahahaiadafagahahahahahahahahahahaiajakajakadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafajakajakagahahahahahahahahahahaiadafagahahahaialbsalbpalalajakadaeaf
+adaeafajakbpalbsalalalamanaoanaoadafapaqapaqanaoanaoanaoanaoapaqapaqadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafevewevewexeyexeyexeyexeyevewevewadafexeyexeyezalalalbsalbpajakadaeaf
+adaeafbpakbsalalalalalawaxayaxayadafazaAazaAaxayaxayaxayaxayazaAazaAadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafeAeBeAeBeCeDeCeDeCeDeCeDeAeBeAeBadafeCeDeCeDeEalalalalalbsajbpadaeaf
+adaeafbtakalalalalalalaGaHaIaHaIadafaJaKaJaKaHaIaHaIaHaIaHaIaJaKaJaKadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafeFeGeFeGeHeIeHeIeHeIeHeIeFeGeFeGadafeHeIeHeIeJalalalalalalajbuadaeaf
+adaeafajakalalalalalalaQaRaSaRaSadafaTaUaTaUaRaSaRaSaRaSaRaSaTaUaTaUadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafeKeLeKeLeMeNeMeNeMeNeMeNeKeLeKeLadafeMeNeMeNeOalalalalalalajakadaeaf
+adaeafajakalalalalalalbabbbcbbbcadafbdbebdbebbbcbbbcbbbcbbbcbdbebdbeadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafePeQePeQeReSeReSeReSeReSePeQePeQadafeReSeReSeTalalalalalalajakadaeaf
+adaeafcjckbkblblblblblblblblblbmadafbnbobnbobkblblblblblblblblblblbmadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafbkblblblblblblblblblblbmbnbobnboadafbkblblblblblblblblblbmcjckadaeaf
+adaeafcjckaaabababababababababacadafbrbqbrbqaaababababababababababacadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafaaababababababababababacbrbqbrbqadafaaabababababababababaccjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeafadafajakajakagahahahahahahahahahahaiagahahahahahahahahahahahahahahaiagahahahahahahahahahahahahahahaiagahahahahahahahahahahaiajakajakadafadaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeafadafapaqapaqanaoanaoanaoanaoanaoanaoanaoanaoanaoanaoanaoanaoanaoeUalalexeyexeyexeyexeyexeyexeyeyexeyexeyexeyexeyexeyexeyexeyevewevewadafadaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeafadafazaAazaAaxayaxayaxayaxayaxayaxayaxayaxayaxayaxayaxayaxayaxayeValaleCeDeCeDeCeDeCeDeCeDeCeDeDeCeDeCeDeCeDeCeDeCeDeCeDeCeDeAeBeAeBadafadaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeafadafaJaKaJaKaHaIaHaIaHaIaHaIaHaIaHaIaHaIaHaIaHaIaHaIaHaIaHaIaHaIeWalaleHeIeHeIeHeIeHeIeHeIeHeIeIeHeIeHeIeHeIeHeIeHeIeHeIeHeIeFeGeFeGadafadaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeafadafaTaUaTaUaRaSaRaSaRaSaRaSaRaSaRaSaRaSaRaSaRaSaRaSaRaSaRaSaRaSeXalaleMeNeMeNeMeNeMeNeMeNeMeNeNeMeNeMeNeMeNeMeNeMeNeMeNeMeNeKeLeKeLadafadaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeafadafbdbebdbebbbcbbbcbbbcbbbcbbbcbbbcbbbcbbbcbbbcbbbcbbbcbbbcbbbceYalaleReSeReSeReSeReSeReSeReSeSeReSeReSeReSeReSeReSeReSeReSePeQePeQadafadaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeafadafbnbobnbobkblblblblblblblblblblblblblblblbmbkblblblblblblblblblbmbkblblblblblblblblblbmbkblblblblblblblblblblblblblblblbmbnbobnboadafadaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeafadafbrbqbrbqaaabababababababababababababababacaaabababababababababacaaabababababababababacaaabababababababababababababababacbrbqbrbqadafadaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeafadafajakajakadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafajakajakadafadaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeafadafajakajakadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafajakajakadafadaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeafadafajakajakadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafajakajakadafadaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckagahahahahahahahahahaiagaiajakajakagahahahahahahahahahahahahahahahaiadaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeafagahahahahahahahahahahahahahahahaiajakajakagaiagahahahahahahahahahaicjckadaeaf
+adaeafeZfafbfcfbfcfbfcfbfcfbfcfbfceUajakajakalalalalalalalalalalalalalalalalaladaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeafalalalalalalalalalalalalalalalalalajakajakezexeyexeyexeyexeyexeyexeyevewadaeaf
+adaeaffdfefffgfffgfffgfffgfffgfffgeVajakajakalalalalalalalalalalalalalalalalaladaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeafalalalalalalalalalalalalalalalalalajakajakeEeCeDeCeDeCeDeCeDeCeDeCeDeAeBadaeaf
+adaeaffhfifjfkfjfkfjfkfjfkfjfkfjfkeWajakajakalalalalalalalalalalalalalalalalaladaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeafalalalalalalalalalalalalalalalalalajakajakeJeHeIeHeIeHeIeHeIeHeIeHeIeFeGadaeaf
+adaeafflfmfnfofnfofnfofnfofnfofnfoeXajakajakalalalalalalalalalalalalalalalalaladaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeafalalalalalalalalalalalalalalalalalajakajakeOeMeNeMeNeMeNeMeNeMeNeMeNeKeLadaeaf
+adaeaffpfqfrfsfrfsfrfsfrfsfrfsfrfseYajakajakalalalalalalalalalalalalalalalalbpadaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeafbpalalalalalalalalalalalalalalalalajakajakeTeReSeReSeReSeReSeReSeReSePeQadaeaf
+adaeafftfubkblblblblblblblblblblblbmajakajakbkblblblblblblblblblblblbmalalalbsadaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeafbsalalalbkblblblblblblblblblblblbmajakajakbkblblblblblblblblblblblbmftfuadaeaf
+adaeaffvfwaaabababababababababababacajakajakaaabababababababababababacalalalalagahahahahahahahahahaiagahahahahahahahahahaialalalalaaabababababababababababacajakajakaaabababababababababababacfvfwadaeaf
+adaeafajakadaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeafalalalalalalcucvcvcvcvcvcvcvcvcvcvcvcvcvcvcvcvcwalalalalalaladaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeafajakadaeaf
+adaeafajakadaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeafcxalalalalalcvcvcvcvcvcvcvcvcvcvcvcvcvcvcvcvcvcvalalalalalbpadaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeafajakadaeaf
+adaeafajakadaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeafbsalalalalcucvbkblblblblbmcvcvcvcvbkblblblblbmcvcwalalalalbsadaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeafajakadaeaf
+adaeafajakadaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeafalalalalalcvcvcycyczczczczcvcvcvcvcycyczczczczcvcvalalalalaladaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeafajakadaeaf
+adaeafajakadaeaeaeaeaeaeaeaeaeaeaeafajakajakagahahahahahahahahahahahaialalalalcucvcvcvcvcvcvcvcvcvbkbmcvcvcvcvcvcvcvcvcvcwalalalalagahahahahahahahahahahahaiajakajakadaeaeaeaeaeaeaeaeaeaeaeafajakadaeaf
+adaeafajakadaeaeaeaeaeaeaeaeaeaeaeafajakajakaaabababababababababababacbkblblbmcvcvcvcvcvcvcvcvcvcvczczcvcvcvcvcvcvcvcvcvcvbkblblbmaaabababababababababababacajakajakadaeaeaeaeaeaeaeaeaeaeaeafajakadaeaf
+adaeafajakadaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeaeaaabababcvcvcvbkblblblblbmcvcvcvcvbkblblblblbmcvcvcvaaabababaeaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeafajakadaeaf
+adaeafajakadaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeaeadaeaeaecvcvcvcycyczczczczcvcvcvcvcycyczczczczcvcvcvadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeafajakadaeaf
+adaeafajakadaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeaeadaeaeaecvcvcvcvcvcvcvcvcvcvbkbmcvcvcvcvcvcvcvcvcvcvadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeafajakadaeaf
+adaeafajakadaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeaeadaeaeaecvcvcvcvcvcvcvcvcvcvczczcvcvcvcvcvcvcvcvcvcvadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeafajakadaeaf
+adaeafajakagahahahahahahahahahahahaiajakajakagahahahahahahahahahahahahagahahahcvcvcvbkblblblblbmcvcvcvcvbkblblblblbmcvcvcvagahahahahahahahahahahahahahahahaiajakajakagahahahahahahahahahahahaiajakadaeaf
+adaeafajakaaabababababababababababacajakajakaaababababababababababababaaabababcvcvcvcycyczczczczcvcvcvcvcycyczczczczcvcvcvaaabababababababababababababababacajakajakaaabababababababababababacajakadaeaf
+adaeafajakadaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeaeadaeaeaecvcvcvcvcvcvcvcvcvcvbkbmcvcvcvcvcvcvcvcvcvcvadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeafajakadaeaf
+adaeafajakadaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeaeadaeaeaecvcvcvcvcvcvcvcvcvcvczczcvcvcvcvcvcvcvcvcvcvadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeafajakadaeaf
+adaeafajakadaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeaeadaeaeaecvcvcvbkblblblblbmcvcvcvcvbkblblblblbmcvcvcvadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeafajakadaeaf
+adaeafajakadaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeaeadaeaeaecvcvcvcycyczczczczcvcvcvcvcycyczczczczcvcvcvadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeafajakadaeaf
+adaeafajakadaeaeaeaeaeaeaeaeaeaeaeafajakajakagahahahahahahahahahahahahagahahahcvcvcvcvcvcvcvcvcvcvbkbmcvcvcvcvcvcvcvcvcvcvagahahahahahahahahahahahahahahahaiajakajakadaeaeaeaeaeaeaeaeaeaeaeafajakadaeaf
+adaeafajakadaeaeaeaeaeaeaeaeaeaeaeafajakajakaaabababababababababababacalalalalcAcvcvcvcvcvcvcvcvcvczczcvcvcvcvcvcvcvcvcvcBalalalalaaabababababababababababacajakajakadaeaeaeaeaeaeaeaeaeaeaeafajakadaeaf
+adaeafajakadaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeafalalalalalcvcvbkblblblblbmcvcvcvcvbkblblblblbmcvcvalalalalaladaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeafajakadaeaf
+adaeafajakadaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeafalalalalalcAcvcycyczczczczcvcvcvcvcycyczczczczcvcBalalalalaladaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeafajakadaeaf
+adaeafajakadaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeafalalalalalalcvcvcvcvcvcvcvcvcvcvcvcvcvcvcvcvcvcvalalalalalaladaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeafajakadaeaf
+adaeafajakadaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeafbpalalalalalcAcvcvcvcvcvcvcvcvcvcvcvcvcvcvcvcvcBalalalalalbpadaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeafajakadaeaf
+adaeafajakadaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeafbsalalalbkblblblblblblblblblbmbkblblblblblblblblblbmalalalbsadaeaeaeaeaeaeaeaeaeaeaeafajakajakadaeaeaeaeaeaeaeaeaeaeaeafajakadaeaf
+adaeafajakagahahahahahahahahahahahaiajakajakagahahahahahahahahahahahaialalalalaaabababababababababacaaabababababababababacalalalalagahahahahahahahahahahahaiajakajakagahahahahahahahahahahahaiajakadaeaf
+adaeaffxfyfzfAfzfAfzfAfzfAfzfAfzfAcKajakajakalalalalalalalalalalalalalalalalaladaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeafalalalalalalalalalalalalalalalalalajakajakfBfCfDfCfDfCfDfCfDfCfDfCfDfEfFadaeaf
+adaeaffGfHfIfJfIfJfIfJfIfJfIfJfIfJcUajakajakalalalalalalalalalalalalalalalalbpadaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeafcxalalalalalalalalalalalalalalalalajakajakfKfLfMfLfMfLfMfLfMfLfMfLfMfNfOadaeaf
+adaeaffPfQfRfSfRfSfRfSfRfSfRfSfRfSdeajakajakalalalalalalalalalalalalalalalalbsadaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeafbsalalalalalalalalalalalalalalalalajakajakfTfUfVfUfVfUfVfUfVfUfVfUfVfWfXadaeaf
+adaeaffYfZgagbgagbgagbgagbgagbgagbdoajakajakalalalalalalalalalalalalalalalalaladaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeafalalalalalalalalalalalalalalalalalajakajakgcgdgegdgegdgegdgegdgegdgegfggadaeaf
+adaeafghgigjgkgjgkgjgkgjgkgjgkgjgkdyajakajakalalalalalalalalalalalalalalalalaladaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeafalalalalalalalalalalalalalalalalalajakajakglgmgngmgngmgngmgngmgngmgngogpadaeaf
+adaeafftfubkblblblblblblblblblbmbkbmajakajakbkblblblblblblblblblblblblblblblbmadaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeafbkblblblblblblblblblblblblblblblbmajakajakbkbmbkblblblblblblblblblbmftfuadaeaf
+adaeaffvfwaaabababababababababacaaacajakajakaaabababababababababababababababacadaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeafaaabababababababababababababababacajakajakaaacaaabababababababababacfvfwadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeafadafajakajakadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafajakajakadafadaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeafadafajakajakadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafajakajakadafadaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeafadafajakajcxadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafajakajakadafadaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeafadafajakajbuagahahahahahahahahahahahahahahahaiagahahahahahahahahahaiagahahahahahahahahahaiagahahahahahahahahahahahahahahahaiajakajakadafadaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeafadafcGcHcGcHcIcJcIcJcIcJcIcJcIcJcIcJcIcJcIcJcIcJcIcJcIcJcIcJcIcJcKalalfBfCfDfCfDfCfDfCfDfCfDfCfDfCfDfCfDfCfDfCfDfCfDfCfDfCfDfEfFfEfFadafadaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeafadafcQcRcQcRcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcScTcUalalfKfLfMfLfMfLfMfLfMfLfMfLfMfLfMfLfMfLfMfLfMfLfMfLfMfLfMfNfOfNfOadafadaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeafadafcxdbdadbdcdddcdddcdddcdddcdddcdddcdddcdddcdddcdddcdddcdddcdddealalfTfUfVfUfVfUfVfUfVfUfVfUfVfUfVfUfVfUfVfUfVfUfVfUfVfUfVfWfXfWfXadafadaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeafadafdEdldkdldmdndmdndmdndmdndmdndmdndmdndmdndmdndmdndmdndmdndmdndoalalgcgdgegdgegdgegdgegdgegdgegdgegdgegdgegdgegdgegdgegdgegfgggfggadafadaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeafadafdudvdudvdwdxdwdxdwdxdwdxdwdxdwdxdwdxdwdxdwdxdwdxdwdxdwdxdwdxdyalalglgmgngmgngmgngmgngmgngmgngmgngmgngmgngmgngmgngmgngmgngogpgogpadafadaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeafadafbnbobnbobkblblblblblblblblblblbmbkblblblblblblblblblblblblblblbmbkblblblblblblblblblblblblblblbmbkblblblblblblblblblblbmftfuftfuadafadaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckadaeaeaeaeaeaeaeaeaeafadafbrbqbrcxaaababababababababababacaaababababababababababababababacaaababababababababababababababacaaababababababababababacfvfwfvfwadafadaeaeaeaeaeaeaeaeaeafcjckadaeaf
+adaeafcjckagahahahahahahahahahaiadafajakajbuagahahahahahahahahahahaiadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafagahahahahahahahahahahaiajakajakadafagahahahahahahahahahaicjckadaeaf
+adaeafajakalalalalalalgqfzfAfzfAadafcGcHcGcHfzfAfzfAfzfAfzfAfxfyfxfyadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaffEfFfEfFfCfDfCfDfCfDfCfDfEfFfEfFadaffCfDfCfDfBalalalalalalajakadaeaf
+adaeafajakalalalalalalgrgsgtgufJadaffGfHfGfHfIfJfIfJfIfJfIfJfGfHfGfHadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaffNfOfNfOfLfMfLfMfLfMfLfMfNfOfNfOadaffLfMfLfMfKalalalalalalajakadaeaf
+adaeafajakalalalalalalgvgwgxgyfSadafbpfQfPfQfRfSfRfSfRfSfRfSfPfQfPfQadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaffWfXfWfXfUfVfUfVfUfVfUfVfWfXfWfXadaffUfVfUfVfTalalalalalalajakadaeaf
+adaeafajakalalalalalalgzgAgBgCgbadafgDfZfYfZgagbgagbgagbgagbfYfZfYfZadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafgfgggfgggdgegdgegdgegdgegfgggfggadafgdgegdgegcalalalalalalajakadaeaf
+adaeafajakalalalalalalgEgFgGgHgkadafghgighgigjgkgjgkgjgkgjgkghgighgiadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafgogpgogpgmgngmgngmgngmgngogpgogpadafgmgngmgnglalalalalalalajakadaeaf
+adaeafajakalalalalalalbkgIgJgKbmadafbkblblblblblblblblblblbmftfuftfuadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafftfuftfubkblblblblblblblblblblbmadafbkblblblbmalalalalalalajakadaeaf
+adaeafajakalalalalbpalaaabababacadafaaababababababababababacbpfwfvfwadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaffvfwfvfwaaababababababababababacadafaaabababacalbpalalalalajakadaeaf
+adaeafajakalalbpalbsalagahahahaiagaiagahahahahahahahahahahaibtakajakadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafajakajakagahahahahahahahahahahaiagaiagahahahaialbsalbpalalajakadaeaf
+adaeafajakbpalbsalalalgqfzfAfzfAfzfAfzfAfzfAfzfAfzfAfzfAfzfAfxfyfxfyadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaffEfFfEfFfCfDfCfDfCfDfCfDfCfDfCfDfCfDfCfDfCfDfBalalalbsalbpajakadaeaf
+adaeafbpakbsalalalalalgrfIfJfIfJfIfJfIfJfIfJfIfJfIfJfIfJfIfJfGfHfGfHadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaffNfOfNfOfLfMfLfMfLfMfLfMfLfMfLfMfLfMfLfMfLfMfKalalalalalbsajbpadaeaf
+adaeafbtakalalalalalalgvfRfSfRfSfRfSfRfSfRfSfRfSfRfSfRfSfRfSfPfQfPbpadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaffWfXfWfXfUfVfUfVfUfVfUfVfUfVfUfVfUfVfUfVfUfVfTalalalalalalajbuadaeaf
+adaeafajakalalalalalalgzgagbgagbgagbgagbgagbgagbgagbgagbgagbfYfZfYgLadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafgfgggfgggdgegdgegdgegdgegdgegdgegdgegdgegdgegcalalalalalalajakadaeaf
+adaeafajakalalalalalalgEgjgkgjgkgjgkgjgkgjgkgjgkgjgkgjgkgjgkghgighgiadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafgogpgogpgmgngmgngmgngmgngmgngmgngmgngmgngmgnglalalalalalalajakadaeaf
+adaeafbkblblblblblblblblblblblblblblblblblblblblblblblblblbmbkbmbkbmadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafbkbmbkbmbkblblblblblblblblblblblblblblblblblblblblblblblblblbmadaeaf
+adaeafaaabababababababababababababababababababababababababacaaacaaacadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafaaacaaacaaabababababababababababababababababababababababababacadaeaf
+adaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadafadafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadafadafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaf
+adaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadafadafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadafadafadaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeafadaeaf
+agahaiagahahahahahahahahahahahahahahahahahahahahahahahahahaiagaiagaiagahahahahahahahahahahahahahahaiagahahahahahahahahahahahahahahaiagaiagaiagahahahahahahahahahahahahahahahahahahahahahahahahahaiagahai
+"}

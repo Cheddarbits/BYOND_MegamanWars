@@ -1,0 +1,372 @@
+"aa" = (/turf/Warzone/sky/A2,/turf/Warzone/warzonefloortop/M,/area)
+"ab" = (/turf/Warzone/sky/A2,/turf/Warzone/warzonefloortop/A,/area)
+"ac" = (/turf/Warzone/sky/A2,/turf/Warzone/warzonefloortop/P,/area)
+"ad" = (/turf/Warzone/sky/A2,/turf/Warzone/warzonefloortop/E,/area)
+"ae" = (/turf/Warzone/sky/A2,/turf/Warzone/warzonefloortop/D,/area)
+"af" = (/turf/Warzone/sky/A2,/area)
+"ag" = (/turf/Warzone/sky/A2,/turf/Warzone/warzonefloortop/B,/area)
+"ah" = (/turf/Warzone/sky/A2,/turf/Warzone/warzonefloortop/Y,/area)
+"ai" = (/turf/Warzone/sky/A2,/turf/Warzone/warzonefloortop/L,/area)
+"aj" = (/turf/Warzone/sky/A2,/turf/Warzone/warzonefloortop/K,/area)
+"ak" = (/turf/Warzone/sky/A2,/turf/Warzone/Ship_Spawns/four,/area)
+"al" = (/turf/Warzone/sky/A2,/turf/Warzone/Ship_Spawns/six,/area)
+"am" = (/turf/Warzone/sky/A2,/turf/Warzone/Ship_Spawns/eight,/area)
+"an" = (/turf/Warzone/sky/A2,/turf/Warzone/Ship_Spawns/two,/area)
+"ao" = (/turf/Warzone/sky/A2,/turf/Warzone/Ship_Spawns/five,/area)
+"ap" = (/turf/Warzone/sky/A2,/turf/Warzone/Ship_Spawns/three,/area)
+"aq" = (/turf/Warzone/sky/A2,/turf/Warzone/Ship_Spawns/one,/area)
+"ar" = (/turf/Warzone/sky/A2,/turf/Warzone/Ship_Spawns/seven,/area)
+"as" = (/turf/Warzone/sky/A2,/turf/Warzone/secret3/A14,/area)
+"at" = (/turf/Warzone/sky/A2,/turf/Warzone/warzonefloortop/Cannon,/area)
+"au" = (/turf/Warzone/sky/A2,/turf/Warzone/warzonefloortop/Cannon1,/area)
+"av" = (/turf/Warzone/sky/A2,/turf/Warzone/warzonefloortop/Cannon2,/area)
+"aw" = (/turf/Warzone/sky/A2,/turf/Warzone/warzonefloortop/Cannon5,/area)
+"ax" = (/turf/Warzone/sky/A2,/turf/Warzone/warzonefloortop/Cannon4,/area)
+"ay" = (/turf/Warzone/sky/A2,/turf/Warzone/warzonefloortop/Cannon3,/area)
+"az" = (/turf/Warzone/warzonefloor/Cannon2,/area)
+"aA" = (/turf/Warzone/warzonefloor/Cannon3,/area)
+"aB" = (/turf/Warzone/sky/A2,/turf/Warzone/warzonefloor/Cannon7,/area)
+"aC" = (/turf/Warzone/sky/A2,/turf/Warzone/warzonefloor/Cannon8,/area)
+"aD" = (/turf/Warzone/sky/A2,/turf/Warzone/warzonefloor/Cannon9,/area)
+"aE" = (/turf/Warzone/sky/A2,/turf/Warzone/warzonefloor/Cannon10,/area)
+"aF" = (/turf/Warzone/sky/A2,/turf/Warzone/warzonefloor/Cannon21,/area)
+"aG" = (/turf/Warzone/sky/A2,/turf/Warzone/warzonefloor/Cannon20,/area)
+"aH" = (/turf/Warzone/sky/A2,/turf/Warzone/warzonefloor/Cannon19,/area)
+"aI" = (/turf/Warzone/sky/A2,/turf/Warzone/warzonefloor/Cannon18,/area)
+"aJ" = (/turf/Warzone/warzonefloor/Cannon14,/area)
+"aK" = (/turf/Warzone/warzonefloor/Cannon13,/area)
+"aL" = (/turf/Warzone/sky/A2,/turf/Capsules,/area)
+"aM" = (/turf/Warzone/sky/A2,/turf/Warzone/warzonefloortop/A8,/area)
+"aN" = (/turf/Warzone/sky/A2,/turf/Warzone/warzonefloortop/A9,/area)
+"aO" = (/turf/Warzone/sky/A2,/turf/Warzone/warzonefloor/Cannon,/turf/Warzone/warzonefloortop/Base,/area)
+"aP" = (/turf/Warzone/sky/A2,/turf/Warzone/warzonefloor/Cannon1,/turf/Warzone/warzonefloortop/Base,/area)
+"aQ" = (/turf/Warzone/sky/A2,/turf/Warzone/warzonefloor/Cannon4,/area)
+"aR" = (/turf/Warzone/sky/A2,/turf/Warzone/warzonefloor/Cannon5,/area)
+"aS" = (/turf/Warzone/sky/A2,/turf/Warzone/warzonefloor/Cannon6,/area)
+"aT" = (/turf/Warzone/sky/A2,/turf/Warzone/warzonefloor/Cannon17,/area)
+"aU" = (/turf/Warzone/sky/A2,/turf/Warzone/warzonefloor/Cannon16,/area)
+"aV" = (/turf/Warzone/sky/A2,/turf/Warzone/warzonefloor/Cannon15,/area)
+"aW" = (/turf/Warzone/sky/A2,/turf/Warzone/warzonefloor/Cannon12,/turf/Warzone/warzonefloortop/Base,/area)
+"aX" = (/turf/Warzone/sky/A2,/turf/Warzone/warzonefloor/Cannon11,/turf/Warzone/warzonefloortop/Base,/area)
+"aY" = (/turf/Warzone/sky/A8,/turf/NoShots/NoShoot,/area)
+"aZ" = (/turf/Warzone/sky/A8,/area)
+"ba" = (/turf/Warzone/sky/A8,/turf/Warzone/sky/BG2,/area)
+"bb" = (/turf/Warzone/sky/A8,/turf/Warzone/sky/BG5,/area)
+"bc" = (/turf/Warzone/sky/A8,/turf/Warzone/sky/BG8,/area)
+"bd" = (/turf/Warzone/sky/A8,/turf/Warzone/sky/BG5,/turf/Warzone/warzonefloor/A3,/area)
+"be" = (/turf/Warzone/sky/A8,/turf/Warzone/sky/BG8,/turf/Warzone/warzonefloor/A5,/area)
+"bf" = (/turf/Warzone/warzonefloor/Base4,/area)
+"bg" = (/turf/Warzone/warzonefloor/Base5,/area)
+"bh" = (/turf/Warzone/sky/A8,/turf/Warzone/warzonefloortop/A2,/area)
+"bi" = (/turf/Warzone/sky/A8,/turf/Warzone/sky/BG2,/turf/Warzone/warzonefloor/A3,/area)
+"bj" = (/turf/Warzone/sky/A8,/turf/Warzone/sky/BG5,/turf/Warzone/warzonefloor/A5,/area)
+"bk" = (/turf/Warzone/warzonefloortop/A6,/turf/Warzone/warzonefence/Fence3,/turf/NoShots/NoShootNoDense,/area)
+"bl" = (/turf/Warzone/warzonefloortop/A6,/turf/FlagPoint,/area)
+"bm" = (/turf/Warzone/warzonefloortop/A6,/turf/NoShots/NoShootNoDense,/area)
+"bn" = (/turf/Warzone/warzonefloortop/A6,/area)
+"bo" = (/turf/Warzone/warzonefloortop/A6,/turf/Warzone/sky/BG1,/area)
+"bp" = (/turf/Warzone/warzonefloortop/A6,/turf/Warzone/sky/BG4,/area)
+"bq" = (/turf/Warzone/warzonefloortop/A6,/turf/Warzone/sky/BG10,/area)
+"br" = (/turf/Warzone/warzonefloortop/A6,/turf/Warzone/sky/BG7,/area)
+"bs" = (/turf/Warzone/warzonefloortop/A6,/turf/Warzone/warzonefence/Fence4,/area)
+"bt" = (/turf/Warzone/warzonefloortop/A1,/turf/Warzone/secret/A12,/area)
+"bu" = (/turf/Warzone/warzonefloortop/A6,/turf/Warzone/warzonefloortop/A2,/area)
+"bv" = (/turf/Warzone/warzonefloortop/A6,/turf/Warzone/warzonefence/Fence3,/area)
+"bw" = (/turf/Warzone/warzonefloortop/A6,/turf/Warzone/warzonefence/Fence4,/turf/NoShots/NoShootNoDense,/area)
+"bx" = (/turf/Warzone/warzonefloortop/A4,/turf/Warzone/warzonefence/Fence,/turf/NoShots/NoShootNoDense,/area)
+"by" = (/turf/Warzone/warzonefloortop/A4,/turf/Warzone/warzonefloortop/Base,/turf/NoShots/NoShoot,/area)
+"bz" = (/turf/Warzone/warzonefloortop/A4,/turf/Warzone/warzonefloortop/Base,/turf/NoShots/NoShootNoDense,/area)
+"bA" = (/turf/Warzone/warzonefloortop/A4,/turf/Warzone/warzonefloortop/Base,/area)
+"bB" = (/turf/Warzone/warzonefloortop/A4,/area)
+"bC" = (/turf/Warzone/warzonefloortop/A4,/turf/Warzone/sky/BG,/turf/Warzone/warzonefloortop/Base,/area)
+"bD" = (/turf/Warzone/warzonefloortop/A4,/turf/Warzone/sky/BG3,/turf/Warzone/warzonefloortop/Base,/area)
+"bE" = (/turf/Warzone/warzonefloortop/A4,/turf/Warzone/warzonefloortop/Base,/turf/Warzone/sky/BG9,/turf/Warzone/warzonefloortop/Base,/area)
+"bF" = (/turf/Warzone/warzonefloortop/A4,/turf/Warzone/warzonefloortop/Base,/turf/Warzone/sky/BG6,/turf/Warzone/warzonefloortop/Base,/area)
+"bG" = (/turf/Warzone/warzonefloortop/A4,/turf/Warzone/warzonefloortop/Base,/turf/Warzone/sky/BG3,/turf/Warzone/warzonefloortop/Base,/area)
+"bH" = (/turf/Warzone/warzonefloortop/A4,/turf/Warzone/warzonefloortop/Fence2,/turf/Warzone/sky/BG9,/turf/Warzone/warzonefloortop/Fence2,/area)
+"bI" = (/turf/Warzone/warzonefloortop/A4,/turf/Warzone/warzonefloortop/Fence2,/turf/Warzone/sky/BG6,/turf/Warzone/warzonefloortop/Fence2,/area)
+"bJ" = (/turf/Warzone/warzonefloortop/A4,/turf/Warzone/warzonefloortop/Fence2,/turf/Warzone/sky/BG,/turf/Warzone/warzonefloortop/Fence2,/area)
+"bK" = (/turf/Warzone/warzonefloortop/A4,/turf/Warzone/warzonefloortop/Fence2,/turf/Warzone/sky/BG3,/turf/Warzone/warzonefloortop/Fence2,/area)
+"bL" = (/turf/Warzone/warzonefloortop/A4,/turf/Warzone/warzonefloortop/Fence2,/area)
+"bM" = (/turf/Warzone/warzonefloortop/A4,/turf/Warzone/warzonefence/Fence1,/area)
+"bN" = (/turf/Warzone/warzonefloortop/A4,/turf/Warzone/warzonefence/Fence,/area)
+"bO" = (/turf/Warzone/warzonefloortop/A4,/turf/Warzone/sky/BG,/turf/Warzone/warzonefloortop/Base,/turf/Warzone/warzonefloortop/Fence2,/area)
+"bP" = (/turf/Warzone/warzonefloortop/A4,/turf/Warzone/sky/BG3,/turf/Warzone/warzonefloortop/Base,/turf/Warzone/warzonefloortop/Fence2,/area)
+"bQ" = (/turf/Warzone/warzonefloortop/A4,/turf/Warzone/warzonefloortop/Base,/turf/Warzone/sky/BG9,/turf/Warzone/warzonefloortop/Base,/turf/Warzone/warzonefloortop/Fence2,/area)
+"bR" = (/turf/Warzone/warzonefloortop/A4,/turf/Warzone/warzonefloortop/Base,/turf/Warzone/sky/BG6,/turf/Warzone/warzonefloortop/Base,/turf/Warzone/warzonefloortop/Fence2,/area)
+"bS" = (/turf/Warzone/warzonefloortop/A4,/turf/Warzone/warzonefence/Fence1,/turf/NoShots/NoShootNoDense,/area)
+"bT" = (/turf/Warzone/warzonefloor/Fence,/turf/Warzone/secret2/A13,/turf/Capsules/Capsule2,/turf/NoShots/NoShoot,/area)
+"bU" = (/turf/Warzone/warzonefloor/Base1,/turf/Warzone/secret2/A13,/turf/NoShots/NoShoot,/area)
+"bV" = (/turf/Warzone/warzonefloor/Base1,/turf/Warzone/secret2/A13,/area)
+"bW" = (/turf/Warzone/warzonefloor/Base2,/turf/Warzone/secret2/A13,/area)
+"bX" = (/turf/Warzone/sky/BG22,/area)
+"bY" = (/turf/Warzone/sky/BG14,/area)
+"bZ" = (/turf/Warzone/sky/BG16,/area)
+"ca" = (/turf/Warzone/warzonefloor/Base,/turf/Warzone/secret2/A13,/area)
+"cb" = (/turf/Warzone/warzonefloor/Fence,/turf/Warzone/secret2/A13,/area)
+"cc" = (/turf/Warzone/warzonefloor/Base4,/turf/Warzone/secret2/A13,/area)
+"cd" = (/turf/Warzone/warzonefloor/Base5,/turf/Warzone/secret2/A13,/area)
+"ce" = (/turf/Warzone/warzonefloor/Fence,/area)
+"cf" = (/turf/Warzone/warzonefloor/A4,/area)
+"cg" = (/turf/Warzone/warzonefloor/Fence1,/area)
+"ch" = (/turf/Warzone/warzonefloor/Fence1,/turf/Warzone/secret2/A13,/area)
+"ci" = (/turf/Warzone/sky/BG20,/area)
+"cj" = (/turf/Warzone/warzonefloor/Base1,/turf/Warzone/secret2/A13,/turf/Capsules/Capsule2,/turf/NoShots/NoShoot,/area)
+"ck" = (/turf/Warzone/warzonefloor/Fence1,/turf/Warzone/secret2/A13,/turf/NoShots/NoShoot,/area)
+"cl" = (/turf/Warzone/warzonefloor/Base1,/area)
+"cm" = (/turf/Warzone/warzonefloor/Base6,/area)
+"cn" = (/turf/Warzone/warzonefloor/Base7,/area)
+"co" = (/turf/Warzone/sky/BG15,/area)
+"cp" = (/turf/Warzone/sky/BG13,/area)
+"cq" = (/turf/Warzone/sky/BG21,/turf/Warzone/warzonefloortop/A8,/area)
+"cr" = (/turf/Warzone/warzonefloor/Base8,/area)
+"cs" = (/turf/Warzone/warzonefloor/A6,/turf/Warzone/secret2/A13,/area)
+"ct" = (/turf/Warzone/sky/BG15,/turf/Warzone/warzonefloortop/A9,/area)
+"cu" = (/turf/Warzone/sky/BG19,/area)
+"cv" = (/turf/Warzone/sky/BG21,/area)
+"cw" = (/turf/Warzone/sky/BG21,/turf/Warzone/warzonefloor/A3,/area)
+"cx" = (/turf/Warzone/warzonefloor/Base12,/area)
+"cy" = (/turf/Warzone/warzonefloor/Base3,/area)
+"cz" = (/turf/Warzone/warzonefloor/Base9,/area)
+"cA" = (/turf/Warzone/warzonefloor/Base10,/area)
+"cB" = (/turf/Warzone/warzonefloor/Base11,/area)
+"cC" = (/turf/Warzone/sky/BG15,/turf/Warzone/warzonefloor/A5,/area)
+"cD" = (/turf/Warzone/sky/BG12,/turf/Warzone/warzonefloortop/Base,/area)
+"cE" = (/turf/Warzone/sky/BG11,/turf/Warzone/warzonefloortop/Base,/area)
+"cF" = (/turf/Warzone/sky/BG18,/turf/Warzone/warzonefloortop/Base,/area)
+"cG" = (/turf/Warzone/sky/BG17,/turf/Warzone/warzonefloortop/Base,/area)
+"cH" = (/turf/Warzone/sky/BG21,/turf/Warzone/warzonefloortop/A9,/area)
+"cI" = (/turf/Warzone/sky/BG15,/turf/Warzone/warzonefloortop/A8,/area)
+"cJ" = (/turf/Warzone/warzonefloor/Base2,/area)
+"cK" = (/turf/Warzone/sky/BG21,/turf/Warzone/warzonefloor/A5,/area)
+"cL" = (/turf/Warzone/warzonefloor/Base7,/turf/Warzone/secret2/A13,/area)
+"cM" = (/turf/Warzone/sky/BG15,/turf/Warzone/warzonefloor/A3,/area)
+"cN" = (/turf/Warzone/warzonefloor/Base,/area)
+"cO" = (/turf/Warzone/sky/BG21,/turf/Warzone/sky/BG2,/area)
+"cP" = (/turf/Warzone/sky/BG17,/turf/Warzone/sky/BG5,/turf/Warzone/warzonefloortop/A8,/area)
+"cQ" = (/turf/Warzone/sky/BG11,/turf/Warzone/sky/BG5,/turf/Warzone/warzonefloortop/A9,/area)
+"cR" = (/turf/Warzone/sky/BG15,/turf/Warzone/sky/BG8,/area)
+"cS" = (/turf/Warzone/Controlroom/zero4,/area)
+"cT" = (/turf/Warzone/Controlroom/one4,/area)
+"cU" = (/turf/Warzone/Controlroom/two4,/area)
+"cV" = (/turf/Warzone/Controlroom/three4,/area)
+"cW" = (/turf/Warzone/Controlroom/four4,/area)
+"cX" = (/turf/Warzone/Controlroom/five4,/area)
+"cY" = (/turf/Warzone/Controlroom/six4,/area)
+"cZ" = (/turf/Warzone/Controlroom/seven4,/area)
+"da" = (/turf/Warzone/Controlroom/eight4,/area)
+"db" = (/turf/Warzone/Controlroom/nine4,/area)
+"dc" = (/turf/Warzone/Controlroom/ten4,/area)
+"dd" = (/turf/Warzone/Controlroom/eleven4,/area)
+"de" = (/turf/Warzone/Controlroom/twelve4,/area)
+"df" = (/turf/Warzone/warzonefloortop/A7,/turf/Warzone/sky/BG1,/area)
+"dg" = (/turf/Warzone/warzonefloortop/A7,/turf/Warzone/sky/BG4,/turf/Warzone/warzonefloor/A3,/area)
+"dh" = (/turf/Warzone/warzonefloortop/A7,/turf/Warzone/sky/BG10,/turf/Warzone/warzonefloor/A5,/area)
+"di" = (/turf/Warzone/warzonefloortop/A7,/turf/Warzone/sky/BG7,/area)
+"dj" = (/turf/Warzone/Controlroom/zero3,/area)
+"dk" = (/turf/Warzone/Controlroom/one3,/area)
+"dl" = (/turf/Warzone/Controlroom/two3,/area)
+"dm" = (/turf/Warzone/Controlroom/three3,/area)
+"dn" = (/turf/Warzone/Controlroom/four3,/area)
+"do" = (/turf/Warzone/Controlroom/five3,/area)
+"dp" = (/turf/Warzone/Controlroom/six3,/area)
+"dq" = (/turf/Warzone/Controlroom/seven3,/area)
+"dr" = (/turf/Warzone/Controlroom/eight3,/area)
+"ds" = (/turf/Warzone/Controlroom/nine3,/area)
+"dt" = (/turf/Warzone/Controlroom/ten3,/area)
+"du" = (/turf/Warzone/Controlroom/eleven3,/area)
+"dv" = (/turf/Warzone/Controlroom/twelve3,/area)
+"dw" = (/turf/Warzone/warzonefloortop/A7,/turf/Warzone/sky/BG,/area)
+"dx" = (/turf/Warzone/warzonefloortop/A7,/turf/Warzone/sky/BG3,/area)
+"dy" = (/turf/Warzone/warzonefloortop/A7,/turf/Warzone/sky/BG9,/area)
+"dz" = (/turf/Warzone/warzonefloortop/A7,/turf/Warzone/sky/BG6,/area)
+"dA" = (/turf/Warzone/Controlroom/zero2,/area)
+"dB" = (/turf/Warzone/Controlroom/one2,/area)
+"dC" = (/turf/Warzone/Controlroom/two2,/area)
+"dD" = (/turf/Warzone/Controlroom/three2,/area)
+"dE" = (/turf/Warzone/Controlroom/four2,/area)
+"dF" = (/turf/Warzone/Controlroom/five2,/area)
+"dG" = (/turf/Warzone/Controlroom/six2,/area)
+"dH" = (/turf/Warzone/Controlroom/seven2,/area)
+"dI" = (/turf/Warzone/Controlroom/eight2,/area)
+"dJ" = (/turf/Warzone/Controlroom/nine2,/area)
+"dK" = (/turf/Warzone/Controlroom/ten2,/area)
+"dL" = (/turf/Warzone/Controlroom/eleven2,/area)
+"dM" = (/turf/Warzone/Controlroom/twelve2,/area)
+"dN" = (/turf/Warzone/warzonefloortop/A7,/turf/Warzone/sky/BG1,/turf/Warzone/warzonefloortop/A9,/area)
+"dO" = (/turf/Warzone/warzonefloortop/A7,/turf/Warzone/sky/BG4,/area)
+"dP" = (/turf/Warzone/warzonefloortop/A7,/turf/Warzone/sky/BG10,/area)
+"dQ" = (/turf/Warzone/warzonefloortop/A7,/turf/Warzone/sky/BG7,/turf/Warzone/warzonefloortop/A8,/area)
+"dR" = (/turf/Warzone/sky/BG15,/turf/Warzone/warzonefloortop/Base,/area)
+"dS" = (/turf/Warzone/sky/BG21,/turf/Warzone/warzonefloortop/Base,/area)
+"dT" = (/turf/Warzone/Controlroom/zero1,/area)
+"dU" = (/turf/Warzone/Controlroom/one1,/area)
+"dV" = (/turf/Warzone/Controlroom/two1,/area)
+"dW" = (/turf/Warzone/Controlroom/three1,/area)
+"dX" = (/turf/Warzone/Controlroom/four1,/area)
+"dY" = (/turf/Warzone/Controlroom/five1,/area)
+"dZ" = (/turf/Warzone/Controlroom/six1,/area)
+"ea" = (/turf/Warzone/Controlroom/seven1,/area)
+"eb" = (/turf/Warzone/Controlroom/eight1,/area)
+"ec" = (/turf/Warzone/Controlroom/nine1,/area)
+"ed" = (/turf/Warzone/Controlroom/ten1,/area)
+"ee" = (/turf/Warzone/Controlroom/eleven1,/area)
+"ef" = (/turf/Warzone/Controlroom/twelve1,/area)
+"eg" = (/turf/Warzone/warzonefloortop/A7,/turf/Warzone/sky/BG,/turf/Warzone/warzonefloor/A5,/area)
+"eh" = (/turf/Warzone/warzonefloortop/A7,/turf/Warzone/sky/BG6,/turf/Warzone/warzonefloor/A3,/area)
+"ei" = (/turf/Warzone/warzonefloortop/A7,/turf/Warzone/sky/BG3,/turf/Warzone/warzonefloortop/A8,/area)
+"ej" = (/turf/Warzone/warzonefloortop/A7,/turf/Warzone/sky/BG9,/turf/Warzone/warzonefloortop/A9,/area)
+"ek" = (/turf/Warzone/sky/BG16,/turf/Warzone/warzonefloor/A3,/area)
+"el" = (/turf/Warzone/sky/BG22,/turf/Warzone/warzonefloor/A5,/area)
+"em" = (/turf/Warzone/sky/BG17,/area)
+"en" = (/turf/Warzone/sky/BG11,/area)
+"eo" = (/turf/Warzone/sky/BG16,/turf/Capsules,/area)
+"ep" = (/turf/Warzone/sky/BG22,/turf/Capsules,/area)
+"eq" = (/turf/Warzone/sky/BG15,/turf/NoShots/NoShoot,/area)
+"er" = (/turf/Warzone/sky/BG21,/turf/NoShots/NoShoot,/area)
+"es" = (/turf/Warzone/sky/BG19,/turf/Warzone/warzonefloortop/A9,/area)
+"et" = (/turf/Warzone/sky/BG13,/turf/Warzone/warzonefloortop/A8,/area)
+"eu" = (/turf/Warzone/sky/BG15,/turf/NoShots/NoShootNoDense,/area)
+"ev" = (/turf/Warzone/sky/BG21,/turf/FlagPoint,/area)
+"ew" = (/turf/Warzone/sky/BG19,/turf/Warzone/warzonefloor/A5,/area)
+"ex" = (/turf/Warzone/sky/BG13,/turf/Warzone/warzonefloor/A3,/area)
+"ey" = (/turf/Warzone/sky/BG21,/turf/NoShots/NoShootNoDense,/area)
+"ez" = (/turf/Warzone/sky/BG15,/turf/FlagPoint,/area)
+"eA" = (/turf/Warzone/sky/BG15,/turf/Warzone/warzonefloortop/Base,/turf/NoShots/NoShootNoDense,/area)
+"eB" = (/turf/Warzone/sky/BG21,/turf/Warzone/warzonefloortop/Base,/turf/NoShots/NoShoot,/area)
+"eC" = (/turf/Warzone/sky/BG21,/turf/Warzone/warzonefloortop/Base,/turf/NoShots/NoShootNoDense,/area)
+"eD" = (/turf/Warzone/sky/BG15,/turf/Warzone/warzonefloortop/Base,/turf/NoShots/NoShoot,/area)
+"eE" = (/turf/Warzone/warzonefloor/Base1,/turf/Capsules/Capsule2,/turf/NoShots/NoShoot,/area)
+"eF" = (/turf/Warzone/warzonefloor/Base1,/turf/NoShots/NoShoot,/area)
+"eG" = (/turf/Warzone/sky/BG21,/turf/Capsules,/area)
+"eH" = (/turf/Warzone/sky/BG15,/turf/Capsules,/area)
+"eI" = (/turf/Warzone/warzonefloor/Base3,/turf/Warzone/secret2/A13,/area)
+"eJ" = (/turf/Warzone/sky/BG21,/turf/NoBarrier,/area)
+"eK" = (/turf/Warzone/sky/BG15,/turf/NoBarrier,/area)
+"eL" = (/turf/Warzone/warzonefloortop/A7,/area)
+"eM" = (/turf/Warzone/warzonefloortop/A7,/turf/Warzone/warzonefloortop/Base,/area)
+"eN" = (/turf/Warzone/sky/BG14,/turf/Warzone/sky/BG2,/area)
+"eO" = (/turf/Warzone/sky/BG20,/turf/Warzone/sky/BG5,/area)
+"eP" = (/turf/Warzone/sky/BG14,/turf/Warzone/sky/BG5,/area)
+"eQ" = (/turf/Warzone/sky/BG20,/turf/Warzone/sky/BG8,/area)
+"eR" = (/turf/Warzone/sky/BG21,/turf/Warzone/warzonefloortop/Base,/turf/NoBarrier,/area)
+"eS" = (/turf/Warzone/sky/BG15,/turf/Warzone/warzonefloortop/Base,/turf/NoBarrier,/area)
+"eT" = (/turf/Warzone/sky/BG13,/turf/Warzone/sky/BG1,/area)
+"eU" = (/turf/Warzone/sky/BG19,/turf/Warzone/sky/BG4,/area)
+"eV" = (/turf/Warzone/sky/BG13,/turf/Warzone/sky/BG10,/area)
+"eW" = (/turf/Warzone/sky/BG19,/turf/Warzone/sky/BG7,/area)
+"eX" = (/turf/Warzone/sky/BG13,/turf/Warzone/sky/BG,/area)
+"eY" = (/turf/Warzone/sky/BG19,/turf/Warzone/sky/BG3,/area)
+"eZ" = (/turf/Warzone/sky/BG13,/turf/Warzone/sky/BG9,/area)
+"fa" = (/turf/Warzone/sky/BG19,/turf/Warzone/sky/BG6,/area)
+"fb" = (/turf/Warzone/sky/BG11,/turf/Warzone/sky/BG,/area)
+"fc" = (/turf/Warzone/sky/BG17,/turf/Warzone/sky/BG3,/area)
+"fd" = (/turf/Warzone/sky/BG11,/turf/Warzone/sky/BG9,/area)
+"fe" = (/turf/Warzone/sky/BG17,/turf/Warzone/sky/BG6,/area)
+"ff" = (/turf/Warzone/sky/BG11,/turf/Warzone/sky/BG9,/turf/Warzone/sky/BG,/turf/Warzone/warzonefloortop/Base,/area)
+"fg" = (/turf/Warzone/sky/BG17,/turf/Warzone/sky/BG3,/turf/Warzone/warzonefloortop/Base,/area)
+"fh" = (/turf/Warzone/sky/BG11,/turf/Warzone/sky/BG9,/turf/Warzone/warzonefloortop/Base,/area)
+"fi" = (/turf/Warzone/sky/BG17,/turf/Warzone/sky/BG6,/turf/Warzone/warzonefloortop/Base,/area)
+
+(1,1,1) = {"
+aaabacacadaeafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+agahafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+aaabaiajafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafakafafafafafafafafafafafafafafafafafafafafafafafalafafafafafafafafafafafafafafafafafafafafafafafamafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafanafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaoafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafapafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafaqafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafarafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+asasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasas
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafatauavafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafawaxayafafafafafafafafafafafafafafafafafafaf
+afafafafafafafafafafafafafafafafafafafazaAaBaCaDaEafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaFaGaHaIaJaKafafafafafafafafafafafafafafafafafafaf
+aLaLaLafafafafafafafafafafafafafafaMaNaOaPaQaRaSafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaTaUaVaWaXaMaNafafafafafafafafafafafafafafaLaLaL
+aYaYaYaZaZaZaZaZbabbbbbcbbbbbcbabbbdbebfbgaZaZaZaZaZaZbhaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZaZbhaZaZaZaZaZaZbfbgbibjbbbcbabbbbbabbbbbcaZaZaZaZaZaYaYaY
+bkblbmbnbnbnbnbnbobpbqbrbpbqbrbobpbqbrbfbgbnbsbnbnbnbnbtbubnbnbnbnbnbnbnbnbnbnbnbnbnbnbnbnbnbnbnbnbnbnbnbnbnbnbnbnbnbnbnbnbnbnbnbnbnbnbnbnbnbnbubtbnbnbnbnbvbnbfbgbobpbqbrbobpbqbobpbqbrbnbnbnbnbnbmblbw
+bxbybzbAbAbBbBbBbCbDbEbFbGbHbIbJbKbHbIbfbgbLbMbBbBbBbBbtbtbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbBbtbtbBbBbBbBbNbLbfbgbObPbQbRbObPbEbCbDbEbFbBbBbBbAbAbzbybS
+bTbUbUbVbWbXbYbZcabVbVbVbWcbcbcbcbcbcbcccdcbcecfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcfcgcbcccdcbchchchchchcabVbVbVbWbXcibZcabVcjbUck
+clcmcncnbgcocpcqbfcncncncrclclclclbVclcmcdcscscscscscscscscscscscscscscscscscscscscscscscscscscscscscscscscscscscscscscscscscscscscscscscscscscscscscscscscscscccrclclclclclclcmcncncnbgctcucvbfcncncrcl
+cncncncnbgcocpcwcxcycycycycycycycyczcncncrclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclcmcncncAcycycycycycycycycBcCcucvbfcncncncn
+cncncncnbgcocpcvcocvcocvcicvcibYcobfcncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncnbgcvcibYcobYcocvcocvcocucvbfcncncncn
+cncncncnbgcDcEcFcDcFcDcFcGcHcucpcobfcncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncncnbgcvcucpcIcEcDcFcDcFcDcGcFbfcncncncn
+cncncncncrclclclclclclclcJcKcucpcobfcncncncncncncncncncncncncncncncLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcncncncncncncncncncncncncncncncnbgcvcucpcMcNclclclclclclclcmcncncncn
+cncncncncncncncncncncncnbgcvcucpcobfcncncncncncncncncncncncncncncncLcAcycycycycycycycycycycycycyczcLcAcycycycycycycycycycycycycyczcLcncncncncncncncncncncncncncncncnbgcvcucpcobfcncncncncncncncncncncncn
+cncncncncncncncncncncncnbgcOcPcQcRbfcncncLcLcLcLcLcLcLcLcLcLcLcLcLcLbgcScTcUcVcWcXcYcZdadbdcdddebfcLbgcScTcUcVcWcXcYcZdadbdcdddebfcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcncnbgcOcPcQcRbfcncncncncncncncncncncncn
+cncncncncncncncncncncncnbgdfdgdhdibfcncncLcAcycycycycycycycycycycycycBdjdkdldmdndodpdqdrdsdtdudvbfcLbgdjdkdldmdndodpdqdrdsdtdudvcxcycycycycycycycycycycycycyczcLcncnbgdfdgdhdibfcncncncncncncncncncncncn
+cncncncncncncncncncncncnbgdwdxdydzbfcncncLbgcibXbZbXbZbXbZbXbZbXbZcibYdAdBdCdDdEdFdGdHdIdJdKdLdMbfcLbgdAdBdCdDdEdFdGdHdIdJdKdLdMcibYbXbZbXbZbXbZbXbZbXbZcvbYbfcLcncnbgdwdxdydzbfcncncncncncncncncncncncn
+cncncncncncncncncncncncncddNdOdPdQbfcncncLbgcucvcocvdRdSdRdSdRdSdRcGcEdTdUdVdWdXdYdZeaebecedeeefbfcLbgdTdUdVdWdXdYdZeaebecedeeefcGcEdSdRdSdRdSdRdSdRcvcocvcpbfcLcncnbgdNdOdPdQbfcncncncncncncncncncncncn
+cncncncncncncncncncncncnbgegdxdyehbfcncncLbgcucvcocqcNclclclclclclclclclclclclclclclclclclclclclcmcLcrclclclclclclclclclclclclclclclclclclclclclclcJcHcocvcpbfcLcncnbgegdxdyehbfcncncncncncncncncncncncn
+cncncncncncncncncncncncnbgdfdOdPdibfcncncLbgcucvcocwbfcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLbgcKcocvcpbfcLcncnbgdfdOdPdibfcncncncncncncncncncncncn
+cncncncncncncncncncncncnbgdweiejdzbfcncncLbgcucvcocvbfcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLcLbgcvcocvcpbfcLcncnbgdweiejdzbfcncncncncncncncncncncncn
+cAcycycycycycycycycycycycBciekelbYcxcycycycBemcvcocvcxcycycycycycycycycycycycycycycycycycycycycyczcLcAcycycycycycycycycycycycycycycycycycycycycycycBcvcocvencxcycycycBciekelbYcxcycycycycycycycycycycycz
+bgbXeoepeobXbZbXbZbXbZbXbZcucocvcpbXbZbXbZcvcucqctcvcobXbZbXbZbXbZbXbZbXbZbXbZbXbZbXbZbXbZbXbZbXbfcLbgbZbXbZbXbZbXbZbXbZbXbZbXbZbXbZbXbZbXbZbXbZbXbZcvcIcHcpcobXbZbXbZcucocvcpbXbZbXbZbXbZbXbZepeoepbZbf
+bgcveqereqcvdRdSdRdScocvcIescocvetcHcocvcocvcucwcCcvcocvcocvcocvcocvcocvcocvcocvcocvcocvcocvcocvbfcLbgcocvcocvcocvcocvcocvcocvcocvcocvcocvcocvcocvcocvcMcKcpcocvcocvcIescocvetcHcocvdRdSdRdScoereqercobf
+bgcveueveucvcNclclcJcocvcMewcocvexcKcocvcocvcucvcocvcIcHcocvcocvcocvcocvcocvcocvcocvcocvcocvcocvbfcLbgcocvcocvcocvcocvcocvcocvcocvcocvcocvcocvcocqctcvcocvcpcocvcocvcMewcocvexcKcocvcNclclcJcoeyezeycobf
+bgdSeAeBeAdSbfcncnbgcocvcoemcocvencvcocvcocvemcvcocvcMcKcocvcocvcocvcocvcocvcocvcocvcocvcocvcocvbfcLbgcocvcocvcocvcocvcocvcocvcocvcocvcocvcocvcocwcCcvcocvencocvcocvcoemcocvencvcocvbfcncnbgdReCeDeCdRbf
+crcleEeFeFclcmcncnbgcocvcocucocvcpcvcIcHcocvcucqctcvcocvcocvcocvcocvcocvcocvcoeGeHeGcocvcocvcocvcxeIcBcocvcocvcocveHeGeHcvcocvcocvcocvcocvcocvcocvcocvcIcHcpcocvcIcHcocucocvcpcvcocvbfcncncrcleEeFeFclcm
+cncncncncncncncncnbgcocvcocucocvcpcvcMcKcocvcucwcCcvcocvcocvcocvcocvcocvcoeJeKereqereKeJcocvcocvcieLbYcocvcocveKeJeqereqeJeKcvcocvcocvcocvcocvcocvcocvcMcKcpcocvcMcKcocucocvcpcvcocvbfcncncncncncncncncn
+cAcycycycycycycycycBcocvcocucocvcpcvcocvcocvcucvcocvcIcHcocvcocvcocvcocvcoeJeKeyezeyeKeJcocvcocvcGeMcEcocvcocveKeJeueveueJeKcvcocvcocvcocvcocvcocqctcvcocvcpcocvcocvcocucocvcpcvcocvcxcycycycycycycycycz
+bgeNeOePeQbYbZbXbZcvcocvcoemcocvencvcocvcocvemcvcocvcMcKcocvcocvcocvcodSdReReSeCeDeCeSeRdRdSdRcvcNbVcJcodSdRdSeSeReAeBeAeReSdSdRcvcocvcocvcocvcocwcCcvcocvencocvcocvcoemcocvencvcocvcobXbZbXcieNeOePeQbf
+bgeTeUeVeWcpcocvcocvcocvcocucocvcpcvcocvcocvcucqctcvcocvcocvcocvcocvcocNclclcleEeFeFclclclclcJcvbfcLbgcocNclclclcleEeFeFclclclcJcvcocvcocvcocvcocvcocvcIcHcpcocvcocvcocucocvcpcvcocvcocvcocvcueTeUeVeWbf
+bgeXeYeZfacpcocvcocvcocvcocucocvcpcvcocvcocvcucwcCcvcocvcocvcocvcocvcIbfcncncncncncncncncncnbgcvbfcLbgcobfcncncncncncncncncncnbgcHcocvcocvcocvcocvcocvcMcKcpcocvcocvcocucocvcpcvcocvcocvcocvcueXeYeZfabf
+bgeTeUeVeWcpcocvcocvcocvcocucocvcpcvcocvcocvcucvcocvcIcHcocvcocvcocvcMbfcncncncncncncncncncnbgcvbfcLbgcobfcncncncncncncncncncnbgcKcocvcocvcocvcocqctcvcocvcpcocvcocvcocucocvcpcvcocvcocvcocvcueTeUeVeWbf
+bgfbfcfdfeencocvcocvcocvcoemcocvencvcocvcocvemcvcocvcMcKcocvcocvcocvcocxcycycycycycycycycycycBcvbfcLbgcocxcycycycycycycycycycycBcvcocvcocvcocvcocwcCcvcocvencocvcocvcoemcocvencvcocvcocvcocvemfbfcfdfebf
+bgeTeUeVeWcpcocvcocvcocvcocucocvcpcvcocvcocvcucqctcvcocvcocvcocvcIcHcobXbZbXbZbXbZbXbZbXbZbXbZcvbfcLbgcobXbZbXbZbXbZbXbZbXbZbXbZcvcIcHcocvcocvcocvcocvcIcHcpcocvcocvcocucocvcpcvcocvcocvcocvcueTeUeVeWbf
+bgeXeYeZfacpcocvcocvcocvcocucocvcpcvcocvcocvcucwcCcvcocvcocvcocvcMcKcocvcocvcocvcocvcocvcocvcocvcxeIcBcocvcocvcocvcocvcocvcocvcocvcMcKcocvcocvcocvcocvcMcKcpcocvcocvcocucocvcpcvcocvcocvcocvcueXeYeZfabf
+bgeTeUeVeWcpcocvcocvcocvcocucocvcpcvcocvcocvcucvcocvcocvcocvcocvcocvcocvcocvcocvcocvcocvcocvcocvcieLbYcocvcocvcocvcocvcocvcocvcocvcocvcocvcocvcocvcocvcocvcpcocvcocvcocucocvcpcvcocvcocvcocvcueTeUeVeWbf
+bgfffgfhficEcDcFcDcFcDcFcDcGcDcFcEcFcDcFcDcFcGcFcDcFcDcFcDcFcDcFcDcFcDcFcDcFcDcFcDcFcDcFcDcFcDcFcGeMcEcDcFcDcFcDcFcDcFcDcFcDcFcDcFcDcFcDcFcDcFcDcFcDcFcDcFcEcDcFcDcFcDcGcDcFcEcFcDcFcDcFcDcFcGfffgfhfibf
+crclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclclcm
+"}

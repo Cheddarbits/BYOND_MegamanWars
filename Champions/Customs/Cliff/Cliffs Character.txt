@@ -1,0 +1,5 @@
+
+
+
+Projectile note:  Each blast bounces off of a surface twice changing +45 degrees each time
+

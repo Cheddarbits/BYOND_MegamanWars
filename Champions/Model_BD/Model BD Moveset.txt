@@ -1,0 +1,9 @@
+Model Black Devil's moveset.
+
+Numpad 9/Page Up - Shoot. Average delay, average damage.
+
+Numpad 7/Home - Slash. Consists of two slashes, average delay.
+
+Numpad 3/Page Down - Push. Pushes opponents infront of the player. 
+
+Numpad 1/End - Dash

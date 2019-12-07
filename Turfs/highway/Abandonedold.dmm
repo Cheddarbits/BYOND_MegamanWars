@@ -1,0 +1,556 @@
+"aa" = (/turf/Highway/background{tag = ""; icon_state = "0,5"},/turf/Highway/rain,/area)
+"ab" = (/turf/Highway/background{tag = ""; icon_state = "1,5"},/turf/Highway/rain,/area)
+"ac" = (/turf/Highway/background{tag = ""; icon_state = "2,5"},/turf/Highway/rain,/area)
+"ad" = (/turf/Highway/background{tag = ""; icon_state = "3,5"},/turf/Highway/rain,/area)
+"ae" = (/turf/Highway/background{tag = ""; icon_state = "4,5"},/turf/Highway/rain,/area)
+"af" = (/turf/Highway/background{tag = ""; icon_state = "5,5"},/turf/Highway/rain,/area)
+"ag" = (/turf/Highway/background{tag = ""; icon_state = "6,5"},/turf/Highway/rain,/area)
+"ah" = (/turf/Highway/background{tag = ""; icon_state = "7,5"},/turf/Highway/rain,/area)
+"ai" = (/turf/Highway/background{tag = ""; icon_state = "0,5"},/turf/Highway/rain,/turf/Highway/rain2,/area)
+"aj" = (/turf/Highway/background{tag = ""; icon_state = "1,5"},/turf/Highway/rain,/turf/Highway/rain2,/area)
+"ak" = (/turf/Highway/background{tag = ""; icon_state = "2,5"},/turf/Highway/rain,/turf/Highway/rain2,/area)
+"al" = (/turf/Highway/background{tag = ""; icon_state = "3,5"},/turf/Highway/rain,/turf/Highway/rain2,/area)
+"am" = (/turf/Highway/background{tag = ""; icon_state = "4,5"},/turf/Highway/rain,/turf/Highway/rain2,/area)
+"an" = (/turf/Highway/background{tag = ""; icon_state = "5,5"},/turf/Highway/rain,/turf/Highway/rain2,/area)
+"ao" = (/turf/Highway/background{tag = ""; icon_state = "6,5"},/turf/Highway/rain,/turf/Highway/rain2,/area)
+"ap" = (/turf/Highway/background{tag = ""; icon_state = "7,5"},/turf/Highway/rain,/turf/Highway/rain2,/area)
+"aq" = (/turf/Highway/a9,/turf/Highway/a14,/area)
+"ar" = (/turf/Highway/a9,/turf/Highway/a15,/area)
+"as" = (/turf/Highway/a9,/turf/Highway/a16,/area)
+"at" = (/turf/Highway/background{tag = ""; icon_state = "1,5"},/turf/Highway/rain,/turf/FlagPoint,/area)
+"au" = (/turf/Highway/a8,/turf/Highway/a14,/area)
+"av" = (/turf/Highway/a10,/turf/Highway/a16,/area)
+"aw" = (/turf/Highway/a7,/area)
+"ax" = (/turf/Highway/background3{tag = ""; icon_state = "1,4"},/area)
+"ay" = (/turf/Highway/background3{tag = ""; icon_state = "2,4"},/area)
+"az" = (/turf/Highway/background3{tag = ""; icon_state = "3,4"},/area)
+"aA" = (/turf/Highway/background3{tag = ""; icon_state = "4,4"},/area)
+"aB" = (/turf/Highway/background3{tag = ""; icon_state = "5,4"},/area)
+"aC" = (/turf/Highway/a4,/area)
+"aD" = (/turf/Highway/background3{tag = ""; icon_state = "1,3"},/area)
+"aE" = (/turf/Highway/background3{tag = ""; icon_state = "2,3"},/area)
+"aF" = (/turf/Highway/background3{tag = ""; icon_state = "3,3"},/area)
+"aG" = (/turf/Highway/background3{tag = ""; icon_state = "4,3"},/area)
+"aH" = (/turf/Highway/background3{tag = ""; icon_state = "5,3"},/area)
+"aI" = (/turf/Highway/background3{tag = ""; icon_state = "1,2"},/area)
+"aJ" = (/turf/Highway/background3{tag = ""; icon_state = "2,2"},/area)
+"aK" = (/turf/Highway/background3{tag = ""; icon_state = "3,2"},/area)
+"aL" = (/turf/Highway/background3{tag = ""; icon_state = "4,2"},/area)
+"aM" = (/turf/Highway/background3{tag = ""; icon_state = "5,2"},/area)
+"aN" = (/turf/Highway/background3{tag = ""; icon_state = "1,1"},/area)
+"aO" = (/turf/Highway/background3{tag = ""; icon_state = "2,1"},/turf/FlagPoint,/area)
+"aP" = (/turf/Highway/background3{tag = ""; icon_state = "3,1"},/area)
+"aQ" = (/turf/Highway/background3{tag = ""; icon_state = "4,1"},/area)
+"aR" = (/turf/Highway/background3{tag = ""; icon_state = "5,1"},/area)
+"aS" = (/turf/Highway/background3{tag = ""; icon_state = "2,1"},/area)
+"aT" = (/turf/Highway/background3{tag = ""; icon_state = "1,0"},/area)
+"aU" = (/turf/Highway/background3{tag = ""; icon_state = "2,0"},/area)
+"aV" = (/turf/Highway/background3{tag = ""; icon_state = "3,0"},/area)
+"aW" = (/turf/Highway/background3{tag = ""; icon_state = "4,0"},/area)
+"aX" = (/turf/Highway/background3{tag = ""; icon_state = "5,0"},/area)
+"aY" = (/turf/Highway/a7,/turf/Highway/a16,/area)
+"aZ" = (/turf/Highway/a9,/turf/Highway/a15,/turf/Capsules/Capsule2,/area)
+"ba" = (/turf/Highway/background3{tag = ""; icon_state = "0,4"},/area)
+"bb" = (/turf/Highway/background3{tag = ""; icon_state = "2,4"},/turf/Highway/a11,/area)
+"bc" = (/turf/Highway/background3{tag = ""; icon_state = "3,4"},/turf/Highway/a13,/area)
+"bd" = (/turf/Highway/background3{tag = ""; icon_state = "0,3"},/area)
+"be" = (/turf/Highway/background3{tag = ""; icon_state = "2,3"},/turf/Highway/a11,/area)
+"bf" = (/turf/Highway/background3{tag = ""; icon_state = "3,3"},/turf/Highway/a13,/area)
+"bg" = (/turf/Highway/background3{tag = ""; icon_state = "0,2"},/area)
+"bh" = (/turf/Highway/background3{tag = ""; icon_state = "2,2"},/turf/Highway/a11,/area)
+"bi" = (/turf/Highway/background3{tag = ""; icon_state = "3,2"},/turf/Highway/a13,/area)
+"bj" = (/turf/Highway/background3{tag = ""; icon_state = "0,1"},/area)
+"bk" = (/turf/Highway/background3{tag = ""; icon_state = "0,0"},/area)
+"bl" = (/turf/Highway/background3{tag = ""; icon_state = "2,0"},/turf/Highway/a11,/area)
+"bm" = (/turf/Highway/background3{tag = ""; icon_state = "3,0"},/turf/Highway/a13,/area)
+"bn" = (/turf/Highway/background3{tag = ""; icon_state = "3,4"},/turf/Highway/a11,/area)
+"bo" = (/turf/Highway/background3{tag = ""; icon_state = "4,4"},/turf/Highway/a13,/area)
+"bp" = (/turf/Highway/background3{tag = ""; icon_state = "4,4"},/turf/Highway/a11,/area)
+"bq" = (/turf/Highway/background3{tag = ""; icon_state = "5,4"},/turf/Highway/a13,/area)
+"br" = (/turf/Highway/background3{tag = ""; icon_state = "3,3"},/turf/Highway/a11,/area)
+"bs" = (/turf/Highway/background3{tag = ""; icon_state = "4,3"},/turf/Highway/a13,/area)
+"bt" = (/turf/Highway/background3{tag = ""; icon_state = "4,3"},/turf/Highway/a11,/area)
+"bu" = (/turf/Highway/background3{tag = ""; icon_state = "5,3"},/turf/Highway/a13,/area)
+"bv" = (/turf/Highway/background3{tag = ""; icon_state = "3,2"},/turf/Highway/a11,/area)
+"bw" = (/turf/Highway/background3{tag = ""; icon_state = "4,2"},/turf/Highway/a13,/area)
+"bx" = (/turf/Highway/background3{tag = ""; icon_state = "4,2"},/turf/Highway/a11,/area)
+"by" = (/turf/Highway/background3{tag = ""; icon_state = "5,2"},/turf/Highway/a13,/area)
+"bz" = (/turf/Highway/background3{tag = ""; icon_state = "2,1"},/turf/Highway/a11,/area)
+"bA" = (/turf/Highway/background3{tag = ""; icon_state = "3,1"},/turf/Highway/a13,/area)
+"bB" = (/turf/Highway/background3{tag = ""; icon_state = "3,1"},/turf/Highway/a11,/area)
+"bC" = (/turf/Highway/background3{tag = ""; icon_state = "4,1"},/turf/Highway/a13,/area)
+"bD" = (/turf/Highway/background3{tag = ""; icon_state = "4,1"},/turf/Highway/a11,/area)
+"bE" = (/turf/Highway/background3{tag = ""; icon_state = "5,1"},/turf/Highway/a13,/area)
+"bF" = (/turf/Highway/background3{tag = ""; icon_state = "3,0"},/turf/Highway/a11,/area)
+"bG" = (/turf/Highway/background3{tag = ""; icon_state = "4,0"},/turf/Highway/a13,/area)
+"bH" = (/turf/Highway/background3{tag = ""; icon_state = "4,0"},/turf/Highway/a11,/area)
+"bI" = (/turf/Highway/background3{tag = ""; icon_state = "5,0"},/turf/Highway/a13,/area)
+"bJ" = (/turf/Highway/background{tag = ""; icon_state = "0,5"},/turf/Highway/rain,/turf/Highway/a11,/area)
+"bK" = (/turf/Highway/background{tag = ""; icon_state = "1,5"},/turf/Highway/rain,/turf/Highway/a12,/area)
+"bL" = (/turf/Highway/background{tag = ""; icon_state = "2,5"},/turf/Highway/rain,/turf/Highway/a12,/area)
+"bM" = (/turf/Highway/background{tag = ""; icon_state = "3,5"},/turf/Highway/rain,/turf/Highway/a12,/area)
+"bN" = (/turf/Highway/background{tag = ""; icon_state = "4,5"},/turf/Highway/rain,/turf/Highway/a12,/area)
+"bO" = (/turf/Highway/background{tag = ""; icon_state = "5,5"},/turf/Highway/rain,/turf/Highway/a12,/area)
+"bP" = (/turf/Highway/background{tag = ""; icon_state = "6,5"},/turf/Highway/rain,/turf/Highway/a12,/area)
+"bQ" = (/turf/Highway/background{tag = ""; icon_state = "7,5"},/turf/Highway/rain,/turf/Highway/a12,/area)
+"bR" = (/turf/Highway/background{tag = ""; icon_state = "0,5"},/turf/Highway/rain,/turf/Highway/a12,/area)
+"bS" = (/turf/Highway/background{tag = ""; icon_state = "5,5"},/turf/Highway/rain,/turf/Highway/a13,/area)
+"bT" = (/turf/Highway/rain,/turf/Highway/background{tag = ""; icon_state = "6,5"},/area)
+"bU" = (/turf/Highway/rain,/turf/Highway/background{tag = ""; icon_state = "7,5"},/turf/Highway/a11,/area)
+"bV" = (/turf/Highway/rain,/turf/Highway/background{tag = ""; icon_state = "0,5"},/turf/Highway/a12,/area)
+"bW" = (/turf/Highway/rain,/turf/Highway/background{tag = ""; icon_state = "1,5"},/turf/Highway/a13,/area)
+"bX" = (/turf/Highway/background{tag = ""; icon_state = "7,5"},/turf/Highway/rain,/turf/Highway/a11,/area)
+"bY" = (/turf/Highway/background{tag = ""; icon_state = "1,5"},/turf/Highway/rain,/turf/Highway/a13,/area)
+"bZ" = (/turf/Highway/background{tag = ""; icon_state = "7,5"},/turf/Highway/rain,/turf/Highway/a11,/turf/Highway/rain2,/area)
+"ca" = (/turf/Highway/background{tag = ""; icon_state = "0,5"},/turf/Highway/rain,/turf/Highway/a12,/turf/Highway/rain2,/area)
+"cb" = (/turf/Highway/background{tag = ""; icon_state = "1,5"},/turf/Highway/rain,/turf/Highway/a13,/turf/Highway/rain2,/area)
+"cc" = (/turf/Highway/background{tag = ""; icon_state = "5,5"},/turf/Highway/rain,/turf/FlagPoint,/area)
+"cd" = (/turf/Highway/rain,/turf/Highway/background{tag = ""; icon_state = "6,5"},/turf/Highway/rain2,/area)
+"ce" = (/turf/Highway/rain,/turf/Highway/background{tag = ""; icon_state = "7,5"},/turf/Highway/a11,/turf/Highway/rain2,/area)
+"cf" = (/turf/Highway/rain,/turf/Highway/background{tag = ""; icon_state = "0,5"},/turf/Highway/a12,/turf/Highway/rain2,/area)
+"cg" = (/turf/Highway/rain,/turf/Highway/background{tag = ""; icon_state = "1,5"},/turf/Highway/a13,/turf/Highway/rain2,/area)
+"ch" = (/turf/Highway/a9,/turf/Capsules/Capsule2,/area)
+"ci" = (/turf/Highway/a9,/area)
+"cj" = (/turf/Highway/background{tag = ""; icon_state = "7,5"},/turf/Highway/rain,/turf/FlagPoint,/area)
+"ck" = (/turf/Highway/background{tag = ""; icon_state = "7,5"},/turf/Highway/a11,/turf/Highway/rain,/area)
+"cl" = (/turf/Highway/background{tag = ""; icon_state = "0,5"},/turf/Highway/a12,/turf/Highway/rain,/area)
+"cm" = (/turf/Highway/background{tag = ""; icon_state = "1,5"},/turf/Highway/a13,/turf/Highway/rain,/area)
+"cn" = (/turf/Highway/a8,/turf/Highway/a14,/turf/Capsules/Capsule2,/area)
+"co" = (/turf/Highway/background{tag = ""; icon_state = "0,5"},/turf/Highway/a11,/turf/Highway/rain,/area)
+"cp" = (/turf/Highway/background{tag = ""; icon_state = "1,5"},/turf/Highway/a12,/turf/Highway/rain,/area)
+"cq" = (/turf/Highway/background{tag = ""; icon_state = "2,5"},/turf/Highway/a12,/turf/Highway/rain,/area)
+"cr" = (/turf/Highway/background{tag = ""; icon_state = "3,5"},/turf/Highway/a13,/turf/Highway/rain,/area)
+"cs" = (/turf/Highway/background{tag = ""; icon_state = "0,4"},/turf/Highway/rain,/area)
+"ct" = (/turf/Highway/background{tag = ""; icon_state = "1,4"},/turf/Highway/rain,/area)
+"cu" = (/turf/Highway/background{tag = ""; icon_state = "2,4"},/turf/Highway/rain,/area)
+"cv" = (/turf/Highway/background{tag = ""; icon_state = "3,4"},/turf/Highway/rain,/area)
+"cw" = (/turf/Highway/background{tag = ""; icon_state = "4,4"},/turf/Highway/rain,/area)
+"cx" = (/turf/Highway/background{tag = ""; icon_state = "5,4"},/turf/Highway/rain,/area)
+"cy" = (/turf/Highway/rain,/turf/Highway/background{tag = ""; icon_state = "6,4"},/area)
+"cz" = (/turf/Highway/rain,/turf/Highway/background{tag = ""; icon_state = "7,4"},/turf/Highway/a11,/area)
+"cA" = (/turf/Highway/rain,/turf/Highway/background{tag = ""; icon_state = "0,4"},/turf/Highway/a12,/area)
+"cB" = (/turf/Highway/rain,/turf/Highway/background{tag = ""; icon_state = "1,4"},/turf/Highway/a13,/area)
+"cC" = (/turf/Highway/background{tag = ""; icon_state = "6,4"},/turf/Highway/rain,/area)
+"cD" = (/turf/Highway/background{tag = ""; icon_state = "7,4"},/turf/Highway/rain,/turf/Highway/a11,/area)
+"cE" = (/turf/Highway/background{tag = ""; icon_state = "0,4"},/turf/Highway/rain,/turf/Highway/a12,/area)
+"cF" = (/turf/Highway/background{tag = ""; icon_state = "1,4"},/turf/Highway/rain,/turf/Highway/a13,/area)
+"cG" = (/turf/Highway/background{tag = ""; icon_state = "7,4"},/turf/Highway/rain,/area)
+"cH" = (/turf/Highway/background{tag = ""; icon_state = "7,4"},/turf/Highway/a11,/turf/Highway/rain,/area)
+"cI" = (/turf/Highway/background{tag = ""; icon_state = "0,4"},/turf/Highway/a12,/turf/Highway/rain,/area)
+"cJ" = (/turf/Highway/background{tag = ""; icon_state = "1,4"},/turf/Highway/a13,/turf/Highway/rain,/area)
+"cK" = (/turf/Highway/background3{tag = ""; icon_state = "3,4"},/turf/FlagPoint,/area)
+"cL" = (/turf/Highway/background{tag = ""; icon_state = "0,3"},/turf/Highway/rain,/area)
+"cM" = (/turf/Highway/background{tag = ""; icon_state = "1,3"},/turf/Highway/rain,/area)
+"cN" = (/turf/Highway/background{tag = ""; icon_state = "2,3"},/turf/Highway/rain,/area)
+"cO" = (/turf/Highway/background{tag = ""; icon_state = "3,3"},/turf/Highway/rain,/area)
+"cP" = (/turf/Highway/background{tag = ""; icon_state = "4,3"},/turf/Highway/rain,/area)
+"cQ" = (/turf/Highway/background{tag = ""; icon_state = "5,3"},/turf/Highway/rain,/area)
+"cR" = (/turf/Highway/rain,/turf/Highway/background{tag = ""; icon_state = "6,3"},/area)
+"cS" = (/turf/Highway/rain,/turf/Highway/background{tag = ""; icon_state = "7,3"},/turf/Highway/a11,/area)
+"cT" = (/turf/Highway/rain,/turf/Highway/background{tag = ""; icon_state = "0,3"},/turf/Highway/a12,/area)
+"cU" = (/turf/Highway/rain,/turf/Highway/background{tag = ""; icon_state = "1,3"},/turf/Highway/a13,/area)
+"cV" = (/turf/Highway/background{tag = ""; icon_state = "6,3"},/turf/Highway/rain,/area)
+"cW" = (/turf/Highway/background{tag = ""; icon_state = "7,3"},/turf/Highway/rain,/area)
+"cX" = (/turf/Highway/background{tag = ""; icon_state = "0,3"},/turf/Highway/rain,/turf/Highway/rain2,/area)
+"cY" = (/turf/Highway/background{tag = ""; icon_state = "1,3"},/turf/Highway/rain,/turf/Highway/rain2,/area)
+"cZ" = (/turf/Highway/background{tag = ""; icon_state = "7,3"},/turf/Highway/rain,/turf/Highway/a11,/area)
+"da" = (/turf/Highway/background{tag = ""; icon_state = "0,3"},/turf/Highway/rain,/turf/Highway/a12,/area)
+"db" = (/turf/Highway/background{tag = ""; icon_state = "1,3"},/turf/Highway/rain,/turf/Highway/a13,/area)
+"dc" = (/turf/Highway/background{tag = ""; icon_state = "5,3"},/turf/Highway/rain,/turf/Highway/rain2,/area)
+"dd" = (/turf/Highway/background{tag = ""; icon_state = "6,3"},/turf/Highway/rain,/turf/Highway/rain2,/area)
+"de" = (/turf/Highway/background{tag = ""; icon_state = "7,3"},/turf/Highway/a11,/turf/Highway/rain,/area)
+"df" = (/turf/Highway/background{tag = ""; icon_state = "0,3"},/turf/Highway/a12,/turf/Highway/rain,/area)
+"dg" = (/turf/Highway/background{tag = ""; icon_state = "1,3"},/turf/Highway/a13,/turf/Highway/rain,/area)
+"dh" = (/turf/Highway/background{tag = ""; icon_state = "0,2"},/turf/Highway/rain,/area)
+"di" = (/turf/Highway/background{tag = ""; icon_state = "1,2"},/turf/Highway/rain,/area)
+"dj" = (/turf/Highway/background{tag = ""; icon_state = "2,2"},/turf/Highway/rain,/area)
+"dk" = (/turf/Highway/background{tag = ""; icon_state = "3,2"},/turf/Highway/rain,/area)
+"dl" = (/turf/Highway/background{tag = ""; icon_state = "4,2"},/turf/Highway/rain,/area)
+"dm" = (/turf/Highway/background{tag = ""; icon_state = "5,2"},/turf/Highway/rain,/area)
+"dn" = (/turf/Highway/rain,/turf/Highway/background{tag = ""; icon_state = "6,2"},/area)
+"do" = (/turf/Highway/rain,/turf/Highway/background{tag = ""; icon_state = "7,2"},/turf/Highway/a11,/area)
+"dp" = (/turf/Highway/rain,/turf/Highway/background{tag = ""; icon_state = "0,2"},/turf/Highway/a12,/area)
+"dq" = (/turf/Highway/rain,/turf/Highway/background{tag = ""; icon_state = "1,2"},/turf/Highway/a13,/area)
+"dr" = (/turf/Highway/background{tag = ""; icon_state = "6,2"},/turf/Highway/rain,/area)
+"ds" = (/turf/Highway/background{tag = ""; icon_state = "7,2"},/turf/Highway/rain,/area)
+"dt" = (/turf/Highway/background{tag = ""; icon_state = "7,2"},/turf/Highway/rain,/turf/Highway/a11,/area)
+"du" = (/turf/Highway/background{tag = ""; icon_state = "0,2"},/turf/Highway/rain,/turf/Highway/a12,/area)
+"dv" = (/turf/Highway/background{tag = ""; icon_state = "1,2"},/turf/Highway/rain,/turf/Highway/a13,/area)
+"dw" = (/turf/Highway/background{tag = ""; icon_state = "7,2"},/turf/Highway/a11,/turf/Highway/rain,/area)
+"dx" = (/turf/Highway/background{tag = ""; icon_state = "0,2"},/turf/Highway/a12,/turf/Highway/rain,/area)
+"dy" = (/turf/Highway/background{tag = ""; icon_state = "1,2"},/turf/Highway/a13,/turf/Highway/rain,/area)
+"dz" = (/turf/Highway/background{tag = ""; icon_state = "0,1"},/turf/Highway/rain,/area)
+"dA" = (/turf/Highway/background{tag = ""; icon_state = "1,1"},/turf/Highway/rain,/area)
+"dB" = (/turf/Highway/background{tag = ""; icon_state = "2,1"},/turf/Highway/rain,/area)
+"dC" = (/turf/Highway/background{tag = ""; icon_state = "3,1"},/turf/Highway/rain,/area)
+"dD" = (/turf/Highway/background{tag = ""; icon_state = "4,1"},/turf/Highway/rain,/area)
+"dE" = (/turf/Highway/background{tag = ""; icon_state = "5,1"},/turf/Highway/rain,/area)
+"dF" = (/turf/Highway/rain,/turf/Highway/background{tag = ""; icon_state = "6,1"},/area)
+"dG" = (/turf/Highway/rain,/turf/Highway/background{tag = ""; icon_state = "7,1"},/turf/Highway/a11,/area)
+"dH" = (/turf/Highway/rain,/turf/Highway/background{tag = ""; icon_state = "0,1"},/turf/Highway/a12,/area)
+"dI" = (/turf/Highway/rain,/turf/Highway/background{tag = ""; icon_state = "1,1"},/turf/Highway/a13,/area)
+"dJ" = (/turf/Highway/background{tag = ""; icon_state = "6,1"},/turf/Highway/rain,/area)
+"dK" = (/turf/Highway/background{tag = ""; icon_state = "7,1"},/turf/Highway/rain,/area)
+"dL" = (/turf/Highway/background{tag = ""; icon_state = "7,1"},/turf/Highway/rain,/turf/Highway/a11,/area)
+"dM" = (/turf/Highway/background{tag = ""; icon_state = "0,1"},/turf/Highway/rain,/turf/Highway/a12,/area)
+"dN" = (/turf/Highway/background{tag = ""; icon_state = "1,1"},/turf/Highway/rain,/turf/Highway/a13,/area)
+"dO" = (/turf/Highway/background{tag = ""; icon_state = "7,1"},/turf/Highway/a11,/turf/Highway/rain,/area)
+"dP" = (/turf/Highway/background{tag = ""; icon_state = "0,1"},/turf/Highway/a12,/turf/Highway/rain,/area)
+"dQ" = (/turf/Highway/background{tag = ""; icon_state = "1,1"},/turf/Highway/a13,/turf/Highway/rain,/area)
+"dR" = (/turf/Highway/background{tag = ""; icon_state = "0,0"},/turf/Highway/rain,/turf/Highway/rain2,/area)
+"dS" = (/turf/Highway/background{tag = ""; icon_state = "1,0"},/turf/Highway/rain,/turf/Highway/rain2,/area)
+"dT" = (/turf/Highway/background{tag = ""; icon_state = "2,0"},/turf/Highway/rain,/turf/Highway/rain2,/area)
+"dU" = (/turf/Highway/background{tag = ""; icon_state = "3,0"},/turf/Highway/rain,/turf/Highway/rain2,/area)
+"dV" = (/turf/Highway/background{tag = ""; icon_state = "4,0"},/turf/Highway/rain,/turf/Highway/rain2,/area)
+"dW" = (/turf/Highway/background{tag = ""; icon_state = "5,0"},/turf/Highway/rain,/turf/Highway/rain2,/area)
+"dX" = (/turf/Highway/rain,/turf/Highway/background{tag = ""; icon_state = "6,0"},/turf/Highway/rain2,/area)
+"dY" = (/turf/Highway/rain,/turf/Highway/background{tag = ""; icon_state = "7,0"},/turf/Highway/a11,/turf/Highway/rain2,/area)
+"dZ" = (/turf/Highway/rain,/turf/Highway/background{tag = ""; icon_state = "0,0"},/turf/Highway/a12,/turf/Highway/rain2,/area)
+"ea" = (/turf/Highway/rain,/turf/Highway/background{tag = ""; icon_state = "1,0"},/turf/Highway/a13,/turf/Highway/rain2,/area)
+"eb" = (/turf/Highway/background{tag = ""; icon_state = "6,0"},/turf/Highway/rain,/turf/Highway/rain2,/area)
+"ec" = (/turf/Highway/background{tag = ""; icon_state = "7,0"},/turf/Highway/rain,/turf/Highway/rain2,/area)
+"ed" = (/turf/Highway/background{tag = ""; icon_state = "7,0"},/turf/Highway/rain,/turf/Highway/a11,/turf/Highway/rain2,/area)
+"ee" = (/turf/Highway/background{tag = ""; icon_state = "0,0"},/turf/Highway/rain,/turf/Highway/a12,/turf/Highway/rain2,/area)
+"ef" = (/turf/Highway/background{tag = ""; icon_state = "1,0"},/turf/Highway/rain,/turf/Highway/a13,/turf/Highway/rain2,/area)
+"eg" = (/turf/Highway/background{tag = ""; icon_state = "7,0"},/turf/Highway/a11,/turf/Highway/rain,/turf/Highway/rain2,/area)
+"eh" = (/turf/Highway/background{tag = ""; icon_state = "0,0"},/turf/Highway/a12,/turf/Highway/rain,/turf/Highway/rain2,/area)
+"ei" = (/turf/Highway/background{tag = ""; icon_state = "1,0"},/turf/Highway/a13,/turf/Highway/rain,/turf/Highway/rain2,/area)
+"ej" = (/turf/Highway/a8,/area)
+"ek" = (/turf/Highway/a10,/area)
+"el" = (/turf/Highway/a5,/area)
+"em" = (/turf/Highway/a6,/area)
+"en" = (/turf/Highway/a2,/area)
+"eo" = (/turf/Highway/a3,/area)
+"ep" = (/turf/Highway/backgroundnew/BG05,/turf/Highway/rain,/area)
+"eq" = (/turf/Highway/backgroundnew/BG05,/turf/Highway/rain,/turf/Highway/rain2,/area)
+"er" = (/turf/Highway/a9,/turf/Highway/a14,/turf/Capsules/Capsule,/area)
+"es" = (/turf/Highway/a9,/turf/Highway/a15,/turf/Capsules/Capsule,/area)
+"et" = (/turf/Highway/backgroundnew/BG05,/turf/Highway/a11,/turf/Highway/rain,/area)
+"eu" = (/turf/Highway/backgroundnew/BG05,/turf/Highway/a12,/turf/Highway/rain,/area)
+"ev" = (/turf/Highway/backgroundnew/BG05,/turf/Highway/a13,/turf/Highway/rain,/area)
+"ew" = (/turf/Highway/backgroundnew/BG05,/turf/Highway/a11,/turf/Highway/rain,/turf/Highway/rain2,/area)
+"ex" = (/turf/Highway/backgroundnew/BG05,/turf/Highway/a12,/turf/Highway/rain,/turf/Highway/rain2,/area)
+"ey" = (/turf/Highway/backgroundnew/BG05,/turf/Highway/a13,/turf/Highway/rain,/turf/Highway/rain2,/area)
+"ez" = (/turf/Highway/backgroundnew/BG05,/turf/Highway/a11,/area)
+"eA" = (/turf/Highway/backgroundnew/BG05,/turf/Highway/a12,/area)
+"eB" = (/turf/Highway/backgroundnew/BG05,/turf/Highway/a13,/area)
+"eC" = (/turf/Highway/background3new/BG04,/area)
+"eD" = (/turf/Highway/background3new/BG14,/area)
+"eE" = (/turf/Highway/background3new/BG24,/area)
+"eF" = (/turf/Highway/background3new/BG34,/area)
+"eG" = (/turf/Highway/background3new/BG44,/area)
+"eH" = (/turf/Highway/background3new/BG03,/area)
+"eI" = (/turf/Highway/background3new/BG13,/area)
+"eJ" = (/turf/Highway/background3new/BG23,/area)
+"eK" = (/turf/Highway/background3new/BG33,/area)
+"eL" = (/turf/Highway/background3new/BG43,/area)
+"eM" = (/turf/Highway/background3new/BG02,/area)
+"eN" = (/turf/Highway/background3new/BG12,/area)
+"eO" = (/turf/Highway/background3new/BG22,/area)
+"eP" = (/turf/Highway/background3new/BG32,/area)
+"eQ" = (/turf/Highway/background3new/BG42,/area)
+"eR" = (/turf/Highway/background3new/BG01,/area)
+"eS" = (/turf/Highway/background3new/BG11,/area)
+"eT" = (/turf/Highway/background3new/BG21,/area)
+"eU" = (/turf/Highway/background3new/BG31,/area)
+"eV" = (/turf/Highway/background3new/BG41,/area)
+"eW" = (/turf/Highway/background3new/BG00,/area)
+"eX" = (/turf/Highway/background3new/BG10,/area)
+"eY" = (/turf/Highway/background3new/BG20,/area)
+"eZ" = (/turf/Highway/background3new/BG30,/area)
+"fa" = (/turf/Highway/background3new/BG40,/area)
+"fb" = (/turf/Highway/a10,/turf/Highway/a14,/turf/Capsules/Capsule,/area)
+"fc" = (/turf/Highway/backgroundnew/BG15,/turf/Highway/rain,/area)
+"fd" = (/turf/Highway/backgroundnew/BG25,/turf/Highway/rain,/area)
+"fe" = (/turf/Highway/backgroundnew/BG35,/turf/Highway/rain,/area)
+"ff" = (/turf/Highway/backgroundnew/BG45,/turf/Highway/rain,/area)
+"fg" = (/turf/Highway/backgroundnew/BG55,/turf/Highway/rain,/area)
+"fh" = (/turf/Highway/backgroundnew/BG65,/turf/Highway/rain,/area)
+"fi" = (/turf/Highway/backgroundnew/BG75,/turf/Highway/a11,/turf/Highway/rain,/area)
+"fj" = (/turf/Highway/backgroundnew/BG15,/turf/Highway/a13,/turf/Highway/rain,/area)
+"fk" = (/turf/Highway/backgroundnew/BG65,/turf/Highway/rain,/turf/Highway/rain2,/area)
+"fl" = (/turf/Highway/backgroundnew/BG75,/turf/Highway/rain,/turf/Highway/rain2,/area)
+"fm" = (/turf/Highway/backgroundnew/BG75,/turf/Highway/rain,/area)
+"fn" = (/turf/Highway/backgroundnew/BG35,/turf/Highway/rain,/turf/Highway/rain2,/area)
+"fo" = (/turf/Highway/backgroundnew/BG45,/turf/Highway/rain,/turf/Highway/rain2,/area)
+"fp" = (/turf/Highway/backgroundnew/BG04,/turf/Highway/rain,/area)
+"fq" = (/turf/Highway/backgroundnew/BG14,/turf/Highway/rain,/area)
+"fr" = (/turf/Highway/backgroundnew/BG24,/turf/Highway/rain,/area)
+"fs" = (/turf/Highway/backgroundnew/BG34,/turf/Highway/rain,/area)
+"ft" = (/turf/Highway/backgroundnew/BG44,/turf/Highway/rain,/area)
+"fu" = (/turf/Highway/backgroundnew/BG54,/turf/Highway/rain,/area)
+"fv" = (/turf/Highway/backgroundnew/BG64,/turf/Highway/rain,/area)
+"fw" = (/turf/Highway/backgroundnew/BG74,/turf/Highway/a11,/turf/Highway/rain,/area)
+"fx" = (/turf/Highway/backgroundnew/BG04,/turf/Highway/a12,/turf/Highway/rain,/area)
+"fy" = (/turf/Highway/backgroundnew/BG14,/turf/Highway/a13,/turf/Highway/rain,/area)
+"fz" = (/turf/Highway/backgroundnew/BG74,/turf/Highway/rain,/area)
+"fA" = (/turf/Highway/backgroundnew/BG74,/turf/Highway/a11,/area)
+"fB" = (/turf/Highway/backgroundnew/BG04,/turf/Highway/a12,/area)
+"fC" = (/turf/Highway/backgroundnew/BG14,/turf/Highway/a13,/area)
+"fD" = (/turf/Highway/backgroundnew/BG03,/turf/Highway/rain,/area)
+"fE" = (/turf/Highway/backgroundnew/BG13,/turf/Highway/rain,/area)
+"fF" = (/turf/Highway/backgroundnew/BG23,/turf/Highway/rain,/area)
+"fG" = (/turf/Highway/backgroundnew/BG33,/turf/Highway/rain,/area)
+"fH" = (/turf/Highway/backgroundnew/BG43,/turf/Highway/rain,/area)
+"fI" = (/turf/Highway/backgroundnew/BG53,/turf/Highway/rain,/area)
+"fJ" = (/turf/Highway/backgroundnew/BG63,/turf/Highway/rain,/area)
+"fK" = (/turf/Highway/backgroundnew/BG73,/turf/Highway/a11,/turf/Highway/rain,/area)
+"fL" = (/turf/Highway/backgroundnew/BG03,/turf/Highway/a12,/turf/Highway/rain,/area)
+"fM" = (/turf/Highway/backgroundnew/BG13,/turf/Highway/a13,/turf/Highway/rain,/area)
+"fN" = (/turf/Highway/backgroundnew/BG73,/turf/Highway/rain,/area)
+"fO" = (/turf/Highway/backgroundnew/BG03,/turf/Highway/rain,/turf/Highway/rain2,/area)
+"fP" = (/turf/Highway/backgroundnew/BG13,/turf/Highway/rain,/turf/Highway/rain2,/area)
+"fQ" = (/turf/Highway/backgroundnew/BG53,/turf/Highway/rain,/turf/Highway/rain2,/area)
+"fR" = (/turf/Highway/backgroundnew/BG63,/turf/Highway/rain,/turf/Highway/rain2,/area)
+"fS" = (/turf/Highway/backgroundnew/BG73,/turf/Highway/a11,/area)
+"fT" = (/turf/Highway/backgroundnew/BG03,/turf/Highway/a12,/area)
+"fU" = (/turf/Highway/backgroundnew/BG13,/turf/Highway/a13,/area)
+"fV" = (/turf/Highway/backgroundnew/BG02,/turf/Highway/rain,/area)
+"fW" = (/turf/Highway/backgroundnew/BG12,/turf/Highway/rain,/area)
+"fX" = (/turf/Highway/backgroundnew/BG22,/turf/Highway/rain,/area)
+"fY" = (/turf/Highway/backgroundnew/BG32,/turf/Highway/rain,/area)
+"fZ" = (/turf/Highway/backgroundnew/BG42,/turf/Highway/rain,/area)
+"ga" = (/turf/Highway/backgroundnew/BG52,/turf/Highway/rain,/area)
+"gb" = (/turf/Highway/backgroundnew/BG62,/turf/Highway/rain,/area)
+"gc" = (/turf/Highway/backgroundnew/BG72,/turf/Highway/a11,/turf/Highway/rain,/area)
+"gd" = (/turf/Highway/backgroundnew/BG02,/turf/Highway/a12,/turf/Highway/rain,/area)
+"ge" = (/turf/Highway/backgroundnew/BG12,/turf/Highway/a13,/turf/Highway/rain,/area)
+"gf" = (/turf/Highway/backgroundnew/BG72,/turf/Highway/rain,/area)
+"gg" = (/turf/Highway/backgroundnew/BG72,/turf/Highway/a11,/area)
+"gh" = (/turf/Highway/backgroundnew/BG02,/turf/Highway/a12,/area)
+"gi" = (/turf/Highway/backgroundnew/BG12,/turf/Highway/a13,/area)
+"gj" = (/turf/Highway/a9,/turf/Capsules/Capsule,/area)
+"gk" = (/turf/Highway/backgroundnew/BG01,/turf/Highway/rain,/area)
+"gl" = (/turf/Highway/backgroundnew/BG11,/turf/Highway/rain,/area)
+"gm" = (/turf/Highway/backgroundnew/BG21,/turf/Highway/rain,/area)
+"gn" = (/turf/Highway/backgroundnew/BG31,/turf/Highway/rain,/area)
+"go" = (/turf/Highway/backgroundnew/BG41,/turf/Highway/rain,/area)
+"gp" = (/turf/Highway/backgroundnew/BG51,/turf/Highway/rain,/area)
+"gq" = (/turf/Highway/backgroundnew/BG61,/turf/Highway/rain,/area)
+"gr" = (/turf/Highway/backgroundnew/BG71,/turf/Highway/a11,/turf/Highway/rain,/area)
+"gs" = (/turf/Highway/backgroundnew/BG01,/turf/Highway/a12,/turf/Highway/rain,/area)
+"gt" = (/turf/Highway/backgroundnew/BG11,/turf/Highway/a13,/turf/Highway/rain,/area)
+"gu" = (/turf/Highway/backgroundnew/BG71,/turf/Highway/rain,/area)
+"gv" = (/turf/Highway/backgroundnew/BG71,/turf/Highway/a11,/area)
+"gw" = (/turf/Highway/backgroundnew/BG01,/turf/Highway/a12,/area)
+"gx" = (/turf/Highway/backgroundnew/BG11,/turf/Highway/a13,/area)
+"gy" = (/turf/Highway/backgroundnew/BG00,/turf/Highway/rain,/turf/Highway/rain2,/area)
+"gz" = (/turf/Highway/backgroundnew/BG10,/turf/Highway/rain,/turf/Highway/rain2,/area)
+"gA" = (/turf/Highway/backgroundnew/BG20,/turf/Highway/rain,/turf/Highway/rain2,/area)
+"gB" = (/turf/Highway/backgroundnew/BG30,/turf/Highway/rain,/turf/Highway/rain2,/area)
+"gC" = (/turf/Highway/backgroundnew/BG40,/turf/Highway/rain,/turf/Highway/rain2,/area)
+"gD" = (/turf/Highway/backgroundnew/BG50,/turf/Highway/rain,/turf/Highway/rain2,/area)
+"gE" = (/turf/Highway/backgroundnew/BG60,/turf/Highway/rain,/turf/Highway/rain2,/area)
+"gF" = (/turf/Highway/backgroundnew/BG70,/turf/Highway/a11,/turf/Highway/rain,/turf/Highway/rain2,/area)
+"gG" = (/turf/Highway/backgroundnew/BG00,/turf/Highway/a12,/turf/Highway/rain,/turf/Highway/rain2,/area)
+"gH" = (/turf/Highway/backgroundnew/BG10,/turf/Highway/a13,/turf/Highway/rain,/turf/Highway/rain2,/area)
+"gI" = (/turf/Highway/backgroundnew/BG70,/turf/Highway/rain,/turf/Highway/rain2,/area)
+"gJ" = (/turf/Highway/backgroundnew/BG70,/turf/Highway/a11,/area)
+"gK" = (/turf/Highway/backgroundnew/BG00,/turf/Highway/a12,/area)
+"gL" = (/turf/Highway/backgroundnew/BG10,/turf/Highway/a13,/area)
+
+(1,1,1) = {"
+aaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacad
+aaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacad
+aaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacad
+aaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacad
+aaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacad
+aaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacad
+aaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacad
+aaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacad
+aaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacad
+aaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacad
+aaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaiajakalamanaoapaiajakalamanaoapaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacad
+aaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaqarasaqarasaqarasaqarasaqarasasaaabakalaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacad
+aaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabaqasaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacad
+aaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaiajacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacad
+aaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeanaoahaaabacadaeafagahaaabacadaeafagahaqasacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacad
+aaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeaqasahaaabacadaeafagahaaabacadaeafagahaaabakalaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacad
+aiajakalamanaoapaiajakalaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabaqasaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeanaoahaaabacadaeafagahaaabacadaeafagahaaatacad
+auarasaqarasaqarasaqaravaeafagahaaabacadaeafagahaaabakalaeafagahaaabacadaeafagahaaabacadaeafagahaiajacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeaqasahaaabacadamanaoapaiajakalamanaoapaiajakal
+awaxayazaAaBaxayazaAaBawaeafagahaaabacadaeafagahaaabaqasaeafagahaaabacadaeafagahaaabacadaeafagahaqasacadaeafagahaaabacadaeafagahaaabacadaeafagahaaajakadaeafagahaaabacadaqarasaqarasaqarasaqarasaqarasas
+aCaDaEaFaGaHaDaEaFaGaHaCaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabakalaeafagahaaabacadaeafagahaaabacadaeafagahaaaqasadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacad
+awaIaJaKaLaMaIaJaKaLaMawaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabaqasaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacad
+aCaNaOaPaQaRaNaSaPaQaRaCamanaoapaiajakalamanaoapaiajakadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacad
+awaTaUaVaWaXaTaUaVaWaXaYauarasaqarasaqarasaqarasaqaravadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadamanaoapaiajakalamanaoapaiajakalamanagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacad
+aCaZararasbaaxayazaAbaaxbbbcaAbaaxayazaAbaaxayazaAaBawadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaqarasaqarasaqarasaqarasaqarasaqarasagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacad
+awaDaEaFaGbdaDaEaFaGbdaDbebfaGbdaDaEaFaGbdaDaEaFaGaHaCadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacad
+aCaIaJaKaLbgaIaJaKaLbgaIbhbiaLbgaIaJaKaLbgaIaJaKaLaMawadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafaoapaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacad
+awaNaSaPaQbjaNaSaPaQbjaNaqarasaqarasaqarasaNaSaPaQaRaCalamanaoapaiajakalamanaoapaiajakalamanagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafaqasaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacad
+aCaTaUaVaWbkaTaUaVaWbkaTblbmaWbkaTaUaVaWbkaTaUaVaWaXaYauarasaqarasaqarasaqarasaqarasaqararavagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacad
+awaxayazaAbaaxayazaAbaaxbbbcaAbaaxayazaAbaaxayazaAbaaxaybnbobaaxayazaAbaaxayazaAbaaxayazbpbqagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaiajacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacad
+aCaDaEaFaGbdaDaEaFaGbdaDbebfaGbdaDaEaFaGbdaDaEaFaGbdaDaEbrbsbdaDaEaFaGbdaDaEaFaGbdaDaEaFbtbuagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaqasacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacad
+awarasaqarasaqarasaLbgaIbhbiaLbgaIaJaKaLbgaIaJaKaLbgaIaJbvbwbgaIaJaKaLbgaIaJaKaLbgaIaJaKbxbyagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacad
+aCaNaSaPaQbjaNaSaPaQbjaNbzbAaQbjaNaSaPaQbjaNaSaPaQbjaNaSbBbCbjaNaSaPaQbjaNaSaPaQbjaNaSaPbDbEagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacalamanaoapaiajakalamanaoapaiajakadaeafagahaaabacad
+awaTaUaVaWbkaTaUaVaWbkaTblbmaWbkaTaUaVaWbkaTaUaVaWbkaTaUbFbGbkaTaUaVaWbkaTaUaVaWbkaTaUaVbHbIagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacaqarasaqarasaqaqarasaqarasaqarasadaeafagapaiabacad
+aCaxayazaAbaaxayazaAbaaxbbbcaAbaaxayazaAbaaxayazaAbaaxaybnbobaaxayazaAbaaxayazaAbaaxayazbpbqagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagaqasabacad
+awaDaEaFaGbdaDaEaFaGbdaDaqarasaqarasaqarasaDaEaFaGbdaDaEbrbsbdaDaEaFaGbdaDaEaFaGbdaDaEaFbtbuagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadamanagahaaabacad
+aCaIaJaKaLbgaIaJaKaLbgaIbhbiaLbgaIaJaKaLbgaIaJaKaLbgaIaJbvbwbgaIaJaKaLbgaIaJaKaLbgaIaJaKbxbyagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaqasagahaaabacad
+awaNaSaPaQbjaNaSaPaQbjaNbzbAaQbjaNaSaPaQbjaNaSaPaQbjaNaSbBbCbjaNaSaPaQbjaNaSaPaQbjaNaSaPbDbEagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacad
+aCaTaUaVaWbkaTaUaVaWbkaTblbmaWbkaTaUaVaWbkaTaUaVaWbkaTaUbFbGbkaTaUaVaWbkaTaUaVaWbkaTaUaVbHbIagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafaoapaaabacad
+auarasaqarasaqarasaqarasaqarasaqarasaqarasaqarasaqarasaqarasaqarasaqarasaqarasaqarasaqararavagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafaqasaaabacad
+bJbKbLbMbNbObPbQbRbKbLbMbNbObPbQbRbKbLbMbNbObPbQbRbKbLbMbNbObPbQbRbKbLbMbNbObPbQbRbKbLbMbNbSagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacad
+aaabacadaeafbTbUbVbWacadaeafagahaaabacadaeafagbXbRbYacadaeafagahaaabacadaeafagbXbRbYacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacalamafagahaaabacad
+aaabacadaeafbTbUbVbWacadaeafagahaaabacadaeafagbXbRbYacadaeafagahaaabacadaeafagbXbRbYacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacaqasafagahaaabacad
+aaabacadaeafbTbUbVbWacadaeafagahaaabacadaeafagbXbRbYacadaeafagahaaabacadaeafagbXbRbYacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacad
+aaabacadaeafbTbUbVbWacadaeafagahaaabacadaeafagbXbRbYacadaeafagahaaabacadaeafagbXbRbYacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacalamanaoapaiajakalamanaoapaiajakalamanaoapaiabacadaeafagahaaabacad
+aaabacadaeafbTbUbVbWacadaeafagahaaabacadaeafagbXbRbYacadaeafagahaaabacadaeafagbXbRbYacadaeafagahaaabacadaeafagahaaabacadaeafagahaaajakaqarasaqarasaqarasaqarasaqaqarasaqarasaqarasabacadaeafagahaaabacad
+aaabacadaeafbTbUbVbWacadaeafagahaaabacadaeafagbXbRbYacadaeafagahaaabacadaeafagbXbRbYacadaeafagahaaabacadaeafagahaaabacadaeafagahaaaqasadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacad
+aaabacadaeafbTbUbVbWacadaeafagahaaabacadaeafagbXbRbYacadaeafagahaaabacadaeafagbXbRbYacadaeafagahaaabacadaeafagahaaabacadaeafagapaiabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacad
+aaabacadaeafbTbUbVbWacadaeafagahaaabacadaeafagbXbRbYacadaeafagahaaabacadaeafagbXbRbYacadaeafagahaaabacadaeafagahaaabacadaeafagaqasabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacad
+aaabacadaeafbTbUbVbWacadaeafagahaaabacadaeafagbXbRbYacadaeafagapaiajakalamanaobZcacbakalamanagahaaabacadaeafagahaaabacadaeafagahaaajakadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacad
+aaabacadaeafbTbUbVbWacadaeafagahaaabacadaeafagbXbRbYacadaeafagaqarasaqarasaqarasaqarasaqarasagahaaabacadaeafagahaaabacadaeafagahaaaqasadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacad
+aaabacadaeafbTbUbVbWacadaeafagahaaabacadaeafagbXbRbYacadaeafagahaaabacadaeafagbXbRbYacadaeafagahaaabacadaeafagahaaabacadaeafagapaiabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacad
+aaabacadaeafbTbUbVbWacadaeafagahaaabacadaeafagbXbRbYakalaeafagahaaabacadaeafagbXbRbYacadaeafagapaiabacadaeafagahaaabacadaeafagaqasabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacad
+aaabacadaeafbTbUbVbWacadaeafagahaaabacadaeafagbXbRbYaqasaeafagahaaabacadaeafagbXbRbYacadaeafagaqasabacadaeafagahaaabacadaeafagahaaajakadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacad
+aaabacadaeccbTbUbVbWacadaeafagahaaabacadaeafagbXbRbYacadaeafagahaaabacadaeafagbXbRbYacadaeanaoahaaabacadaeafagahaaabacadaeafagahaaaqasadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacad
+aaabacalamancdcecfcgakalamanaoapaiajakalamanaobZbRbYacadaeafagahaaabacadaeafagbXbRbYacadaeaqasahaaabacadaeafagahaaabacadaeafagapaiabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacad
+aaabacaqchciaqciciaqarasaqarasaqarasaqarasaqarasbRbYacadaeafagahaaabacadaeafagbXbRbYacadaeafagapaiabacadaeafagahaaabacadaeafagaqasabacadaeafagahaaabacadaeafagahaaabacadaeafagcjaaabacadaeafagahaaabacad
+aaabacadaeafbTbUbVbWacadaeafagahaaabacadaeafagbZcabYacadaeafagahaaabacadaeafagbXbRbYacadaeafagaqasabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadamanaoapaiajakalamanaoapaiajakalamanaoapaiabacad
+aaabacadaeafbTbUbVbWacadaeafagahaaabacadaeafagaqasbYacadaeafagahaaabacadaeafagbXbRbYacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaqarasaqarasaqarasaqaZasaqarasaqarasaqarasabacad
+aaabacadaeafbTbUbVbWacadaeafagahaaabacadaeafagbXbRcbakadaeafagahaaabacadaeafagbXbRbYacadamanaoapaiajakalamanaoapaiajakalamanaoapaiajakalaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacad
+aaabacadaeafbTbUbVbWacadaeafagahaaabacadaeafagbXbRaqasadaeafagahaaabacadaeafagbXbRbYacadaqarasaqarasaqarasaqarasaqarasaqarasaqarasaqarasaeafagahaaajakadaeafagahaaabacadaeafagahaaabacadaeafagahaaabakal
+aaabacadaeafbTbUbVbWacadaeafagahaaabacadaeafagbZcabYacadaeafagahaaabacadaeafagbXbRbYacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaaqasadaeafagahaaabacadaeafagahaaabacadaeafagahaaabaqas
+aaabacadaeafbTbUbVbWacadaeafagahaaabacadaeafagaqasbYacadaeafagahaaabacadaeafagbXbRbYacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacad
+aaabacadaeafbTbUbVbWacadaeafagahaaabacadaeafagbXbRcbakadaeafagahaaabacadaeafagbXbRbYacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadamanaoapaiajakalamanaoapaiajakalamanaoapaiabacad
+aaabacadaeafbTbUbVbWacadaeafagahaaabacadaeafagbXbRaqasadaeafagahaaabacadaeafagbXbRbYacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaqarasaqarasaqarasaqarasaqarasaqarasaqarasabacad
+aaabacadaeafbTbUbVbWacadaeafagahaaabacadaeafagbXbRbYacadaeafagahaaabacadaeafagbXbRbYacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacad
+aaabacadaeafbTbUbVbWacadaeafagahaaabacadaeafagbXbRbYacadaeafagahaaabacadaeafagbXbRbYacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaajakadaeafagahaaabacadaeafagahaaabacadaeafagahaaabakal
+aaabacadaeafbTbUbVbWacadaeafagapaiajakalamanaobZcacbakalamanaoapaiajakadaeafagbXbRbYacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaaqasadaeafagahaaabacadaeafagahaaabacadaeafagahaaabaqas
+aaabacadaeafbTbUbVbWacadaeafagaqarasaqarasaqarasaqaraqarasaqarasaqarasadaeafagbXbRbYacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadamanaoapaiajakalamanaoapaiajakalamanaoapaiabacad
+aaabacadaeafbTbUbVbWacadaeafagahaaabacadaeafagbXbRbYacadaeafagahaaabacadaeanaobXbRbYacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaqarasaqarasaqarasaqarasaqarasaqarasaqarasabacad
+aaabacadaeafbTbUbVbWacadaeafagahaaabacadaeafagbXbRbYacadaeafagahaaabacadaeaqasbXbRbYacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacad
+aaabacadaeafbTbUbVbWacadaeafagahaaabacadaeafagbXbRbYacadaeafagahaaabacadaeafagbXbRbYakalamanaoapaiajakalamanaoapaiajakalamanagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacad
+aaabacadaeafbTbUbVbWacadaeafagahaaabacadaeafagbXbRbYacadaeafagahaaabacadaeafagbXbRbYaqarasaqarasaqarasaqaraqarasaqarasaqarasagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacad
+aaabacadaeafbTbUbVbWacadaeafagahaaabacadaeafagbXbRbYacadaeafagahaaabacadaeafagbXcacbacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagapaiajakalamanaoapaiajakalamanaoapaiajakalamanaoapaiajakal
+aaabacadaeafbTbUbVbWacadaeafagahaaabacadaeafagbXbRbYacadaeafagahaaabacadaeafagbXaqasacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagauarasaqarasaqarasaqarasaqarasaqarasaqarasaqarasaqarasaqav
+aaabacadaeafbTbUbVbWacadaeafagahaaabacadaeafagbXbRbYacadaeafagahaaabacadaeafaobZbRbYacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagckclcmbaaxayazaAaBaxayazaAaBaxayazaAaBaxayazaAaBaxayazaAaw
+aaabacadaeafbTbUbVbWacadaeafagahaaabacadaeafagbXbRbYacadaeafagahaaabacadaeafaqasbRbYacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagckclcmbdaDaEaFaGaHaDaEaFaGaHaDaEaFaGaHaDaEaFaGaHaDaEaFaGaC
+aaabacadaeafbTbUbVbWacadaeafagahaaabacadaeafagbXbRbYacadaeafagahaaabacadaeafagbXbRbYacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagckclcmbgaIaJaKaLaMaIaJaKaLaMaIaJaKaLaMaIaJaKaLaMaIaJaKaLaw
+aaabacadaeafbTbUbVbWacadaeafagahaaabacadaeafagbXbRbYacadaeafagahaaabacadaeafagbXbRbYacadaeafagahaaabacadaeafagahaaabacadaeafagahaaabacadaeafagckclcmbjaNaSaPaQaRaNaSaPaQaRaNaSaPaQaRaNaSaPaQaRaNaSaPaQaC
+aaabacadaeafbTbUbVbWacadaeafagahaaajakalamanaobZcacbakalamanaoapaiajakalamanaobZcacbakalamanaoapaiajakadaeafagahaaabacadaeafagahaaabacadaeafagckclcmbkaTaUaVaWaXaTaUaVaWaXaTaUaVaWaXaTaUaVaWaXaTaUaVaWaw
+aaabacadaeafbTbUbVbWacadaeafagahaaaqarasaqarasaqarasaqarasaqarasaqarasaqarasaqarasaqaqarasaqarasaqarasadaeafagahaaabacadaeafagahaaabacadaeafagckclcmbaaxayazaAaBaxayazaAaBaxayazaAbaaxayazaAbaaxayazaAaC
+aaabacadaeafbTbUbVbWacadaeafaoapaaabacadaeafagbXbRbYacadaeafagahaaabacadaeafagbXbRbYacadaeafagahaaabacalamafagahaaabacadaeafagahaaabacadaeafagckclcmbdaDaEaFaGaHaDaEaFaGaHaDaEaFaGbdaDaEaFaGbdaDaEaFaGaw
+aaabacadaeafbTbUbVbWacadaeafaqasaaabacadaeafagbXbRbYacadaeafagahaaabacadaeafagbXbRbYacadaeafagahaaabacaqasafagahaaabacadaeafagahaaabacadaeafagckclcmbgaIaJaKaLaMaIaJaKaLaMaIaJaKaLbgaIaJaKaLbgaIaJaKaLaC
+aaabacadaeafbTbUbVbWacadaeafagahaiajacadaeafagbXbRbYacadaeafagahaaabacadaeafagbXbRbYacadaeafagahaaabacadaeanaoahaaabacadaeafagahaaabacadaeafagckclcmbjaNaSaqarasaqarasaqarasaqarasaqaraqarasaqarasaqaraw
+aaabacadaeafbTbUbVbWacadaeafagahaqasacadaeafagbXbRbYacadaeafagahaaabacadaeafagbXbRbYacadaeafagahaaabacadaeaqasahaaabacadaeafagahaaabacadaeafagckclcmbkaTaUaVaWaXaTaUaVaWaXaTaUaVaWbkaTaUaVaWbkaTaUaVaWaC
+aaatacadaeafbTbUbVbWacadaeafaoapaaabacadaeafagbXbRbYacadaeafagahaaabacadaeafagbXbRbYacadaeafagahaaabacalamafagahaaabacadaeafagahaaabacadaeafagckclcmbaaxayazaAaBaxayazaAaBaxayazaAaBaxayazaAaBaxayazaAaw
+aiajakalaeafbTbUbVbWacadaeafaqasaaabacadaeafagbXbRbYacadaeafagahaaabacadaeafagbXbRbYacadaeafagahaaabacaqasafagahaaabacadaeafagahaaabacadaeafagckclcmaqasaEaFaGaHaDaEaFaGaHaDaEaFaGaHaDaEaFaGaHaDaEaFaGaC
+cnararavaeafbTbUbVbWacadaeafagahaiajacadaeafagbXbRbYacadaeafagahaaabacadaeafagbXbRbYacadaeafagahaaabacadaeanaoahaaabacadaeafagahaaabacadaeafagckclcmbgaIaJaKaLaMaIaJaKaLaMaIaJaKaLaMaIaJaKaLaMaIaJaKaLaw
+cocpcqcraeafbTbUbVbWacadaeafagahaqasacadaeafagbXbRbYacadaeafagahaaabacadaeafagbXbRbYacadaeafagahaaabacadaeaqasahaaabacadaeafagahaaabacadaeafagckclcmbjaNaSaPaQaRaNaSaPaQaRaNaSaPaQaRaNaSaPaQaRaNaSaPaQaC
+aaabacadaeafbTbUbVbWacadaeafaoapaaabacadaeafagbXbRbYacadaeafagahaaabacadaeafagbXbRbYacadaeafagahaaabacalamafagahaaabacadaeafagahaaabacadaeafagckclcmbkaTaUaqarasaqarasaqarasaqarasaqarasaVaWaXaTaUaVaWaw
+csctcucvcwcxcyczcAcBcucvcwcxaqascsctcucvcwcxcCcDcEcFcucvcwcxcCcGcsctcucvcwcxcCcDcEcFcucvcwcxcCcGcsctcuaqascxcCcGcsctcucvcwcxcCcGcsctcucvcwcxcCcHcIcJbaaxayazaAaBaxayazaAaBaxayazaAaBaxayazaAaBaxaycKaAaC
+cLcMcNcOcPcQcRcScTcUcNcOcPcQcVcWcXcYcNcOcPcQcVcZdadbcNcOcPcQcVcWcLcMcNcOcPcQcVcZdadbcNcOcPcQcVcWcLcMcNcOcPdcddcWcLcMcNcOcPcQcVcWcLcMcNcOcPcQcVdedfdgbdaDaEaFaGaHaDaEaFaGaHaDaEaFaGaHaDaEaFaGaHaDaEaFaGaw
+dhdidjdkdldmdndodpdqdjdkdldmdrdsaqasdjdkdldmdrdtdudvdjdkdldmdrdsdhdidjdkdldmdrdtdudvdjdkdldmdrdsdhdidjdkdlaqasdsdhdidjdkdldmdrdsdhdidjdkdldmdrdwdxdybgaIaJaKaLaMaIaJaKaLaMaIaJaKaLaMaIaJaKaLaMaqchciciaC
+dzdAdBdCdDdEdFdGdHdIdBdCdDdEdJdKdzdAdBdCdDdEdJdLdMdNdBdCdDdEdJdKdzdAdBdCdDdEdJdLdMdNdBdCdDdEdJdKdzdAdBdCdDdEdJdKdzdAdBdCdDdEdJdKdzdAdBdCdDdEdJdOdPdQbjaNaSaPaQaRaNaSaPaQaRaNaSaPaQaRaNaSaPaQaRaNaSaPaQaw
+dRdSdTdUdVdWdXdYdZeadTdUdVdWebecdRdSdTdUdVdWebedeeefdTdUdVdWebecdRdSdTdUdVdWebedeeefdTdUdVdWebecdRdSdTdUdVdWebecdRdSdTdUdVdWebecdRdSdTdUdVdWebegeheibkaTaUaVaWaXaTaUaVaWaXaTaUaVaWaXaTaUaVaWaXaTaUaVaWaC
+ejciekejciekejciekejciekejciekejciekejciekejciekejciekejciekejciekejciekejciekejciekejciekejciekejciekejciekejciekejciekejciekejciekejciekejciekejciekejciekejciekejciekejciekejciekejciekejciekejciekej
+elemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawel
+eneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCen
+elemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawel
+eneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCen
+elemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawel
+"}
+
+(1,1,2) = {"
+epepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepep
+epepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepep
+epepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepep
+epepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepep
+epepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepep
+epepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepep
+epepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepep
+epepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepep
+epepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepep
+epepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepep
+epepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepep
+epepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepaqarasaqarasaqarasaqarasaqarasasepepeqeqepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepep
+epepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepaqasepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepep
+epepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepeqeqepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepep
+epepepepepepepepepepepepepepepepepepepepepepepepepepepepepeqeqepepepepepepepepepepepepepepepepepaqasepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepep
+epepepepepepepepepepepepepepepepepepepepepepepepepepepepepaqasepepepepepepepepepepepepepepepepepepepeqeqepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepep
+eqeqeqeqeqeqeqeqeqeqeqeqepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepaqasepepepepepepepepepepepepepepepepepepepepepepepepepeqeqepepepepepepepepepepepepepepepepepepepepep
+auarasaqarasaqarasaqaravepepepepepepepepepepepepepepeqeqepepepepepepepepepepepepepepepepepepepepeqeqepepepepepepepepepepepepepepepepepepepepepepepepepepepaqasepepepepepeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeq
+awaxayazaAaBaxayazaAaBawepepepepepepepepepepepepepepaqasepepepepepepepepepepepepepepepepepepepepaqasepepepepepepepepepepepepepepepepepepepepepepepeqeqepepepepepepepepepaqarasaqarasaqarasaqaraserarasas
+aCaDaEaFaGaHaDaEaFaGaHaCepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepeqeqepepepepepepepepepepepepepepepepepepepepepaqasepepepepepepepepepepepepepepepepepepepepepepepepep
+awaIaJaKaLaMaIaJaKaLaMawepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepaqasepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepep
+aCaNaSaPaQaRaNaSaPaQaRaCeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepep
+awaTaUaVaWaXaTaUaVaWaXaYauarasaqarasaqarasaqarasaqaravepepepepepepepepepepepepepepepepepepepepepepepepepeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqepepepepepepepepepepepepepepepepepepepepepepepepepepepepepep
+aCesararasaBaxayazaAaBaxbbbcaAaBaxayazaAaBaxayazaAaBawepepepepepepepepepepepepepepepepepepepepepepepepepaqarasaqarasaqarasaqarasaqarasaqarasepepepepepepepepepepepepepepepepepepepepepepepepepepepepepep
+awaDaEaFaGaHaDaEaFaGaHaDbebfaGaHaDaEaFaGaHaDaEaFaGaHaCepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepep
+aCaIaJaKaLaMaIaJaKaLaMaIbhbiaLaMaIaJaKaLaMaIaJaKaLaMawepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepeqeqepepepepepepepepepepepepepepepepepepepepepepepepepepepep
+awaNaSaPaQaRaNaSaPaQaRaNaqarasaqarasaqarasaNaSaPaQaRaCeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqepepepepepepepepepepepepepepepepepepepepepepepepaqasepepepepepepepepepepepepepepepepepepepepepepepepepepepep
+aCaTaUaVaWaXaTaUaVaWaXaTblbmaWaXaTaUaVaWaXaTaUaVaWaXaYauarasaqarasaqarasaqarasaqarasaqararavepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepep
+awaxayazaAaBaxayazaAaBaxbbbcaAaBaxayazaAaBaxayazaAaBaxaybnboaBaxayazaAaBaxayazaAaBaxayazbpbqepepepepepepepepepepepepepepepepepepepepepepepepepepeqeqepepepepepepepepepepepepepepepepepepepepepepepepepep
+aCaDaEaFaGaHaDaEaFaGaHaDbebfaGaHaDaEaFaGaHaDaEaFaGaHaDaEbrbsaHaDaEaFaGaHaDaEaFaGaHaDaEaFbtbuepepepepepepepepepepepepepepepepepepepepepepepepepepaqasepepepepepepepepepepepepepepepepepepepepepepepepepep
+awarasaqarasaqarasaLaMaIbhbiaLaMaIaJaKaLaMaIaJaKaLaMaIaJbvbwaMaIaJaKaLaMaIaJaKaLaMaIaJaKbxbyepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepep
+aCaNaSaPaQaRaNaSaPaQaRaNbzbAaQaRaNaSaPaQaRaNaSaPaQaRaNaSbBbCaRaNaSaPaQaRaNaSaPaQaRaNaSaPbDbEepepepepepepepepepepepepepepepepepepepepepepepepepepepepepeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqepepepepepepepepep
+awaTaUaVaWaXaTaUaVaWaXaTblbmaWaXaTaUaVaWaXaTaUaVaWaXaTaUbFbGaXaTaUaVaWaXaTaUaVaWaXaTaUaVbHbIepepepepepepepepepepepepepepepepepepepepepepepepepepepepepaqarasaqarasaqaqarasaqarasaqarasepepepepeqeqepepep
+aCaxayazaAaBaxayazaAaBaxbbbcaAaBaxayazaAaBaxayazaAaBaxaybnboaBaxayazaAaBaxayazaAaBaxayazbpbqepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepaqasepepep
+awaDaEaFaGaHaDaEaFaGaHaDaqarasaqarasaqarasaDaEaFaGaHaDaEbrbsaHaDaEaFaGaHaDaEaFaGaHaDaEaFbtbuepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepeqeqepepepepepep
+aCaIaJaKaLaMaIaJaKaLaMaIbhbiaLaMaIaJaKaLaMaIaJaKaLaMaIaJbvbwaMaIaJaKaLaMaIaJaKaLaMaIaJaKbxbyepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepaqasepepepepepep
+awaNaSaPaQaRaNaSaPaQaRaNbzbAaQaRaNaSaPaQaRaNaSaPaQaRaNaSbBbCaRaNaSaPaQaRaNaSaPaQaRaNaSaPbDbEepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepep
+aCaTaUaVaWaXaTaUaVaWaXaTblbmaWaXaTaUaVaWaXaTaUaVaWaXaTaUbFbGaXaTaUaVaWaXaTaUaVaWaXaTaUaVbHbIepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepeqeqepepepep
+auarasaqarasaqarasaqarasaqarasaqarasaqarasaqarasaqarasaqarasaqarasaqarasaqarasaqarasaqararavepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepaqasepepepep
+eteueueueueueueueueueueueueueueueueueueueueueueueueueueueueueueueueueueueueueueueueueueueuevepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepep
+epepepepepepepeteuevepepepepepepepepepepepepepeteuevepepepepepepepepepepepepepeteuevepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepeqeqepepepepepepep
+epepepepepepepeteuevepepepepepepepepepepepepepeteuevepepepepepepepepepepepepepeteuevepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepaqasepepepepepepep
+epepepepepepepeteuevepepepepepepepepepepepepepeteuevepepepepepepepepepepepepepeteuevepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepep
+epepepepepepepeteuevepepepepepepepepepepepepepeteuevepepepepepepepepepepepepepeteuevepepepepepepepepepepepepepepepepepepepepepepepepepeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqepepepepepepepepepepep
+epepepepepepepeteuevepepepepepepepepepepepepepeteuevepepepepepepepepepepepepepeteuevepepepepepepepepepepepepepepepepepepepepepepepeqeqaqarasaqarasaqarasaqarasaqaqarasaqarasaqarasepepepepepepepepepepep
+epepepepepepepeteuevepepepepepepepepepepepepepeteuevepepepepepepepepepepepepepeteuevepepepepepepepepepepepepepepepepepepepepepepepaqasepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepep
+epepepepepepepeteuevepepepepepepepepepepepepepeteuevepepepepepepepepepepepepepeteuevepepepepepepepepepepepepepepepepepepepepepeqeqepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepep
+epepepepepepepeteuevepepepepepepepepepepepepepeteuevepepepepepepepepepepepepepeteuevepepepepepepepepepepepepepepepepepepepepepaqasepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepep
+epepepepepepepeteuevepepepepepepepepepepepepepeteuevepepepepepeqeqeqeqeqeqeqeqewexeyeqeqeqeqepepepepepepepepepepepepepepepepepepepeqeqepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepep
+epepepepepepepeteuevepepepepepepepepepepepepepeteuevepepepepepaqarasaqarasaqarasaqarasaqarasepepepepepepepepepepepepepepepepepepepaqasepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepep
+epepepepepepepeteuevepepepepepepepepepepepepepeteuevepepepepepepepepepepepepepeteuevepepepepepepepepepepepepepepepepepepepepepeqeqepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepep
+epepepepepepepeteuevepepepepepepepepepepepepepeteueveqeqepepepepepepepepepepepeteuevepepepepepeqeqepepepepepepepepepepepepepepaqasepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepep
+epepepepepepepeteuevepepepepepepepepepepepepepeteuevaqasepepepepepepepepepepepeteuevepepepepepaqasepepepepepepepepepepepepepepepepeqeqepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepep
+epepepepepepepeteuevepepepepepepepepepepepepepeteuevepepepepepepepepepepepepepeteuevepepepeqeqepepepepepepepepepepepepepepepepepepaqasepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepep
+epepepeqeqeqeqewexeyeqeqeqeqeqeqeqeqeqeqeqeqeqeweuevepepepepepepepepepepepepepeteuevepepepaqasepepepepepepepepepepepepepepepepeqeqepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepep
+epepepaqesasaqarasaqarasaqarasaqarasaqarasaqaraseuevepepepepepepepepepepepepepeteuevepepepepepeqeqepepepepepepepepepepepepepepaqasepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepep
+epepepepepepepeteuevepepepepepepepepepepepepepewexevepepepepepepepepepepepepepeteuevepepepepepaqasepepepepepepepepepepepepepepepepepepepepepepepepepepepeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqepepep
+epepepepepepepeteuevepepepepepepepepepepepepepaqasevepepepepepepepepepepepepepeteuevepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepaqarasaqarasaqarasaqesasaqarasaqarasaqarasepepep
+epepepepepepepeteuevepepepepepepepepepepepepepeteueyeqepepepepepepepepepepepepeteuevepepeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepep
+epepepepepepepeteuevepepepepepepepepepepepepepeteuaqasepepepepepepepepepepepepeteuevepepaqarasaqarasaqarasaqarasaqarasaqarasaqarasaqarasepepepepepeqeqepepepepepepepepepepepepepepepepepepepepepepepeqeq
+epepepepepepepeteuevepepepepepepepepepepepepepewexevepepepepepepepepepepepepepeteuevepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepaqasepepepepepepepepepepepepepepepepepepepepepepepaqas
+epepepepepepepeteuevepepepepepepepepepepepepepaqasevepepepepepepepepepepepepepeteuevepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepep
+epepepepepepepeteuevepepepepepepepepepepepepepeteueyeqepepepepepepepepepepepepeteuevepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqepepep
+epepepepepepepeteuevepepepepepepepepepepepepepeteuaqasepepepepepepepepepepepepeteuevepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepaqarasaqarasaqarasaqarasaqarasaqarasaqarasepepep
+epepepepepepepeteuevepepepepepepepepepepepepepeteuevepepepepepepepepepepepepepeteuevepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepep
+epepepepepepepeteuevepepepepepepepepepepepepepeteuevepepepepepepepepepepepepepeteuevepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepeqeqepepepepepepepepepepepepepepepepepepepepepepepeqeq
+epepepepepepepeteuevepepepepepeqeqeqeqeqeqeqeqewexeyeqeqeqeqeqeqeqeqeqepepepepeteuevepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepaqasepepepepepepepepepepepepepepepepepepepepepepepaqas
+epepepepepepepeteuevepepepepepaqarasaqarasaqarasaqaraqarasaqarasaqarasepepepepeteuevepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepep
+epepepepepepepeteuevepepepepepepepepepepepepepeteuevepepepepepepepepepepepeqeqeteuevepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepaqarasaqarasaqarasaqarasaqarasaqarasaqarasepepep
+epepepepepepepeteuevepepepepepepepepepepepepepeteuevepepepepepepepepepepepaqaseteuevepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepep
+epepepepepepepeteuevepepepepepepepepepepepepepeteuevepepepepepepepepepepepepepeteueveqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepep
+epepepepepepepeteuevepepepepepepepepepepepepepeteuevepepepepepepepepepepepepepeteuevaqarasaqarasaqarasaqaraqarasaqarasaqarasepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepep
+epepepepepepepeteuevepepepepepepepepepepepepepeteuevepepepepepepepepepepepepepetexeyepepepepepepepepepepepepepepepepepepepepepepepepepepepepepeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeqeq
+epepepepepepepeteuevepepepepepepepepepepepepepeteuevepepepepepepepepepepepepepetaqasepepepepepepepepepepepepepepepepepepepepepepepepepepepepepauarasaqarasaqarasaqarasaqarasaqarasaqarasaqarasaqarasaqav
+epepepepepepepeteuevepepepepepepepepepepepepepeteuevepepepepepepepepepepepepeqeweuevepepepepepepepepepepepepepepepepepepepepepepepepepepepepepezeAeBeCeDeEeFeGeCeDeEeFeGeCeDeEeFeGeCeDeEeFeGeCeDeEeFeGaw
+epepepepepepepeteuevepepepepepepepepepepepepepeteuevepepepepepepepepepepepepaqaseuevepepepepepepepepepepepepepepepepepepepepepepepepepepepepepezeAeBeHeIeJeKeLeHeIeJeKeLeHeIeJeKeLeHeIeJeKeLeHeIeJeKeLaC
+epepepepepepepeteuevepepepepepepepepepepepepepeteuevepepepepepepepepepepepepepeteuevepepepepepepepepepepepepepepepepepepepepepepepepepepepepepezeAeBeMeNeOePeQeMeNeOePeQeMeNeOePeQeMeNeOePeQeMeNeOePeQaw
+epepepepepepepeteuevepepepepepepepepepepepepepeteuevepepepepepepepepepepepepepeteuevepepepepepepepepepepepepepepepepepepepepepepepepepepepepepezeAeBeReSeTeUeVeReSeTeUeVeReSeTeUeVeReSeTeUeVeReSeTeUeVaC
+epepepepepepepeteuevepepepepepepepeqeqeqeqeqeqewexeyeqeqeqeqeqeqeqeqeqeqeqeqeqewexeyeqeqeqeqeqeqeqeqeqepepepepepepepepepepepepepepepepepepepepezeAeBeWeXeYeZfaeWeXeYeZfaeWeXeYeZfaeWeXeYeZfaeWeXeYeZfaaw
+epepepepepepepeteuevepepepepepepepaqarasaqarasaqarasaqarasaqarasaqarasaqarasaqarasaqaqarasaqarasaqarasepepepepepepepepepepepepepepepepepepepepezeAeBeCeDeEeFeGeCeDeEeFeGeCeDeEeFeGeCeDeEeFeGeCeDeEeFeGaC
+epepepepepepepeteuevepepepepeqeqepepepepepepepeteuevepepepepepepepepepepepepepeteuevepepepepepepepepepeqeqepepepepepepepepepepepepepepepepepepezeAeBeHeIeJeKeLeHeIeJeKeLeHeIeJeKeLeHeIeJeKeLeHeIeJeKeLaw
+epepepepepepepeteuevepepepepaqasepepepepepepepeteuevepepepepepepepepepepepepepeteuevepepepepepepepepepaqasepepepepepepepepepepepepepepepepepepezeAeBeMeNeOePeQeMeNeOePeQeMeNeOePeQeMeNeOePeQeMeNeOePeQaC
+epepepepepepepeteuevepepepepepepeqeqepepepepepeteuevepepepepepepepepepepepepepeteuevepepepepepepepepepepepeqeqepepepepepepepepepepepepepepepepezeAeBeReSeTaqarasaqarasaqarasaqarasaqaraqarasaqarasaqaraw
+epepepepepepepeteuevepepepepepepaqasepepepepepeteuevepepepepepepepepepepepepepeteuevepepepepepepepepepepepaqasepepepepepepepepepepepepepepepepezeAeBeWeXeYeZfaeWeXeYeZfaeWeXeYeZfaeWeXeYeZfaeWeXeYeZfaaC
+epepepepepepepeteuevepepepepeqeqepepepepepepepeteuevepepepepepepepepepepepepepeteuevepepepepepepepepepeqeqepepepepepepepepepepepepepepepepepepezeAeBeCeDeEeFeGeCeDeEeFeGeCeDeEeFeGeCeDeEeFeGeCeDeEeFeGaw
+eqeqeqeqepepepeteuevepepepepaqasepepepepepepepeteuevepepepepepepepepepepepepepeteuevepepepepepepepepepaqasepepepepepepepepepepepepepepepepepepezeAeBaqaseJeKeLeHeIeJeKeLeHeIeJeKeLeHeIeJeKeLeHeIeJeKeLaC
+fbciciavepepepeteuevepepepepepepeqeqepepepepepeteuevepepepepepepepepepepepepepeteuevepepepepepepepepepepepeqeqepepepepepepepepepepepepepepepepezeAeBeMeNeOePeQeMeNeOePeQeMeNeOePeQeMeNeOePeQeMeNeOePeQaw
+ezeAeAeBepepepeteuevepepepepepepaqasepepepepepeteuevepepepepepepepepepepepepepeteuevepepepepepepepepepepepaqasepepepepepepepepepepepepepepepepezeAeBeReSeTeUeVeReSeTeUeVeReSeTeUeVeReSeTeUeVeReSeTeUeVaC
+epfcfdfefffgfhfieufjfdfefffgfkflepfcfdfefffgfhfieufjfdfefffgfhfmepfcfdfefffgfhfieufjfdfefffgfhfmepfcfdfnfofgfhfmepfcfdfefffgfhfmepfcfdfefffgfhezeAeBeWeXeYaqarasaqarasaqarasaqarasaqaraseZfaeWeXeYeZfaaw
+fpfqfrfsftfufvfwfxfyfrfsftfuaqasfpfqfrfsftfufvfwfxfyfrfsftfufvfzfpfqfrfsftfufvfwfxfyfrfsftfufvfzfpfqfraqasfufvfzfpfqfrfsftfufvfzfpfqfrfsftfufvfAfBfCeCeDeEeFeGeCeDeEeFeGeCeDeEeFeGeCeDeEeFeGeCeDeEeFeGaC
+fDfEfFfGfHfIfJfKfLfMfFfGfHfIfJfNfOfPfFfGfHfIfJfKfLfMfFfGfHfIfJfNfDfEfFfGfHfIfJfKfLfMfFfGfHfIfJfNfDfEfFfGfHfQfRfNfDfEfFfGfHfIfJfNfDfEfFfGfHfIfJfSfTfUeHeIeJeKeLeHeIeJeKeLeHeIeJeKeLeHeIeJeKeLeHeIeJeKeLaw
+fVfWfXfYfZgagbgcgdgefXfYfZgagbgfaqasfXfYfZgagbgcgdgefXfYfZgagbgffVfWfXfYfZgagbgcgdgefXfYfZgagbgffVfWfXfYfZaqasgffVfWfXfYfZgagbgffVfWfXfYfZgagbggghgieMeNeOePeQeMeNeOePeQeMeNeOePeQeMeNeOePeQeMaqgjciciaC
+gkglgmgngogpgqgrgsgtgmgngogpgqgugkglgmgngogpgqgrgsgtgmgngogpgqgugkglgmgngogpgqgrgsgtgmgngogpgqgugkglgmgngogpgqgugkglgmgngogpgqgugkglgmgngogpgqgvgwgxeReSeTeUeVeReSeTeUeVeReSeTeUeVeReSeTeUeVeReSeTeUeVaw
+gygzgAgBgCgDgEgFgGgHgAgBgCgDgEgIgygzgAgBgCgDgEgFgGgHgAgBgCgDgEgIgygzgAgBgCgDgEgFgGgHgAgBgCgDgEgIgygzgAgBgCgDgEgIgygzgAgBgCgDgEgIgygzgAgBgCgDgEgJgKgLeWeXeYeZfaeWeXeYeZfaeWeXeYeZfaeWeXeYeZfaeWeXeYeZfaaC
+ejciekejciekejciekejciekejciekejciekejciekejciekejciekejciekejciekejciekejciekejciekejciekejciekejciekejciekejciekejciekejciekejciekejciekejciekejciekejciekejciekejciekejciekejciekejciekejciekejciekej
+elemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawel
+eneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCen
+elemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawel
+eneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCeneoaCen
+elemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawelemawel
+"}

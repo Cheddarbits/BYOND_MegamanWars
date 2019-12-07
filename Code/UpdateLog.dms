@@ -1,0 +1,218 @@
+
+//=============================================================
+// Update Log
+//=============================================================
+// Date Feb. 10, 2009
+// Created by: HolyDoomKnight
+//=============================================================
+Version 5.27
+
+Feb. 10, 2009
+- Commands in say using @ as first character replaced with #
+	as @ seems to crash BYOND 4.0 and later versions users.
+	Example: @who is now #who
+- Updated Model C sprite
+	Now has a rush icon_state
+- Added new move for Model C, RushingStrike() registered under Southeast()
+	Rushing strike- Rushes forward 7 spaces, strikes the enemy for 10 damage.
+	Breaks Guard. Pushes back the user. ( assigned to .southest/PgDn )
+- Increased the number of kills which reduces damage for new players from 100 to 125
+	Changed in Hit(), Sword_Hit(), and Smash_Hit()
+- Added characters King, Tract, Wily and Xeron III multi-tile sprite for implementation
+
+Feb. 13, 2009
+- Changed emergency reboot countdown to 60 from 3000. ( 1 minute )
+- Change Owner Ban to being similar to Regular Ban.
+- Added sleep_offline for testing purpose
+
+Feb. 14, 2009
+- Added a JUST BAN command for debug owners, due to the fact that saves being corrupted
+	are causing a problem with moderation commands.
+
+Feb. 15, 2009
+- Added a command line Mute.
+- Commented fdel out in save function as it's related to corrupting saves
+	Well, to be exact it deleted the save, so that it refreshes for new save file.
+	In theory it sounded good, but as soon as saves became corrupt and preventing
+	the players from logging in.
+- Added error handler if USR, or M is null in Characters(mob/M)
+- Added flag points to Frozen Tundra
+- Modified error handler for USR, or M being NULL in THOLD()
+
+Version 5.28
+
+March. 16, 2009
+- Model C's rushing strike can delete objects instead of a knockback.
+- Changed JustBan( text ) and JustMute( text ) category to Secondary
+- Save system changed, Version 13. Only loads saves after version 13, otherwise the player is given beginner's stats.
+
+April. 7, 2009
+- Removed Flameslash from pager ban list, in-code
+- Added #help that explains how the #commands works and a list of them.
+
+Version 5.29
+
+April. 9, 2009
+- Modified obj/Blasts Bump() for any references to Leviathen that may damage her, noticeable grenades
+	Bug arisen to where Leviathen was being damage in it regardless or not
+	because inside the if statement, all it did was set the current target's guard to itself
+	but, else was defined if the conditions were false, so the damage is done
+	However, it still damaged Leviathen, so it was changed from A.Guard=A.Guard to src.Damage = 0
+	and with this, an if statement was added to make sure the damage is greater than 0 for it to do the damage process
+- Players were able to change teams during Deathmatch, so that was fixed. Apparently, Deathmatch wasn't included into the InvalidMode list
+- Sword_Hit( mob/M, mob/A ) in Battle.dm has been modified for when a melee attacks a guarder
+	Reason: It had bugs where the guarder ( mob/M ) takes the damage, also the range wasn't accurate
+	Fixed and reduced code so range doesn't aslong as you are infront of the guarder.
+	It is somewhat more improved and less bug free and logical.
+- Double_Attack() fixed for when Double faces right to a target that is guarding and facing left
+- Fixed Leviathen's LeviathenTop.dmi as it was missing a shootleft and shootright state
+- Fixed Swordman's movement state for moving left as SwordTop.dmi has a misplaced icon state
+- Added character "King"
+	Takes 1/3 normal damage
+	Moves at no delay
+	Slash // implemented in Slash()
+		Deals 6 damage to a single target directly in front of him
+		Knocks target back 8 tiles
+		9 delay
+	Around // implemented in Smash()
+		Deals 3 damage to all targets adjacent to him
+		Knocks all targets 2 tiles away from him
+		10 delay
+- Modified "Anubis"'s shot delay from 6 to 7
+- Fixed flight as there was an extra step that made any flyer move up one extra space
+	Modified jump() if( src.flight == 1 ) to if( src.flight != 1 )
+
+Version 5.30
+
+April. 11, 2009
+- Added isnull( usr ) into Login(), Enter, THold() and Update()
+- Added !isnull() for projectiles in Battle.dm for Shoot(), and Bump()
+- Added Lock() and Unlock() to saving and loading.
+
+April. 12, 2009
+- Added a missing switch statement to Map_Location( mob/M ) in Event System.dm for Warzone
+	Problem: Red team and blue team didn't spawn at the right spawn point.
+- Added King to specific character disable list.
+- Changed Save to only work at character select screen again.
+- Customs can no longer be copied, modified in Axl_Hit() { Battle.dm }
+
+April. 13, 2009
+- Added Dr. Wily, also fixed Character Disabled as it was missing some elements, notable 59 and 60 as
+	it only processed up to 58.
+
+April. 14, 2009
+- Fixed the leader and runner-up system for Logout() as well as Berserker and Juggernaut mode
+	for not properly designating the new Berserker / Juggernaut after the previous one logs out.
+- Fixed Athena II as she was unable to use her SouthEast() move set.
+
+April. 17, 2009
+- Re-added the bypass for Pager Bans on BYOND 3.5
+
+April. 21, 2009
+- Fixed gravity for flight as GravCheck() was being queued while a character that can go into flight mode
+	then returns to regular mode resulting in increased falling velocity.
+- Fixed a design error in Fefnir's smash code. That extra step for moving north made the height too high.
+- Modified the Smash() to be somewhat in sync with Fefnir's animation.
+- Modified Met's Shield() to be in sync with the guard animation.
+
+April. 25, 2009
+- Added FileRename, FileCopy, FileDirectories, FileCount, and FileRun for Debug Admin in Admin,dm
+
+May. 02, 2009
+- Added FileUpdate(), which allows you to update the game by knowing the right files without having to get hold of the host.
+	Only works on 4.0 or later, as it seems to crash for earlier versions.
+
+May. 03, 2009
+- Added a somewhat new anti-spawn kill system. Attacker takes full damage while the target takes a little. Sword_Hit(), Smash_Hit()
+
+Version 5.31
+
+May. 05, 2009
+- Runtime_error null.density occured for FAXCharge(), RushCharge() and RushCharge1()
+	Added isnull( aturf ) with aturf.density == 1 - if( isnull( aturf ) || aturf.density == 1 ) i = 0
+- Sigme_Double() and Purezero_Slash() have been modified to only move the person in spawn once instead of full amount.
+	Prevents insta-killing players on Twin Towers by launching them into spikes.
+- Upgraded LoginSpamList to include logouts.
+
+May. 06, 2009
+- Fixed Met's Guard as spamming the button makes the met go invisible, well to be exact changes it to an icon_state that's not valid.
+
+Version 5.32
+
+May. 11, 2009
+- Met's Guard reverted to old form, as it seems to be causing problems that I do not want to take the time to fix, even though it's easy.
+	When someone uses Guard() as met and dies before the user's guard variable is set to 1, it carries to there next char when spawned.
+- Re-added Word censor, also added a function to delete runtime_errors in world_delete()
+- Fixed runtime errors for Sigma_Slash() and for the bump for Anubis Walls by adding !isnull( M )
+
+Version 5.33
+
+May. 12, 2009
+- Removed Magma Dragoon's AoE shot.
+
+May. 13, 2009
+- Fixed Athena I's firewave as it did not properly execute.
+- Fixed King's slash to only affect players.
+
+May. 15, 2009
+- Fixed runtime_errors with Logout() for boss battles and fixed boss battle for when the boss logsout.
+	By doing so, I also removed a variable which wasn't even being used properly.
+- Only owner status can see hidden stats.
+
+May. 16, 2009
+- Fixed some runtime errors in Login() for AFK Sweep.
+
+Version 5.34
+
+May. 17, 2009
+- Modified some procs that make use of dense == 1 and dense == 0 to include a switch statement
+- Modified Duo's smash to be more restrictive to the ground instead of jump then smash
+- Removed 4 of Randomness's directional movement loop as well as modified the other 4 to use a switch statement
+
+May. 21, 2009
+- Modified #repick so it cannot be used unless the player is at character select screen now
+- Fixed runtime errors in Shoot()
+- Commented out "Duel Mode" until its finished
+
+Version 5.35
+
+May. 26, 2009
+- Modified Mute so it adds the player to LoginSpamList as some players login spam.
+- Runtime_error with Blizzard Wolfang's shot modified a bit, will know if its fixed later on.
+- Kraft_Slash() modified to be somewhat more efficent
+- Modified Dash() by replacing the if statements with switch statements
+- Modified Vanish() by replacing the if statements with switch statements
+- Modified Shoot() by replacing some if statements with switch statements
+- Modified Hit(), Sword_Hit(), Smash_Hit() and Death() by replacing some if statements and switch statements
+- Modified Logout(), replace if statements with switch statements
+- Modified World_Settings(), not as cluttered for deciding who gets what command
+- Modified Say(), Stat(), replaced if statements with switch
+- Basically, this is a small patch to work on efficieny issues with if - else - if
+
+
+Version 5.36
+
+May. 31, 2009
+- Placement of all Classic Series characters into one file, also used preprocessors to make it easier
+	for things to compile incase that character isn't defined anywhere in the code.
+	Example: #define MEGAMAN, basically MEGAMAN is defined so his character can be processed with the use of
+		#ifdef MEGAMAN: with this it checks to make sure MEGAMAN is defined before compiling a code used for MEGAMAN
+
+		Can't really explain it much to new comers...
+
+		#ifdef MEGAMAN // Aslong as MEGAMAN is defined, this piece of code compiles
+		// It's just to make it easier then commenting out stuff related to MEGAMAN then recommenting it
+		// You just un include the Megaman.dm file, and anything that references to that code file
+		// is skipped over by the compiler
+		mob/proc/Jump()
+		{
+			// Block of code
+
+		}
+		#endif
+- Replaced code that gets a location directly infront of the player with get_step()
+
+June. 01, 2010
+- Made font more readable
+- Decreased memory usage and DMB exectuable size by making const variables defines
+- Rankings go up to 30

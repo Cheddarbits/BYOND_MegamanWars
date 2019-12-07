@@ -1,0 +1,36 @@
+#ifndef INCLUDED_DUO_DM
+#define INCLUDED_DUO_DM
+obj/Characters
+	Duo
+		layer=MOB_LAYER+1
+		base
+			icon='Duo.dmi'
+		Left
+			icon='DuoLeft.dmi'
+			pixel_x=-32
+		Right
+			icon='DuoRight.dmi'
+			pixel_x=32
+		Top
+			icon='DuoTop.dmi'
+			pixel_y=32
+		Top2
+			icon='DuoTop2.dmi'
+			pixel_y=64
+		Top2Left
+			icon='DuoTop2Left.dmi'
+			pixel_y=64
+			pixel_x=-32
+		Top2Right
+			icon='DuoTop2Right.dmi'
+			pixel_y=64
+			pixel_x=32
+		TopLeft
+			icon='DuoTopLeft.dmi'
+			pixel_y=32
+			pixel_x=-32
+		TopRight
+			icon='DuoTopRight.dmi'
+			pixel_y=32
+			pixel_x=32
+#endif

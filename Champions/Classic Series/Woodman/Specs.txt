@@ -1,0 +1,13 @@
+Leaf Throw
+Attack Power: 8
+Speed: Medium
+Type: Projectile
+Cannot be deflected back, and hits barriers and dies.
+
+Guard
+Absorbs projectile attacks, and restores health. 4 HP per absorb
+
+Chest Pound
+Attack Power: 6
+Speed: Medium
+Type: AOE

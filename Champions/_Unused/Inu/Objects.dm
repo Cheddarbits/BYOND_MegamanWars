@@ -1,0 +1,104 @@
+obj
+	EP
+		top
+			icon='EnergybarT.dmi'
+			icon_state="24"
+			New(client/C)
+				screen_loc="3,16"//Make it be right beside the HP bar please. It's designed to latch onto it.
+				C.screen+=src
+		bottom
+			icon='Energybar.dmi'
+			icon_state="24"
+			New(client/C)
+				screen_loc="3,15"//Make it be right beside the HP bar please. It's designed to latch onto it.
+				C.screen+=src
+obj
+	projectile
+		rakuhouha
+			icon='Black Zero/BZeroProjectile.dmi'
+			icon_state="body"
+			top
+				icon_state="top"
+		soulbody
+			icon='UAX/SB.dmi'
+			right
+				icon_state="SBRoverlay"
+				pixel_x=-32
+			left
+				icon_state="SBLoverlay"
+				pixel_x=32
+		plasmashot
+			icon='UAX/UAXProjectile.dmi'
+			center
+				icon_state="Center"
+				New()
+					src.overlays+=/obj/projectile/plasmashot/top
+					src.overlays+=/obj/projectile/plasmashot/bottom
+					src.overlays+=/obj/projectile/plasmashot/left
+					src.overlays+=/obj/projectile/plasmashot/right
+					src.overlays+=/obj/projectile/plasmashot/topright
+					src.overlays+=/obj/projectile/plasmashot/topleft
+					src.overlays+=/obj/projectile/plasmashot/bottomright
+					src.overlays+=/obj/projectile/plasmashot/bottomleft
+			top
+				icon_state="Top"
+				pixel_y=32
+
+			bottom
+				icon_state="Bottom"
+				pixel_y=-32
+			left
+				icon_state="Left"
+				pixel_x=-32
+			right
+				icon_state="Right"
+				pixel_x=32
+			topright
+				icon_state="TopRight"
+				pixel_y=32
+				pixel_x=32
+			topleft
+				icon_state="TopLeft"
+				pixel_y=32
+				pixel_x=-32
+			bottomright
+				icon_state="BottomRight"
+				pixel_y=-32
+				pixel_x=32
+			bottomleft
+				icon_state="BottomLeft"
+				pixel_y=-32
+				pixel_x=-32
+		spore
+			icon='UAX/Projectile Spore.dmi'
+			center
+				icon_state="c"
+				New()
+					src.overlays+=/obj/projectile/spore/left
+					src.overlays+=/obj/projectile/spore/right
+					src.overlays+=/obj/projectile/spore/top
+					src.overlays+=/obj/projectile/spore/bottom
+					var/waittime=6
+					spawn while(src)
+						//var/turf/T = src.loc
+						for(var/mob/M in view(src,1))
+							if(M!=usr&&M.invincible==0//&&M.team!=usr.team)
+								M.HP-=3
+								flick("hit[usr.icon_state]",M)
+						sleep(5)
+						waittime--
+						if(waittime<=0)
+							del(src)
+
+			left
+				icon_state="l"
+				pixel_x=-32
+			right
+				icon_state="r"
+				pixel_x=32
+			top
+				icon_state="t"
+				pixel_y=32
+			bottom
+				icon_state="b"
+				pixel_y=-32
